@@ -1,0 +1,553 @@
+1
+00:00:05,400 --> 00:00:06,960
+Trend is your friend.
+2
+00:00:07,040 --> 00:00:09,400
+Trend jest twoim przyjacielem.
+
+3
+00:00:09,480 --> 00:00:14,680
+Tak brzmi jedna z podstawowych zasad
+wpajanych początkującym inwestorom.
+
+4
+00:00:14,760 --> 00:00:16,320
+I trudno się temu dziwić.
+
+5
+00:00:16,400 --> 00:00:21,040
+Dlatego, że skuteczne inwestowanie w dużej
+mierze polega właśnie na tym, 
+
+6
+00:00:21,120 --> 00:00:25,600
+żeby potrafić zidentyfikować
+trend i wykorzystać jego moc.
+
+7
+00:00:25,680 --> 00:00:28,000
+Gra z trendem przypomina surfing.
+
+8
+00:00:28,080 --> 00:00:30,320
+Najważniejsze jest to, żeby w porę
+
+9
+00:00:30,400 --> 00:00:35,240
+dostrzec tworzącą się falę,
+a później po prostu na niej płynąć
+
+10
+00:00:35,320 --> 00:00:39,560
+i oczywiście zgrabnie z niej
+wyjść, zanim fala się załamie.
+
+11
+00:00:39,640 --> 00:00:44,000
+Trend to pojęcie, które jest absolutną
+podstawą analizy technicznej.
+
+12
+00:00:44,080 --> 00:00:46,960
+Warto wiedzieć, w jaki sposób rozpoznawać
+
+13
+00:00:47,040 --> 00:00:50,880
+trend i w jaki sposób później
+wykorzystywać jego moc.
+
+14
+00:00:50,960 --> 00:00:56,920
+To pozwala nam znaleźć odpowiednie momenty
+wejścia i wyjścia z danej transakcji.
+
+15
+00:00:57,000 --> 00:01:00,520
+Czym więc dokładnie jest ten trend?
+
+16
+00:01:00,600 --> 00:01:03,000
+Trend to nic innego jak kierunek, w którym
+
+17
+00:01:03,080 --> 00:01:07,720
+poruszają się ceny akcji czy też
+jakiegokolwiek innego aktywa.
+
+18
+00:01:07,800 --> 00:01:10,640
+Mówiąc precyzyjniej, trend to kierunek,
+
+19
+00:01:10,720 --> 00:01:16,760
+jaki przyjmują kolejne szczyty i dołki
+na wykresie cen konkretnego aktywa.
+
+20
+00:01:16,840 --> 00:01:19,440
+Gdy widzimy, że ceny danego aktywa na
+
+21
+00:01:19,520 --> 00:01:24,640
+wykresie już od dłuższego czasu
+systematycznie rosną albo wręcz przeciwnie
+
+22
+00:01:24,720 --> 00:01:31,240
+- systematycznie spadają, to możemy mówić,
+że na danym wykresie widać wyraźny trend.
+
+23
+00:01:31,320 --> 00:01:36,200
+Ale są też oczywiście takie wykresy,
+na których żadnego trendu nie widać.
+
+24
+00:01:36,280 --> 00:01:39,600
+Trendy na ogół odzwierciedlają
+długoterminowe zmiany.
+
+25
+00:01:39,680 --> 00:01:41,960
+Najczęściej więc inwestorzy patrzą na
+
+26
+00:01:42,040 --> 00:01:47,120
+takie trendy, które trwają przez
+kilka miesięcy czy nawet kilka lat.
+
+27
+00:01:47,200 --> 00:01:51,800
+Ale oczywiście te osoby, które mają
+krótkoterminowe podejście, często właśnie
+
+28
+00:01:51,880 --> 00:01:56,680
+spekulanci czy traderzy, patrzą
+także na trendy krótkoterminowe.
+
+29
+00:01:56,760 --> 00:02:01,080
+Takie, które mają zaledwie kilka
+dni, a czasem wręcz kilka godzin.
+
+30
+00:02:01,160 --> 00:02:03,920
+Na rynku rozpoznajemy trzy podstawowe
+
+31
+00:02:04,000 --> 00:02:08,200
+rodzaje trendu:
+trend wzrostowy, czyli hossę,
+
+32
+00:02:08,280 --> 00:02:14,320
+trend spadkowy, czyli bessę
+i trend boczny, czyli konsolidację.
+
+33
+00:02:14,400 --> 00:02:17,160
+Zacznijmy od trendu wzrostowego.
+
+34
+00:02:17,240 --> 00:02:22,440
+Trend wzrostowy często nazywany
+jest hossą albo rynkiem byka.
+
+35
+00:02:22,520 --> 00:02:28,680
+Pojawia się on wtedy, kiedy ceny danego
+aktywa czy też szerokiego grona aktywów
+
+36
+00:02:28,760 --> 00:02:34,640
+rosną systematycznie, czyli po
+prostu notują coraz wyższe ceny.
+
+37
+00:02:34,720 --> 00:02:38,000
+W przypadku hossy czy też rynku byka czy
+
+38
+00:02:38,080 --> 00:02:43,040
+trendu wzrostowego możemy zarówno
+mówić o rynku konkretnego aktywa, 
+
+39
+00:02:43,120 --> 00:02:47,280
+czyli np.
+mówimy, że jest hossa na rynku złota, 
+
+40
+00:02:47,360 --> 00:02:51,960
+gdy ceny złota rosną,
+albo hossa, czy też trend wzrostowy na
+
+41
+00:02:52,040 --> 00:02:57,760
+rynkach akcji amerykańskich, gdy rosną
+notowania amerykańskich indeksów akcji.
+
+42
+00:02:57,840 --> 00:03:03,240
+Ale też możemy wspominać o trendzie
+wzrostowym czy też o hossie 
+
+43
+00:03:03,320 --> 00:03:07,240
+W globalnej gospodarce.
+Czasem w różnych artykułach czy
+
+44
+00:03:07,320 --> 00:03:12,520
+opracowaniach w mediach finansowych
+pojawiają się stwierdzenia, że na
+
+45
+00:03:12,600 --> 00:03:18,240
+globalnych rynkach finansowych
+panuje hossa albo panuje rynek byka.
+
+46
+00:03:18,320 --> 00:03:25,240
+Oznacza to wtedy, że większość indeksów
+akcji na świecie notuje coraz wyższe
+
+47
+00:03:25,320 --> 00:03:29,800
+wyniki, czyli systematycznie
+notuje coraz wyższe poziomy.
+
+48
+00:03:29,880 --> 00:03:35,800
+To oznacza, że większość akcji w
+globalnej gospodarce notuje wzrosty.
+
+49
+00:03:35,880 --> 00:03:38,720
+Trendy wzrostowe możemy więc rozpoznawać
+
+50
+00:03:38,800 --> 00:03:41,800
+zarówno w skali makro,
+jak i w skali mikro.
+
+51
+00:03:41,880 --> 00:03:42,600
+Gdy na przykład
+
+52
+00:03:42,680 --> 00:03:47,080
+będziesz analizować wykres jakiejś
+konkretnej spółki, to wtedy możesz np.
+
+53
+00:03:47,160 --> 00:03:51,760
+zobaczyć trend wzrostowy
+na akcjach danej spółki.
+
+54
+00:03:51,840 --> 00:03:57,280
+Zobaczmy jak taki modelowy trend
+wzrostowy wygląda na wykresie.
+
+55
+00:03:57,360 --> 00:04:03,720
+Jak widzisz tutaj widzimy, że kolejne
+dołki i kolejne szczyty notowań właśnie
+
+56
+00:04:03,800 --> 00:04:07,840
+tego indeksu plasują się na
+coraz wyższych poziomach.
+
+57
+00:04:07,920 --> 00:04:11,640
+Na pierwszy rzut oka trend
+wzrostowy wydaje się oczywisty.
+
+58
+00:04:11,720 --> 00:04:16,080
+Niemniej, gdy analizujemy taki wykres od
+strony analizy technicznej,
+
+59
+00:04:16,160 --> 00:04:21,360
+to pierwszym etapem jest
+narysowanie tak zwanej linii trendu.
+
+60
+00:04:21,440 --> 00:04:23,680
+Linia trendu to po prostu linia, 
+
+61
+00:04:23,760 --> 00:04:27,640
+która łączy pewne określone
+punkty danego wykresu.
+
+62
+00:04:27,720 --> 00:04:32,880
+Gdy wyznaczamy linię trendu wzrostowego,
+to bierzemy pod uwagę lokalne dołki.
+
+63
+00:04:32,960 --> 00:04:35,360
+Łączymy jak najwięcej z nich.
+
+64
+00:04:35,440 --> 00:04:38,680
+Im więcej minimów możemy ze sobą połączyć,
+
+65
+00:04:38,760 --> 00:04:43,440
+tym większe znaczenie analityczne
+ma wyznaczona przez nas linia.
+
+66
+00:04:43,520 --> 00:04:46,440
+Ale już przy połączeniu trzech minimów,
+
+67
+00:04:46,520 --> 00:04:52,000
+czyli trzech dołków, mówimy 
+o potwierdzonej linii trendu wzrostowego.
+
+68
+00:04:52,080 --> 00:04:56,960
+Dla większości inwestorów to właśnie trend
+wzrostowy, zwłaszcza na globalnych rynkach
+
+69
+00:04:57,040 --> 00:05:02,080
+akcji, ale też innych aktywów,
+jest najbardziej pożądaną sytuacją.
+
+70
+00:05:02,160 --> 00:05:05,080
+Nie mniej na rynkach
+mamy do czynienia także 
+
+71
+00:05:05,160 --> 00:05:06,920
+z trendami spadkowym.
+
+72
+00:05:07,000 --> 00:05:11,760
+Trend spadkowy to inaczej
+bessa albo rynek niedźwiedzia.
+
+73
+00:05:11,840 --> 00:05:14,000
+Ten trend pojawia się wtedy, gdy mamy do
+
+74
+00:05:14,080 --> 00:05:19,560
+czynienia z długotrwałym, regularnym
+spadkiem notowań jakiegoś konkretnego
+
+75
+00:05:19,640 --> 00:05:24,160
+aktywa albo szerokiej gamy
+aktywów na globalnym rynku.
+
+76
+00:05:24,240 --> 00:05:29,960
+Zazwyczaj bessą nazywa się raczej
+długoterminowe spadki cen,
+
+77
+00:05:30,040 --> 00:05:34,400
+czyli bardziej o trendzie spadkowym
+mówimy w horyzoncie szerokim.
+
+78
+00:05:34,480 --> 00:05:36,520
+Natomiast oczywiście część inwestorów czy
+
+79
+00:05:36,600 --> 00:05:40,960
+trader'ów patrzy również na
+te krótkoterminowe zmiany.
+
+80
+00:05:41,040 --> 00:05:44,080
+W przypadku trendów spadkowych często są
+
+81
+00:05:44,160 --> 00:05:49,880
+one bardziej gwałtowne niż trendy
+wzrostowe, ale to nie zawsze jest reguła.
+
+82
+00:05:49,960 --> 00:05:52,240
+Na wykresie możesz zobaczyć,
+
+83
+00:05:52,320 --> 00:05:56,360
+jak w praktyce wygląda taki
+długotrwały trend spadkowy.
+
+84
+00:05:56,440 --> 00:06:01,720
+Zauważ, że kolejne szczyty i dołki
+znajdują się tutaj na coraz niższych
+
+85
+00:06:01,800 --> 00:06:06,200
+poziomach, podobnie jak to było
+w przypadku trendu wzrostowego.
+
+86
+00:06:06,280 --> 00:06:11,240
+Także dla trendu spadkowego możemy
+wyznaczyć na wykresie linię trendu.
+
+87
+00:06:11,320 --> 00:06:14,880
+Tym razem jednak jej rysowanie
+wygląda nieco inaczej.
+
+88
+00:06:14,960 --> 00:06:18,400
+Próbujemy połączyć lokalne szczyty.
+
+89
+00:06:18,480 --> 00:06:23,640
+Minimum to połączenie dwóch szczytów, 
+a potwierdzona linia trendu spadkowego ma
+
+90
+00:06:23,720 --> 00:06:26,760
+miejsce, gdy łączymy co
+najmniej trzy szczyty.
+
+91
+00:06:26,840 --> 00:06:33,000
+Po hossie i bessie przyszedł czas na
+trzeci rodzaj trendu, czyli trend boczny.
+
+92
+00:06:33,080 --> 00:06:35,760
+Jak sama nazwa wskazuje, trend boczny to
+
+93
+00:06:35,840 --> 00:06:40,840
+sytuacja, w której ceny konkretnego aktywa
+poruszają się w bok, czyli nie mają
+
+94
+00:06:40,920 --> 00:06:44,640
+żadnego wyraźnego kierunku
+w górę, ani też w dół.
+
+95
+00:06:44,720 --> 00:06:47,680
+Wielu inwestorów nazywa trend boczny także
+
+96
+00:06:47,760 --> 00:06:52,880
+konsolidacją, ale w praktyce
+są to nieco odmienne pojęcia.
+
+97
+00:06:52,960 --> 00:06:58,600
+Konsolidacją często nazywamy krótki
+przystanek w trendzie wzrostowym czy też
+
+98
+00:06:58,680 --> 00:07:02,880
+spadkowym, o czym zresztą dowiesz
+się jeszcze w kolejnych lekcjach.
+
+99
+00:07:02,960 --> 00:07:05,400
+Natomiast z trendem bocznym częściej mamy
+
+100
+00:07:05,480 --> 00:07:10,920
+do czynienia, gdy ruch boczny jest
+bardziej długotrwały i trwa np.
+
+101
+00:07:11,000 --> 00:07:14,200
+wiele dni, tygodni czy nawet miesięcy.
+
+102
+00:07:14,280 --> 00:07:18,800
+Warto jednak pamiętać, że
+jest to podział czysto umowny.
+
+103
+00:07:18,880 --> 00:07:23,280
+Zobacz, jak taki trend boczny
+wygląda w praktyce na wykresie.
+
+104
+00:07:23,360 --> 00:07:26,000
+W przypadku trendu bocznego już rzadko
+
+105
+00:07:26,080 --> 00:07:30,920
+mówimy o linii trendu i w zasadzie
+nie rysujemy linii trendu na wykresie.
+
+106
+00:07:31,000 --> 00:07:33,880
+Zamiast tego mówimy o tak zwanym kanale
+
+107
+00:07:33,960 --> 00:07:38,000
+ruchu bocznego, czy też
+kanale trendu bocznego.
+
+108
+00:07:38,080 --> 00:07:41,560
+Na wykresie możemy wtedy
+narysować dwie linie.
+
+109
+00:07:41,640 --> 00:07:46,800
+Pierwsza z nich łączy lokalne szczyty,
+czyli lokalne maksima w trendzie bocznym
+
+110
+00:07:46,880 --> 00:07:50,520
+i jest to tak zwane górne
+ograniczenie kanału.
+
+111
+00:07:50,600 --> 00:07:55,160
+I mamy również linię łączącą
+lokalne dołki, czyli lokalne minima.
+
+112
+00:07:55,240 --> 00:07:58,640
+Jest to dolne ograniczenie kanału.
+
+113
+00:07:58,720 --> 00:08:01,040
+Poznałaś już podstawowe rodzaje trendu
+
+114
+00:08:01,120 --> 00:08:04,960
+trend wzrostowy, trend
+spadkowy i trend boczny.
+
+115
+00:08:05,040 --> 00:08:06,880
+Niemniej, jak się pewnie domyślasz, na
+
+116
+00:08:06,960 --> 00:08:12,520
+rynkach finansowych rzadko wszystko jest
+czarno białe i często trendy te są
+
+117
+00:08:12,600 --> 00:08:18,720
+nieregularne lub są przerywane pewnymi
+tak zwanymi korektami czy konsolidacjami.
+
+118
+00:08:18,800 --> 00:08:20,640
+I o nich będzie w kolejnej lekcji.
+
