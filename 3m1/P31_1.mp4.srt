@@ -1,0 +1,377 @@
+1
+00:00:05,480 --> 00:00:07,960
+Zasady inwestowania są proste.
+
+2
+00:00:08,040 --> 00:00:13,320
+Istnieje wiele formuł i strategii, które
+podpowiadają nam, w jaki sposób dokonywać
+
+3
+00:00:13,400 --> 00:00:16,800
+transakcji, żeby wypracować
+jak największe zyski.
+
+4
+00:00:16,880 --> 00:00:22,320
+Nie wymagają one ani skomplikowanej wiedzy
+matematycznej, ani ogromnych pieniędzy.
+
+5
+00:00:22,400 --> 00:00:28,240
+Wszystko byłoby piękne i wszystko
+byłoby proste, gdyby nie emocje.
+
+6
+00:00:28,320 --> 00:00:30,920
+Rynki finansowe tworzą ludzie.
+
+7
+00:00:31,000 --> 00:00:33,720
+To właśnie oni podejmują decyzje 
+
+8
+00:00:33,800 --> 00:00:38,680
+i te decyzje wpływają na to, jak kształtują
+się ceny wielu instrumentów finansowych.
+
+9
+00:00:38,760 --> 00:00:44,760
+Mimo że nawet teraz mamy dużo algorytmów
+inwestujących na rynku, to także one są
+
+10
+00:00:44,840 --> 00:00:48,600
+tworzone przez ludzi i muszą
+być odpowiednio zarządzane.
+
+11
+00:00:48,680 --> 00:00:51,960
+Rynek finansowy jest rynkiem emocji.
+
+12
+00:00:52,040 --> 00:00:56,920
+Doskonałym dowodem na to, że emocje są
+ważnym elementem rynków finansowych jest
+
+13
+00:00:57,000 --> 00:01:02,040
+chociażby to, że nadal w inwestowaniu
+można znaleźć wiele nieefektywności.
+
+14
+00:01:02,120 --> 00:01:04,280
+Pomyśl chociażby o module, w którym
+
+15
+00:01:04,360 --> 00:01:08,760
+uczyłyśmy się inwestowania w wartość 
+i o tym, że jest wiele spółek
+
+16
+00:01:08,840 --> 00:01:13,000
+niedowartościowanych
+czy też przewartościowanych.
+
+17
+00:01:13,080 --> 00:01:19,320
+Gdyby wszystko było wyceniane czysto
+matematycznie i gdyby w grę na giełdzie
+
+18
+00:01:19,400 --> 00:01:22,880
+nie wchodziły emocje,
+to przecież wszystkie akcje byłyby
+
+19
+00:01:22,960 --> 00:01:26,440
+wyceniane według ich
+wartości fundamentalnej.
+
+20
+00:01:26,520 --> 00:01:31,080
+W bieżącym module opowiem Wam właśnie 
+o fascynującym świecie emocji na rynkach
+
+21
+00:01:31,160 --> 00:01:36,840
+finansowych i oczywiście o tym, jak nad
+tymi emocjami odpowiednio zapanować.
+
+22
+00:01:36,920 --> 00:01:39,400
+Jeżeli zaczęłyście już inwestować na
+
+23
+00:01:39,480 --> 00:01:44,560
+rynku, na giełdzie, to być może
+wpadła Wam w oko ta grafika.
+
+24
+00:01:44,640 --> 00:01:49,760
+Chociaż powstała ona jako żart,
+to bywa ona żartem, ale przez łzy.
+
+25
+00:01:49,840 --> 00:01:51,920
+A wszystko dlatego, że wielu inwestorów
+
+26
+00:01:52,000 --> 00:01:57,160
+przeżywało już kiedyś dokładnie
+te same myśli i te same emocje.
+
+27
+00:01:57,240 --> 00:02:02,040
+Zazwyczaj, gdy mamy do czynienia ze
+wzrostem cen, to przez dłuższy czas wielu
+
+28
+00:02:02,120 --> 00:02:04,760
+inwestorów się waha,
+zanim wejdzie na giełdę.
+
+29
+00:02:04,840 --> 00:02:09,920
+Przy czym kupuje, gdy już te
+ceny są rozpędzone. Kupuje drogo.
+
+30
+00:02:10,000 --> 00:02:12,160
+Później, gdy ceny spadają,
+
+31
+00:02:12,240 --> 00:02:17,440
+często najpierw racjonalizujemy sobie te
+spadki i dopiero po jakimś czasie, gdy
+
+32
+00:02:17,520 --> 00:02:22,480
+ceny są już nisko, zaczynamy je
+racjonalizować i nierzadko wtedy
+
+33
+00:02:22,560 --> 00:02:25,440
+niekorzystnie dla siebie
+dokonujemy sprzedaży.
+
+34
+00:02:25,520 --> 00:02:28,320
+Później, gdy ceny zaczynają odbijać,
+
+35
+00:02:28,400 --> 00:02:33,120
+wielu inwestorów traktuje to z pewnym
+niedowierzaniem i dopiero po jakimś czasie
+
+36
+00:02:33,200 --> 00:02:38,680
+znów wchodzi na rynek, kupując
+po, a jakże, wysokiej cenie.
+
+37
+00:02:38,760 --> 00:02:40,720
+Ten schemat niestety powtarza się bardzo
+
+38
+00:02:40,800 --> 00:02:46,760
+często i dotyczy on zwłaszcza tych
+inwestorów, którzy nie inwestują pasywnie,
+
+39
+00:02:46,840 --> 00:02:52,360
+lecz właśnie poszukują rynkowych okazji,
+czyli chcą inwestować aktywnie 
+
+40
+00:02:52,440 --> 00:02:57,760
+i wyszukiwać jak najlepszej sposobności
+do zarobienia pieniędzy na giełdzie.
+
+41
+00:02:57,840 --> 00:03:02,280
+Ale jak widzicie, właśnie to podejście do
+inwestowania, czyli takie podejście
+
+42
+00:03:02,360 --> 00:03:09,040
+aktywne zamiast podejścia pasywnego bardzo
+często wiąże się z taką huśtawką emocji.
+
+43
+00:03:09,120 --> 00:03:14,960
+Na kolejnej grafice, tej, która właśnie
+się pojawia Wam na ekranie, widzicie już
+
+44
+00:03:15,040 --> 00:03:19,680
+bardziej uproszczony schemat konkretnych
+emocji, które dotyczą inwestorów.
+
+45
+00:03:19,760 --> 00:03:21,680
+Zobaczcie, że na samym początku przy
+
+46
+00:03:21,760 --> 00:03:27,440
+wzrostach towarzyszą nam optymizm,
+podniecenie, gorączka, wręcz entuzjazm,
+
+47
+00:03:27,520 --> 00:03:32,760
+by później, gdy ceny spadają,
+ustąpiły one zaniepokojenia, wyparciu,
+
+48
+00:03:32,840 --> 00:03:38,920
+strachowi, desperacji, a później
+wręcz panice i na końcu kapitulacji.
+
+49
+00:03:39,000 --> 00:03:43,080
+I później, gdy ceny danego aktywa
+zaczynają rosnąć, to na samym starcie
+
+50
+00:03:43,160 --> 00:03:46,040
+czujemy pewne przygnębienie,
+że to nas omija.
+
+51
+00:03:46,120 --> 00:03:48,800
+Później jest zwątpienie,
+czy ten ruch się utrzyma.
+
+52
+00:03:48,880 --> 00:03:53,800
+No i w końcu wracamy do punktu
+zero, czyli do optymizmu.
+
+53
+00:03:53,880 --> 00:03:58,640
+Kwestie emocji na rynkach finansowych to
+temat, który przez bardzo wiele lat był
+
+54
+00:03:58,720 --> 00:04:03,040
+przez inwestorów zaniedbywany
+i to bardzo niesłusznie.
+
+55
+00:04:03,120 --> 00:04:05,960
+Tak naprawdę zarządzanie swoimi emocjami 
+
+56
+00:04:06,040 --> 00:04:10,520
+w przypadku inwestowania jest dużo
+ważniejsze niż umiejętności analityczne.
+
+57
+00:04:10,600 --> 00:04:12,680
+W wielu przypadkach nie musimy mieć
+
+58
+00:04:12,760 --> 00:04:19,000
+skomplikowanej wiedzy matematycznej po
+to, żeby być skutecznymi w inwestowaniu.
+
+59
+00:04:19,080 --> 00:04:22,560
+Natomiast bez odpowiedniego, umiejętnego
+
+60
+00:04:22,640 --> 00:04:28,120
+zarządzania swoimi emocjami będzie nam
+ciężko długofalowo zarabiać na giełdzie.
+
+61
+00:04:28,200 --> 00:04:31,800
+Dominują dwie główne
+emocje: chciwość i strach.
+
+62
+00:04:31,880 --> 00:04:37,280
+Być może, jeżeli zaczęłaś już inwestować,
+towarzyszyły one także Tobie na początku
+
+63
+00:04:37,360 --> 00:04:41,480
+Twojej inwestycyjnej drogi
+albo towarzyszą Ci obecnie.
+
+64
+00:04:41,560 --> 00:04:43,080
+Jest takie powiedzenie na rynku
+
+65
+00:04:43,160 --> 00:04:48,760
+inwestycyjnym, że na rynek wchodzi się
+z chciwości, a wychodzi się ze strachu.
+
+66
+00:04:48,840 --> 00:04:53,400
+I faktycznie bardzo często chciwość
+pojawia się najczęściej tuż przed
+
+67
+00:04:53,480 --> 00:04:57,360
+zawarciem transakcji, przed wejściem 
+w daną inwestycję,
+
+68
+00:04:57,440 --> 00:05:02,720
+bo towarzyszy ona naszym nadziejom na to, 
+że dużo na danej inwestycji zarobimy.
+
+69
+00:05:02,800 --> 00:05:05,240
+Chciwość pojawia się także już tuż
+
+70
+00:05:05,320 --> 00:05:09,520
+później, gdy zaczynamy widzieć z
+naszej inwestycji pierwsze zyski.
+
+71
+00:05:09,600 --> 00:05:13,240
+Wtedy euforia, którą czujemy,
+bywa trudna do okiełznania.
+
+72
+00:05:13,320 --> 00:05:16,120
+Z kolei strach często kontroluje nas przy
+
+73
+00:05:16,200 --> 00:05:19,920
+wychodzeniu z danej
+transakcji, z danej inwestycji.
+
+74
+00:05:20,000 --> 00:05:22,760
+Gdy zarobimy nawet niewiele, to często
+
+75
+00:05:22,840 --> 00:05:28,240
+zbyt szybko zamykamy daną transakcję, bo
+boimy się stracić to, co już zrobiłyśmy.
+
+76
+00:05:28,320 --> 00:05:34,600
+Z kolei gdy stracimy pieniądze, to często
+boimy się zamknąć transakcję, bo tkwimy 
+
+77
+00:05:34,680 --> 00:05:37,720
+w niedowierzaniu, że poszła
+ona nie po naszej myśli.
+
+78
+00:05:37,800 --> 00:05:42,560
+Chciwość i strach to bez wątpienia dwie
+podstawowe emocje, które towarzyszą
+
+79
+00:05:42,640 --> 00:05:48,240
+inwestorom i dlatego w kolejnych lekcjach
+rozbijemy je sobie na czynniki pierwsze.
+
