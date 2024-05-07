@@ -1,0 +1,372 @@
+1
+00:00:03,600 --> 00:00:05,740
+Założyłaś rachunek maklerski.
+
+2
+00:00:05,770 --> 00:00:07,420
+I co dalej?
+
+3
+00:00:07,450 --> 00:00:09,320
+Chociaż oczywiście założenie rachunku
+
+4
+00:00:09,350 --> 00:00:13,580
+maklerskiego to Twój pierwszy
+kluczowy krok jako inwestorki,
+
+5
+00:00:13,610 --> 00:00:18,840
+to najciekawsze zaczyna się dopiero
+później, gdy zaczynasz składać zlecenia
+
+6
+00:00:18,870 --> 00:00:22,080
+i zawierać swoje pierwsze
+transakcje, czyli na przykład
+
+7
+00:00:22,100 --> 00:00:25,540
+kupować i sprzedawać akcje czy też ETF-y.
+
+8
+00:00:25,570 --> 00:00:27,700
+Aby sprawnie poruszać się po giełdzie,
+
+9
+00:00:27,730 --> 00:00:31,060
+potrzebnych jest kilka
+podstawowych umiejętności.
+
+10
+00:00:31,080 --> 00:00:32,200
+Wśród nich na przykład
+
+11
+00:00:32,230 --> 00:00:34,800
+umiejętność czytania arkusza zleceń czy
+
+12
+00:00:34,820 --> 00:00:38,340
+składania zleceń na
+transakcje kupna i sprzedaży.
+
+13
+00:00:38,370 --> 00:00:41,220
+O tym wszystkim będziemy
+się uczyć w tym module.
+
+14
+00:00:41,250 --> 00:00:43,920
+Natomiast w tym momencie opowiem Ci parę
+
+15
+00:00:43,950 --> 00:00:48,220
+słów na temat tego, jak działa w
+ogóle giełda papierów wartościowych.
+
+16
+00:00:48,250 --> 00:00:50,400
+Wbrew pozorom zasada działania giełdy
+
+17
+00:00:50,430 --> 00:00:54,060
+papierów wartościowych
+jest bardzo intuicyjna.
+
+18
+00:00:54,090 --> 00:00:57,100
+To jest po prostu miejsce,
+w którym trwa handel.
+
+19
+00:00:57,130 --> 00:01:00,460
+Spotykają się kupujący i sprzedający.
+
+20
+00:01:00,490 --> 00:01:03,340
+Przypomina ona każde inne miejsce handlu,
+
+21
+00:01:03,370 --> 00:01:07,770
+tylko że w tym przypadku nie chodzi o
+handel ubraniami czy owocami,
+
+22
+00:01:07,800 --> 00:01:14,820
+tylko o handel papierami wartościowymi,
+takimi jak na przykład akcje czy też ETF-y.
+
+23
+00:01:14,850 --> 00:01:18,700
+Warto pamiętać, że akcje
+są zdematerializowane.
+
+24
+00:01:18,730 --> 00:01:23,490
+Oznacza to, że nie występują one
+w papierowej formie jako dokument,
+
+25
+00:01:23,520 --> 00:01:28,290
+chociaż kiedyś przy funkcjonowaniu
+pierwszych giełd właśnie tak było,
+
+26
+00:01:28,320 --> 00:01:33,900
+tylko występują w formie elektronicznej
+jako zapisy na rachunkach maklerskich.
+
+27
+00:01:33,920 --> 00:01:35,880
+Handel na giełdzie papierów wartościowych
+
+28
+00:01:35,910 --> 00:01:39,460
+przebiega jak handel w
+każdym innym miejscu.
+
+29
+00:01:39,490 --> 00:01:42,280
+Po jednej stronie mamy kupujących, 
+
+30
+00:01:42,310 --> 00:01:47,740
+którzy chcą kupić akcje, ETFy, obligacje czy
+inne papiery wartościowe jak najtaniej.
+
+31
+00:01:47,770 --> 00:01:50,140
+Po drugiej stronie stoją sprzedający,
+
+32
+00:01:50,170 --> 00:01:54,570
+którzy chcą sprzedać swoje
+papiery wartościowe jak najdrożej.
+
+33
+00:01:54,600 --> 00:01:58,850
+Obie strony dążą do jak
+najlepszego wyniku dla siebie.
+
+34
+00:01:58,880 --> 00:02:01,420
+Żeby więc doszło do transakcji
+
+35
+00:02:01,450 --> 00:02:06,720
+kupujący i sprzedający muszą znaleźć
+kompromis, czyli taką cenę, która jest
+
+36
+00:02:06,750 --> 00:02:11,420
+akceptowalna zarówno dla jednej,
+jak i dla drugiej strony transakcji.
+
+37
+00:02:11,450 --> 00:02:18,450
+Najniższa cena, którą w danym momencie
+oferują sprzedający, jest zwana ceną Ask.
+
+38
+00:02:18,480 --> 00:02:21,680
+Z kolei najwyższa cena, jaką proponują
+
+39
+00:02:21,710 --> 00:02:25,940
+w danym momencie kupujący,
+to tak zwana cena Bid.
+
+40
+00:02:25,970 --> 00:02:31,360
+W ciągu dnia zawierane są transakcje po
+wielu różnych cenach, zwłaszcza na takich
+
+41
+00:02:31,390 --> 00:02:34,340
+rynkach, które są
+popularne wśród inwestorów.
+
+42
+00:02:34,370 --> 00:02:36,720
+Pierwsza cena, po której jest zawarta
+
+43
+00:02:36,750 --> 00:02:40,860
+w danym dniu transakcja, to
+tak zwana cena otwarcia.
+
+44
+00:02:40,890 --> 00:02:47,060
+Z kolei ostatnia cena transakcyjna w
+danym dniu to tak zwana cena zamknięcia.
+
+45
+00:02:47,090 --> 00:02:53,740
+I pomiędzy tymi dwiema cenami właśnie
+odbywa się handel przez cały dzień.
+
+46
+00:02:53,770 --> 00:02:55,240
+Ustalana jest na przykład
+
+47
+00:02:55,270 --> 00:02:57,880
+w danym dniu cena maksymalna i cena
+
+48
+00:02:57,910 --> 00:03:01,980
+minimalna oraz wszystkie
+ceny, które są pomiędzy.
+
+49
+00:03:02,010 --> 00:03:04,940
+Na jakich giełdach możemy
+zawierać transakcje?
+
+50
+00:03:04,970 --> 00:03:08,580
+My jako inwestorki w Polsce na wielu.
+
+51
+00:03:08,610 --> 00:03:11,400
+Ogólnie na świecie działa bardzo dużo
+
+52
+00:03:11,430 --> 00:03:15,180
+giełd zlokalizowanych w
+różnych krajach świata.
+
+53
+00:03:15,210 --> 00:03:20,610
+Kluczowe globalne giełdy właśnie
+widzicie na mapie na ekranie.
+
+54
+00:03:20,640 --> 00:03:26,140
+W Polsce wśród inwestorów popularna jest
+przede wszystkim nasza rodzima giełda
+
+55
+00:03:26,170 --> 00:03:31,060
+Giełda Papierów Wartościowych
+w Warszawie, w skrócie GPW.
+
+56
+00:03:31,090 --> 00:03:33,840
+Sesja giełdowa, czyli właśnie moment,
+
+57
+00:03:33,870 --> 00:03:38,180
+w którym giełda jest otwarta i
+możemy wtedy zawierać transakcje,
+
+58
+00:03:38,210 --> 00:03:44,610
+w przypadku akcji czy też ETF-ów trwa
+od godziny 09:00 do 17:00.
+
+59
+00:03:44,640 --> 00:03:48,480
+W przypadku niektórych instrumentów
+otwiera się nieco wcześniej, np.
+
+60
+00:03:48,510 --> 00:03:52,740
+przy kontraktach terminowych
+otwiera się o 08:45.
+
+61
+00:03:52,770 --> 00:03:55,320
+Większość globalnych giełd jest otwarta
+
+62
+00:03:55,350 --> 00:04:01,560
+w podobnych godzinach co giełda w Polsce,
+czyli od poranka lokalnego czasu, aż po
+
+63
+00:04:01,590 --> 00:04:05,300
+późne popołudnie czy wczesny
+wieczór lokalnego czasu.
+
+64
+00:04:05,330 --> 00:04:08,180
+W rezultacie handel na globalnych giełdach
+
+65
+00:04:08,210 --> 00:04:12,500
+trwa niemalże nieprzerwanie
+w ciągu roboczego tygodnia.
+
+66
+00:04:12,530 --> 00:04:18,860
+Już w niedzielę wieczorem europejskiego
+czasu otwierają się giełdy azjatyckie.
+
+67
+00:04:18,890 --> 00:04:24,820
+Gdy tamtejsza sesja dobiega końca,
+otwierają się z kolei sesje w Europie,
+
+68
+00:04:24,840 --> 00:04:28,420
+czyli giełdy europejskie
+zaczynają pracować pełną parą.
+
+69
+00:04:28,450 --> 00:04:33,200
+No i w końcu, gdy sesja europejska zbliża
+się do końca, otwierają się giełdy
+
+70
+00:04:33,220 --> 00:04:37,540
+amerykańskie, w tym kluczowe
+giełdy w Stanach Zjednoczonych.
+
+71
+00:04:37,570 --> 00:04:42,580
+Na różnych giełdach mogą być
+notowane różne instrumenty finansowe.
+
+72
+00:04:42,600 --> 00:04:48,940
+Są nawet takie instrumenty, na których
+handel działa praktycznie przez całą dobę.
+
+73
+00:04:48,970 --> 00:04:51,280
+Tak czy inaczej, poszczególne instrumenty
+
+74
+00:04:51,300 --> 00:04:56,380
+mogą być notowane tylko na jednej
+giełdzie albo wręcz na kilku giełdach.
+
+75
+00:04:56,410 --> 00:04:58,800
+Za każdym razem więc, gdy chcemy kupić
+
+76
+00:04:58,830 --> 00:05:02,300
+jakiś konkretny ETF albo
+kupić jakieś konkretne
+
+77
+00:05:02,330 --> 00:05:04,380
+akcje czy obligacje,
+
+78
+00:05:04,410 --> 00:05:08,180
+warto sprawdzić, na których
+giełdach są one notowane.
+
+79
+00:05:08,210 --> 00:05:11,720
+następnie zaś warto sprawdzić, czy my jako
+
+80
+00:05:11,750 --> 00:05:16,680
+inwestorki mamy do nich dostęp z
+poziomu naszego rachunku maklerskiego.
+

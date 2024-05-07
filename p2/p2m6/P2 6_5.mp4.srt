@@ -1,0 +1,245 @@
+1
+00:00:05,320 --> 00:00:10,120
+Jak już wiesz, jednym z podstawowych
+działań, które możemy zrobić analizując
+
+2
+00:00:10,200 --> 00:00:15,040
+wykres danego aktywa, jest
+narysowanie na nim linii trendu.
+
+3
+00:00:15,120 --> 00:00:18,520
+Linię trendu rysujemy 
+w zasadzie z dwóch przyczyn.
+
+4
+00:00:18,600 --> 00:00:23,680
+Po pierwsze, żeby właśnie zidentyfikować
+konkretny trend, bo nie zawsze jest on
+
+5
+00:00:23,760 --> 00:00:30,320
+taki oczywisty, a po drugie żeby wyznaczyć
+poziomy wsparcia i poziomy oporu.
+
+6
+00:00:30,400 --> 00:00:33,080
+Poziom wsparcia, to jak sama nazwa
+
+7
+00:00:33,160 --> 00:00:37,960
+wskazuje, taki poziom, który
+wspiera notowania danego aktywa.
+
+8
+00:00:38,040 --> 00:00:43,880
+To poziom, który powstrzymuje ceny
+danego aktywa przed dalszymi spadkami.
+
+9
+00:00:43,960 --> 00:00:50,360
+Gdy cena danego aktywa na wykresie odbija
+się w górę od poziomu wsparcia, to mówimy,
+
+10
+00:00:50,440 --> 00:00:56,240
+że wsparcie zostało potwierdzone
+albo po prostu wsparcie zadziałało.
+
+11
+00:00:56,320 --> 00:01:02,800
+Natomiast może też być taka sytuacja, 
+w której wsparcie zostanie przełamane w dół.
+
+12
+00:01:02,880 --> 00:01:08,520
+Z kolei poziom oporu to taki poziom, 
+którym, znów jak sama nazwa wskazuje, stanowi
+
+13
+00:01:08,600 --> 00:01:13,560
+pewien opór przed dalszymi
+wzrostami notowań danego aktywa.
+
+14
+00:01:13,640 --> 00:01:15,760
+To jest taki poziom, który powstrzymuje
+
+15
+00:01:15,840 --> 00:01:21,520
+notowania przed dalszymi zyskami i tutaj
+również taki poziom może zostać
+
+16
+00:01:21,600 --> 00:01:27,360
+potwierdzony, gdy cena danego aktywa
+odbije się w dół od poziomu oporu, 
+
+17
+00:01:27,440 --> 00:01:32,720
+jak również może on zostać przełamany.
+Według zasad analizy technicznej
+
+18
+00:01:32,800 --> 00:01:36,040
+poziomy wsparcia i oporu często wskazują
+
+19
+00:01:36,120 --> 00:01:39,440
+na najlepsze miejsca do
+zawierania transakcji.
+
+20
+00:01:39,520 --> 00:01:41,360
+Bardzo często, gdy mamy do czynienia 
+
+21
+00:01:41,440 --> 00:01:45,440
+z ruchem wzrostowym albo ruchem bocznym na
+rynku danego aktywa,
+
+22
+00:01:45,520 --> 00:01:51,200
+to poziomy wsparcia stanowią dobry
+moment na kupno danego aktywa.
+
+23
+00:01:51,280 --> 00:01:57,880
+Natomiast poziomy oporu stanowią dobry
+moment na sprzedaż konkretnego aktywa.
+
+24
+00:01:57,960 --> 00:01:59,600
+Spójrz na ten wykres.
+
+25
+00:01:59,680 --> 00:02:04,880
+Widzisz na nim trend boczny oraz
+zaznaczone dwie główne linie.
+
+26
+00:02:04,960 --> 00:02:07,960
+Górne ograniczenie kanału trendu bocznego
+
+27
+00:02:08,040 --> 00:02:11,120
+i dolne ograniczenie
+kanału trendu bocznego.
+
+28
+00:02:11,200 --> 00:02:17,640
+Przy górnej linii mamy wyznaczonych kilka
+poziomów oporu, czyli takich momentów,
+
+29
+00:02:17,720 --> 00:02:22,720
+które powstrzymywały notowania
+przed dalszymi ruchami w górę.
+
+30
+00:02:22,800 --> 00:02:29,200
+Natomiast przy dolnej linii widzimy kilka
+poziomów wsparcia, czyli takich poziomów,
+
+31
+00:02:29,280 --> 00:02:33,200
+które powstrzymywały notowania
+przed większymi spadkami.
+
+32
+00:02:33,280 --> 00:02:35,880
+Dany inwestor czy inwestorka, którzy chcą
+
+33
+00:02:35,960 --> 00:02:42,120
+wykorzystać w jak największym stopniu
+trend boczny oraz uformowane tutaj poziomy
+
+34
+00:02:42,200 --> 00:02:49,000
+wsparcia i oporu, mogą zastosować prostą
+strategię: kupować dane aktywo przy
+
+35
+00:02:49,080 --> 00:02:54,080
+poziomie wsparcia oraz sprzedawać
+je przy poziomie oporu.
+
+36
+00:02:54,160 --> 00:02:57,160
+Oczywiście, o ile ta zasada często bywa
+
+37
+00:02:57,240 --> 00:03:03,880
+skuteczna, to warto pamiętać, że poziomy
+wsparcia i oporu nie zawsze kształtują się
+
+38
+00:03:03,960 --> 00:03:07,480
+dokładnie przy liniach
+konkretnych trendów.
+
+39
+00:03:07,560 --> 00:03:10,160
+Czasem też zarówno wsparcie, jak i opór,
+
+40
+00:03:10,240 --> 00:03:14,760
+może być przełamane, więc nie
+zawsze ta metoda musi być skuteczna.
+
+41
+00:03:14,840 --> 00:03:20,840
+Na pewno jednak poziomy wsparcia i oporu
+stanowią ważną wskazówkę, jeżeli chcemy
+
+42
+00:03:20,920 --> 00:03:24,480
+dokonywać transakcji 
+w optymalnych momentach.
+
+43
+00:03:24,560 --> 00:03:27,080
+W tej lekcji opowiadam Ci przede wszystkim
+
+44
+00:03:27,160 --> 00:03:32,800
+o wykorzystaniu wsparć i oporów w ruchu
+bocznym czy też w trendzie wzrostowym, 
+
+45
+00:03:32,880 --> 00:03:39,040
+dlatego, że początkującym inwestorom czy
+inwestorkom raczej odradza się trade'owanie
+
+46
+00:03:39,120 --> 00:03:42,760
+czy też spekulowanie
+w trendzie spadkowym.
+
+47
+00:03:42,840 --> 00:03:48,520
+Jest to po prostu dużo trudniejsze,
+bo trendy spadkowe bywają gwałtowne.
+
+48
+00:03:48,600 --> 00:03:53,920
+Natomiast oczywiście jest to także możliwe!
+W takim przypadku, gdy chcemy grać na
+
+49
+00:03:54,000 --> 00:03:59,560
+spadek cen danego aktywa,
+możemy zastosować poziomy oporu jako
+
+50
+00:03:59,640 --> 00:04:05,800
+miejsca, w których wchodzimy w transakcję,
+otwieramy transakcję oraz poziomy wsparcia
+
+51
+00:04:05,880 --> 00:04:09,120
+jako momenty, w których
+wychodzimy z tej transakcji.
+

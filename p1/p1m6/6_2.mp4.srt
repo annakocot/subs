@@ -1,0 +1,331 @@
+1
+00:00:03,960 --> 00:00:06,840
+Istnieje wiele różnych źródeł informacji
+
+2
+00:00:06,870 --> 00:00:12,060
+o spółkach notowanych na giełdzie czy
+o ETF-ach, w które możemy zainwestować.
+
+3
+00:00:12,090 --> 00:00:17,440
+Jednak większość początkujących inwestorów
+i inwestorek rozpoczyna swoją przygodę 
+
+4
+00:00:17,470 --> 00:00:21,060
+z poszukiwaniem informacji
+od zerknięcia do Internetu.
+
+5
+00:00:21,080 --> 00:00:23,640
+To właśnie tam znajdujemy podstawowe
+
+6
+00:00:23,670 --> 00:00:30,040
+informacje o danej spółce czy o konkretnym
+ETF-ie i jesteśmy w stanie też na szybko
+
+7
+00:00:30,070 --> 00:00:35,020
+dowiedzieć się, co w danym dniu podczas
+danej sesji wydarzyło się w danej spółce
+
+8
+00:00:35,050 --> 00:00:37,620
+czy też na konkretnym
+rynku, który śledzimy.
+
+9
+00:00:37,640 --> 00:00:40,200
+Warto pamiętać, że notowania na przykład
+
+10
+00:00:40,230 --> 00:00:44,680
+spółek giełdowych, na które patrzymy na
+stronach internetowych, najczęściej są
+
+11
+00:00:44,710 --> 00:00:49,420
+opóźnione w stosunku do tego,
+jak przebiega sesja giełdowa.
+
+12
+00:00:49,450 --> 00:00:55,640
+Niemniej możemy patrzeć też na wyniki
+danej sesji już po jej zamknięciu i wtedy
+
+13
+00:00:55,670 --> 00:00:57,980
+tak naprawdę nie ma to
+większego znaczenia.
+
+14
+00:00:58,010 --> 00:01:00,600
+A nawet jeśli patrzymy na nie w czasie
+
+15
+00:01:00,630 --> 00:01:06,000
+trwania sesji, to i tak potrafią one
+podpowiedzieć nam wiele o tym, 
+
+16
+00:01:06,030 --> 00:01:11,540
+jak przebiega dzień na akcjach danej spółki
+czy też na notowaniach danego aktywa.
+
+17
+00:01:11,570 --> 00:01:13,600
+Na grafice, którą właśnie widzicie na
+
+18
+00:01:13,630 --> 00:01:17,240
+ekranie zamieszczam zrzut
+ekranu ze strony bankier.pl
+
+19
+00:01:17,270 --> 00:01:19,560
+czyli jednej z najpopularniejszych
+
+20
+00:01:19,590 --> 00:01:22,780
+stron z notowaniami
+i informacjami o spółkach.
+
+21
+00:01:22,810 --> 00:01:26,020
+Oto karta dotycząca spółki CD Projekt,
+
+22
+00:01:26,050 --> 00:01:30,060
+cieszącej się dużym
+zainteresowaniem inwestorów od lat.
+
+23
+00:01:30,090 --> 00:01:35,380
+Zrzut został wykonany wieczorem, czyli
+już po zakończeniu sesji giełdowej.
+
+24
+00:01:35,410 --> 00:01:37,900
+Co możemy wyczytać z tego zrzutu ekranu?
+
+25
+00:01:37,930 --> 00:01:39,460
+Bardzo wiele.
+
+26
+00:01:39,490 --> 00:01:45,340
+U góry, po lewej stronie widzimy nazwę
+spółki oraz jej skrót, tak zwany ticker,
+
+27
+00:01:45,370 --> 00:01:49,720
+czyli litery CDR,
+który również jest często używany 
+
+28
+00:01:49,750 --> 00:01:53,180
+w mediach oraz w materiałach
+dotyczących spółki.
+
+29
+00:01:53,210 --> 00:01:59,700
+Z kolei u góry po prawej stronie widzimy
+cenę zamknięcia, w tym przypadku z dnia 22.02.2024
+
+30
+00:01:59,730 --> 00:02:05,980
+oraz zmianę ceny
+akcji spółki w danym dniu.
+
+31
+00:02:06,010 --> 00:02:08,720
+W naszym przypadku ostatnia cena,
+
+32
+00:02:08,750 --> 00:02:15,450
+po której zawarto transakcje na akcjach tej
+spółki wynosiła 115,45 PLN.
+
+33
+00:02:15,480 --> 00:02:20,920
+Była ona o 1,95 złotego wyższa niż
+
+34
+00:02:20,950 --> 00:02:27,540
+ostatnia cena sesji w dniu 21 lutego,
+czyli wcześniejszej sesji giełdowej.
+
+35
+00:02:27,570 --> 00:02:32,540
+To oznacza wzrost ceny o 1,72%.
+
+36
+00:02:32,570 --> 00:02:37,580
+Nieco niżej widzimy ciąg liczb, który
+zawiera więcej szczegółowych informacji.
+
+37
+00:02:37,610 --> 00:02:40,560
+Kurs odniesienia to cena zamknięcia 
+
+38
+00:02:40,590 --> 00:02:48,220
+z wcześniejszej sesji, czyli właśnie ze
+wspomnianej sesji z 21 lutego 2024 roku.
+
+39
+00:02:48,250 --> 00:02:51,840
+Kurs otwarcia to cena, po której zawarto
+
+40
+00:02:51,870 --> 00:02:57,000
+pierwszą transakcję w
+dniu 22 lutego, 
+
+41
+00:02:57,030 --> 00:02:59,120
+zaś max. 1D oraz min.1D
+
+42
+00:02:59,150 --> 00:03:04,400
+to ceny maksymalna i
+minimalna z tego dnia.
+
+43
+00:03:04,600 --> 00:03:08,980
+Wolumen obrotu to liczba akcji, które
+zmieniły właściciela danego dnia.
+
+44
+00:03:09,010 --> 00:03:12,240
+Czyli wiemy, że ponad 260 tys.
+
+45
+00:03:12,270 --> 00:03:15,340
+akcji zostało kupionych lub sprzedanych
+
+46
+00:03:15,370 --> 00:03:18,860
+W trakcie tej jednej sesji giełdowej.
+
+47
+00:03:18,890 --> 00:03:22,240
+Wartość obrotu to suma wartości wszystkich
+
+48
+00:03:22,270 --> 00:03:27,700
+transakcji, a tuż poniżej widzimy
+liczbę transakcji danego dnia.
+
+49
+00:03:27,730 --> 00:03:31,940
+W naszym przypadku jest to 4315.
+
+50
+00:03:31,970 --> 00:03:37,860
+Jeszcze niżej widzimy stopę zwrotu,
+czyli zysk albo stratę z ostatniego roku.
+
+51
+00:03:37,890 --> 00:03:41,820
+W tym przypadku jest to
+strata 12,5 %, 
+
+52
+00:03:41,850 --> 00:03:46,700
+jak również widzimy tutaj cenę
+maksymalną i minimalną z ostatniego roku.
+
+53
+00:03:46,730 --> 00:03:50,180
+I w końcu niżej podany
+jest system notowań.
+
+54
+00:03:50,210 --> 00:03:52,720
+Słowo ciągłe oznacza, że akcjami tej
+
+55
+00:03:52,750 --> 00:03:59,060
+spółki można handlować nieprzerwanie
+od godziny 09:00 do 17:00.
+
+56
+00:03:59,090 --> 00:04:01,500
+Zdarzają się spółki, aczkolwiek rzadko,
+
+57
+00:04:01,530 --> 00:04:05,780
+dla których ustalane są tylko
+dwie ceny: jedna rano i wieczorem.
+
+58
+00:04:05,810 --> 00:04:07,920
+Jest to wtedy tak zwany system notowań
+
+59
+00:04:07,950 --> 00:04:12,180
+jednolitych albo tak
+zwany podwójny fixing.
+
+60
+00:04:12,210 --> 00:04:14,300
+Ale wracając do spółki CD Projekt:
+
+61
+00:04:14,330 --> 00:04:17,880
+słowo ciągłe oznacza, że nieprzerwanie od
+
+62
+00:04:17,910 --> 00:04:23,220
+9:00 do 17:00 można kupować lub
+sprzedawać akcje tej spółki.
+
+63
+00:04:23,250 --> 00:04:25,680
+Dodatkowo po lewej stronie mamy do
+
+64
+00:04:25,710 --> 00:04:30,980
+czynienia z wykresem danej spółki, w
+naszym przykładzie spółki CD Projekt.
+
+65
+00:04:31,010 --> 00:04:33,960
+W zasadzie dla każdej spółki można
+
+66
+00:04:33,980 --> 00:04:40,660
+prześledzić podstawowy wykres cen dla
+ostatnich dni, miesięcy czy też lat.
+
+67
+00:04:40,690 --> 00:04:43,600
+Dane dostępne na stronach internetowych to
+
+68
+00:04:43,630 --> 00:04:47,060
+ważna pomoc dla każdego
+inwestora i inwestorki.
+
+69
+00:04:47,090 --> 00:04:51,300
+Niemniej warto pamiętać o tym, że są to
+jednak dane okrojone
+
+70
+00:04:51,330 --> 00:04:56,960
+i żeby dowiedzieć się jak faktycznie
+wygląda szczegółowa sytuacja na przykład
+
+71
+00:04:56,980 --> 00:05:03,020
+na akcjach danej spółki, warto mieć
+wgląd do tak zwanego arkusza zleceń.
+
+72
+00:05:03,040 --> 00:05:05,400
+I o nim dowiemy się w kolejnej lekcji.
+

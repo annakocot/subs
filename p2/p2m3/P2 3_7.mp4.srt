@@ -1,0 +1,794 @@
+1
+00:00:05,120 --> 00:00:06,960
+W przypadku inwestowania w spółki
+
+2
+00:00:07,040 --> 00:00:10,560
+dywidendowe i ETF-y oparte
+o spółki dywidendowe,
+
+3
+00:00:10,640 --> 00:00:15,040
+rozliczenie podatkowe może być albo
+bajecznie proste, albo bardzo
+
+4
+00:00:15,120 --> 00:00:20,160
+skomplikowane w zależności od tego,
+jaką formę inwestowania wybierzemy.
+
+5
+00:00:20,240 --> 00:00:22,800
+W tej lekcji dowiesz się więc jakie masz
+
+6
+00:00:22,880 --> 00:00:28,800
+możliwości i jak wybrać taką formę
+inwestowania, która będzie później
+
+7
+00:00:28,880 --> 00:00:32,240
+najwygodniejsza pod kątem
+podatkowego rozliczenia.
+
+8
+00:00:32,320 --> 00:00:36,880
+Zanim jednak opowiem Ci o tych wszystkich
+scenariuszach, bardzo ważna uwaga.
+
+9
+00:00:36,960 --> 00:00:41,720
+Ta lekcja jest skierowana przede wszystkim
+do tych z Was, które mieszkają i płacą
+
+10
+00:00:41,800 --> 00:00:46,080
+podatki w Polsce, czyli są
+polskimi rezydentami podatkowymi.
+
+11
+00:00:46,160 --> 00:00:48,720
+Jeśli mieszkasz i rozliczasz się podatkowo
+
+12
+00:00:48,800 --> 00:00:53,520
+w innym kraju, sprawdź jak sytuacja
+podatkowa wygląda u Ciebie.
+
+13
+00:00:53,600 --> 00:00:57,760
+Możesz doradzić się brokera czy
+też Twojego doradcy finansowego.
+
+14
+00:00:57,840 --> 00:01:00,160
+Warto sprawdzić, ile w przypadku kraju
+
+15
+00:01:00,240 --> 00:01:04,680
+Waszej rezydentury wynosi stopa
+podatku od zysków kapitałowych tzw.
+
+16
+00:01:04,760 --> 00:01:09,720
+capital gains tax oraz stopa
+podatku od odsetek i dywidend.
+
+17
+00:01:09,800 --> 00:01:12,240
+Aby było Wam prościej, w załączonym do tej
+
+18
+00:01:12,320 --> 00:01:16,880
+lekcji pliku znajdziecie stopy
+podatku dla wybranych krajów.
+
+19
+00:01:16,960 --> 00:01:22,560
+W momencie gdy nagrywam dla Was tę lekcję,
+w Polsce obowiązują: podatek od zysków
+
+20
+00:01:22,640 --> 00:01:27,280
+kapitałowych oraz podatek
+ryczałtowy od odsetek i dywidend.
+
+21
+00:01:27,360 --> 00:01:33,200
+W skrócie bardzo często oba te podatki
+są łącznie nazywane podatkiem Belki.
+
+22
+00:01:33,280 --> 00:01:37,440
+Wynosi on 19%, co oznacza, że np.
+
+23
+00:01:37,520 --> 00:01:43,240
+jeżeli dana spółka wypłaca dywidendę w
+wysokości jednego złotego,
+
+24
+00:01:43,320 --> 00:01:52,360
+to wtedy podatek wynosi 19 groszy, a Ty
+ostatecznie netto otrzymujesz 81 groszy,
+
+25
+00:01:52,440 --> 00:01:54,640
+już po odcięciu tego podatku.
+
+26
+00:01:54,720 --> 00:01:58,840
+Ale w przypadku rozliczenia dywidend
+nie wszystko jest takie proste.
+
+27
+00:01:58,920 --> 00:02:01,800
+Wiele zależy od tego, w jakim kraju
+
+28
+00:02:01,880 --> 00:02:05,360
+zarejestrowana jest spółka,
+która wypłaca dywidendę.
+
+29
+00:02:05,440 --> 00:02:08,880
+Opowiem Ci tutaj o kilku
+możliwych scenariuszach.
+
+30
+00:02:08,960 --> 00:02:14,600
+Najprostsza sytuacja występuje wtedy, gdy
+posiadasz akcje polskich spółek notowanych
+
+31
+00:02:14,680 --> 00:02:17,040
+na Giełdzie Papierów
+Wartościowych w Warszawie.
+
+32
+00:02:17,120 --> 00:02:23,000
+Gdy dostajesz dywidendę, to wtedy
+automatycznie podatek jest odcinany już
+
+33
+00:02:23,080 --> 00:02:28,640
+przez Twojego brokera, a na Twój rachunek
+maklerski trafia kwota dywidendy netto.
+
+34
+00:02:28,720 --> 00:02:31,280
+Na przykład, jeżeli spółka wypłaca
+
+35
+00:02:31,360 --> 00:02:39,000
+dywidendę wynoszącą 1 złotych, to Ty na
+swój rachunek maklerski otrzymujesz już
+
+36
+00:02:39,080 --> 00:02:42,640
+81 groszy, czyli kwotę
+pomniejszoną o podatek.
+
+37
+00:02:42,720 --> 00:02:48,760
+I nie musisz już w ogóle dodatkowo
+dokonywać żadnych rozliczeń podatkowych.
+
+38
+00:02:48,840 --> 00:02:53,360
+Sytuacja druga: dywidendy
+z zagranicznych spółek.
+
+39
+00:02:53,440 --> 00:02:55,840
+Tu zaczyna się już robić ciekawie, albo
+
+40
+00:02:55,920 --> 00:03:02,680
+nieciekawie, dlatego, że w wielu krajach
+podatek od dywidendy także jest odcinany
+
+41
+00:03:02,760 --> 00:03:07,120
+automatycznie tuż po wypłacie
+dywidendy przez odpowiedniego brokera.
+
+42
+00:03:07,200 --> 00:03:12,600
+Jest to tak zwany podatek u źródła,
+czyli tak zwany withholding tax.
+
+43
+00:03:12,680 --> 00:03:16,800
+Czy więc dodatkowo musisz jeszcze
+zapłacić podatek w Polsce?
+
+44
+00:03:16,880 --> 00:03:18,240
+To zależy.
+
+45
+00:03:18,320 --> 00:03:21,800
+W przypadku wielu krajów mamy podpisane
+
+46
+00:03:21,880 --> 00:03:25,200
+umowy dotyczące braku
+podwójnego opodatkowania.
+
+47
+00:03:25,280 --> 00:03:31,120
+W rezultacie nie powinnaś zapłacić więcej
+podatku niż ten, który obowiązuje 
+
+48
+00:03:31,200 --> 00:03:38,120
+w Polsce, czyli łącznie nie powinnaś
+zapłacić więcej niż 19% podatku.
+
+49
+00:03:38,200 --> 00:03:40,720
+Ale tutaj występują pewne niuanse.
+
+50
+00:03:40,800 --> 00:03:42,240
+Przykład pierwszy:
+
+51
+00:03:42,320 --> 00:03:48,080
+jeśli w kraju rejestracji spółki podatek
+od dywidendy jest niższy niż ten, który
+
+52
+00:03:48,160 --> 00:03:54,360
+obowiązuje w Polsce, to musisz polskiemu
+urzędowi skarbowemu zapłacić różnicę.
+
+53
+00:03:54,440 --> 00:03:55,520
+Czyli na przykład, 
+
+54
+00:03:55,600 --> 00:03:57,680
+jeżeli w kraju rejestracji spółki podatek
+
+55
+00:03:57,760 --> 00:04:05,960
+wynosi 15%, to wtedy w związku z tym, że w
+Polsce podatek od dywidend to 19%, te
+
+56
+00:04:06,040 --> 00:04:11,960
+dodatkowe 4% musisz dopłacić
+już polskiemu fiskusowi.
+
+57
+00:04:12,040 --> 00:04:13,320
+Przykład 2:
+
+58
+00:04:13,400 --> 00:04:16,200
+jeśli w kraju rejestracji spółki podatek
+
+59
+00:04:16,280 --> 00:04:21,520
+od dywidend jest wyższy niż podatek od
+dywidend w Polsce, to wtedy oczywiście już
+
+60
+00:04:21,600 --> 00:04:24,960
+polskiemu urzędowi skarbowemu
+nie musisz dopłacać nic.
+
+61
+00:04:25,040 --> 00:04:30,120
+Warto jednak wtedy zorientować się, czy
+nie masz możliwości zapłacenia niższej
+
+62
+00:04:30,200 --> 00:04:35,360
+stawki podatku, czyli takiej, która
+obowiązuje w kraju rejestracji spółki.
+
+63
+00:04:35,440 --> 00:04:40,280
+Czasem możesz złożyć odpowiedni
+formularz, ale zawsze musisz,
+
+64
+00:04:40,360 --> 00:04:45,160
+w zależności od tego, jaki jest kraj
+rejestracji spółki i jaki jest Twój kraj
+
+65
+00:04:45,240 --> 00:04:50,160
+rezydentury, zobaczyć, czy złożenie
+takiego formularza w ogóle jest możliwe.
+
+66
+00:04:50,240 --> 00:04:55,160
+Przykład trzeci: stopy podatku mogą
+być różne w zależności od sytuacji.
+
+67
+00:04:55,240 --> 00:04:58,480
+Tutaj dobrym przykładem
+są spółki amerykańskie.
+
+68
+00:04:58,560 --> 00:05:03,560
+W Stanach Zjednoczonych podatek od
+dywidend wynosi 15% i zazwyczaj właśnie
+
+69
+00:05:03,640 --> 00:05:06,840
+taki podatek jest
+odcinany na samym starcie.
+
+70
+00:05:06,920 --> 00:05:08,960
+Ale jeżeli tamtejsze instytucje nie
+
+71
+00:05:09,040 --> 00:05:14,440
+wiedzą, skąd pochodzi ich klient, czyli
+inwestor, któremu wypłacana jest dana
+
+72
+00:05:14,520 --> 00:05:22,240
+dywidenda, to z automatu odcinają
+więcej podatku, w tym przypadku 30%.
+
+73
+00:05:22,320 --> 00:05:27,320
+Żeby zapłacić niższy podatek
+należy wtedy wypełnić tzw.
+
+74
+00:05:27,400 --> 00:05:32,480
+formularz W-8BEN, który
+udostępnia wielu brokerów.
+
+75
+00:05:32,560 --> 00:05:34,280
+Jeżeli chcesz więc zapłacić niższy
+
+76
+00:05:34,360 --> 00:05:40,240
+podatek, koniecznie spytaj Twojego
+brokera, czy możesz wypełnić formularz,
+
+77
+00:05:40,320 --> 00:05:43,200
+Oczywiście, jeżeli chcesz inwestować
+
+78
+00:05:43,280 --> 00:05:46,920
+w akcje spółek amerykańskich,
+które wypłacają dywidendy.
+
+79
+00:05:47,000 --> 00:05:49,200
+I tutaj mam niestety złą wiadomość.
+
+80
+00:05:49,280 --> 00:05:53,880
+Większość polskich brokerów, przynajmniej
+w momencie nagrywania dla Was tej lekcji
+
+81
+00:05:53,960 --> 00:05:57,800
+nie udostępnia możliwości
+wypełnienia takiego formularza.
+
+82
+00:05:57,880 --> 00:06:00,080
+I właśnie dlatego inwestowanie w spółki
+
+83
+00:06:00,160 --> 00:06:06,360
+amerykańskie zazwyczaj wiąże się dla nas
+z większymi obciążeniami podatkowymi.
+
+84
+00:06:06,440 --> 00:06:09,120
+Ale to nie wszystko, bo przecież wiele
+
+85
+00:06:09,200 --> 00:06:14,440
+osób zamiast inwestowania w akcje
+pojedynczych spółek dywidendowych wybiera
+
+86
+00:06:14,520 --> 00:06:18,360
+inwestowanie w fundusze ETF
+oparte o spółki dywidendowe.
+
+87
+00:06:18,440 --> 00:06:24,840
+Jak sama już wiesz, również inwestując w
+ten sposób masz prawo otrzymywać dywidendy
+
+88
+00:06:24,920 --> 00:06:28,560
+ze spółek, które wchodzą
+w skład danego funduszu.
+
+89
+00:06:28,640 --> 00:06:34,000
+I tutaj rozliczenie może być bardzo
+proste albo bardzo skomplikowane.
+
+90
+00:06:34,080 --> 00:06:37,240
+Opowiem Ci pokrótce jak to działa, ale nie
+
+91
+00:06:37,320 --> 00:06:42,480
+przejmuj się, jeżeli te kwestie związane
+z rozliczeniem podatkowym wydadzą Ci się
+
+92
+00:06:42,560 --> 00:06:46,480
+zbyt trudne do przeskoczenia
+albo zbyt skomplikowane.
+
+93
+00:06:46,560 --> 00:06:51,040
+Później opowiem Ci, jaki sposób
+inwestowania w akcje spółek dywidendowych
+
+94
+00:06:51,120 --> 00:06:54,800
+wybrać, żeby maksymalnie
+ułatwić sobie życie.
+
+95
+00:06:54,880 --> 00:06:57,320
+Zobaczmy więc, jak wygląda sytuacja
+
+96
+00:06:57,400 --> 00:07:02,320
+trzecia, czyli dywidendy
+otrzymywane w ramach inwestycji w ETF.
+
+97
+00:07:02,400 --> 00:07:04,960
+W przypadku inwestowania w ETF-y oparte
+
+98
+00:07:05,040 --> 00:07:10,080
+o spółki dywidendowe mamy tak
+naprawdę aż trzy poziomy podatku.
+
+99
+00:07:10,160 --> 00:07:11,600
+Poziom pierwszy jest wtedy, 
+
+100
+00:07:11,680 --> 00:07:18,440
+gdy dana spółka z konkretnego
+kraju wypłaca dywidendę, i w tym kraju,
+
+101
+00:07:18,520 --> 00:07:22,920
+w którym jest zarejestrowana,
+odcina ten podatek.
+
+102
+00:07:23,000 --> 00:07:25,200
+To jest ten tak zwany podatek u źródła,
+
+103
+00:07:25,280 --> 00:07:28,560
+czyli withholding tax, o
+którym już Ci wspominałam.
+
+104
+00:07:28,640 --> 00:07:31,120
+Później pojawia się poziom drugi,
+
+105
+00:07:31,200 --> 00:07:37,560
+no bo przecież fundusz ETF także otrzymuje
+te dywidendy ze spółek,
+
+106
+00:07:37,640 --> 00:07:43,640
+zbiorczo układa je w jedną dywidendę,
+którą później wypłaca swoim inwestorom 
+
+107
+00:07:43,720 --> 00:07:49,560
+i również musi odciąć podatek w kraju, 
+w którym dany fundusz jest zarejestrowany.
+
+108
+00:07:49,640 --> 00:07:51,600
+Więc to jest ten drugi poziom podatku.
+
+109
+00:07:51,680 --> 00:07:52,960
+No i w końcu następuje
+
+110
+00:07:53,040 --> 00:07:58,040
+trzeci poziom podatku, czyli taki,
+w którym konkretny inwestor czy inwestorka
+
+111
+00:07:58,120 --> 00:08:02,560
+rozlicza się z urzędem skarbowym 
+w kraju swojej rezydentury podatkowej.
+
+112
+00:08:02,640 --> 00:08:05,680
+Tutaj oczywiście należy zastosować reguły
+
+113
+00:08:05,760 --> 00:08:11,240
+podatkowe, które dotyczą konkretnego
+kraju rezydentury danego inwestora.
+
+114
+00:08:11,320 --> 00:08:14,480
+Jak więc widzisz, mamy
+tutaj trzy poziomy podatku.
+
+115
+00:08:14,560 --> 00:08:19,880
+Pierwszy dotyczy kraju rejestracji
+danej spółki, która wypłaca dywidendę.
+
+116
+00:08:19,960 --> 00:08:25,760
+Drugi dotyczy kraju, w którym
+zarejestrowany jest fundusz ETF.
+
+117
+00:08:25,840 --> 00:08:29,000
+I trzeci poziom, który dotyczy miejsca
+
+118
+00:08:29,080 --> 00:08:32,440
+rezydencji podatkowej danego
+inwestora czy inwestorki.
+
+119
+00:08:32,520 --> 00:08:38,440
+To sprawia, że konfiguracji dotyczących
+płacenia podatków na każdym z tych
+
+120
+00:08:38,520 --> 00:08:43,920
+poziomów jest mnóstwo
+i w każdym przypadku, czyli w przypadku
+
+121
+00:08:44,000 --> 00:08:48,760
+każdego konkretnego ETF-a, konkretnych
+spółek, czy też nas jako konkretnych
+
+122
+00:08:48,840 --> 00:08:52,160
+inwestorów, sytuacja
+może być zupełnie inna.
+
+123
+00:08:52,240 --> 00:08:55,240
+Jak więc ułatwić sobie
+rozliczenie podatkowe?
+
+124
+00:08:55,320 --> 00:08:58,880
+Jest na to kilka podstawowych sposobów.
+
+125
+00:08:58,960 --> 00:09:04,120
+Po pierwsze, za każdym razem, gdy nie masz
+pewności, jak opodatkowane są dywidendy,
+
+126
+00:09:04,200 --> 00:09:07,720
+które otrzymałaś, spytaj
+o to swojego brokera.
+
+127
+00:09:07,800 --> 00:09:10,080
+Właśnie po to wybierasz brokera z dobrą
+
+128
+00:09:10,160 --> 00:09:14,560
+obsługą klienta, żeby w takich
+momentach rozwiał Twoje wątpliwości.
+
+129
+00:09:14,640 --> 00:09:18,000
+Po drugie, żeby jak najprościej
+rozliczyć się podatkowo,
+
+130
+00:09:18,080 --> 00:09:21,480
+wybieraj akumulujące
+fundusze ETF, zamiast
+
+131
+00:09:21,560 --> 00:09:25,320
+inwestowania bezpośrednio w
+spółki dywidendowe z zagranicy,
+
+132
+00:09:25,400 --> 00:09:27,960
+czy ETF-y dystrybuujące.
+
+133
+00:09:28,040 --> 00:09:32,720
+W takim przypadku bowiem, czyli
+w przypadku ETF-ów akumulujących
+
+134
+00:09:32,800 --> 00:09:35,160
+Twoim zyskiem bezpośrednio nie jest
+
+135
+00:09:35,240 --> 00:09:40,080
+dywidenda, ponieważ ona nie jest
+Ci wypłacana na rachunek maklerski.
+
+136
+00:09:40,160 --> 00:09:43,320
+Zyskujesz na tym, że dywidenda jest
+
+137
+00:09:43,400 --> 00:09:47,560
+dopisywana do wartości Twojej
+jednostki funduszu ETF.
+
+138
+00:09:47,640 --> 00:09:49,800
+Czyli po prostu jeżeli z tej jednostki
+
+139
+00:09:49,880 --> 00:09:55,000
+zrealizujesz zysk,
+to wtedy Twój broker wystawi Ci klasycznie
+
+140
+00:09:55,080 --> 00:09:59,960
+formularz PIT 8C,
+który później będziesz mogła przenieść do
+
+141
+00:10:00,040 --> 00:10:04,680
+kapitałowego PIT 38 i rozliczyć
+się z Urzędem Skarbowym.
+
+142
+00:10:04,760 --> 00:10:07,240
+Po trzecie, jeśli chcesz wynieść
+
+143
+00:10:07,320 --> 00:10:13,000
+optymalizację podatkową na wyższy poziom,
+wybieraj te fundusze ETF, których emitent
+
+144
+00:10:13,080 --> 00:10:18,880
+jest zarejestrowany w kraju o niskim
+albo wręcz zerowym podatku źródła.
+
+145
+00:10:18,960 --> 00:10:21,160
+W ten sposób, przynajmniej na niektórych
+
+146
+00:10:21,240 --> 00:10:26,560
+poziomach, ten podatek będzie niższy,
+a Ty otrzymasz wyższą dywidendę netto.
+
+147
+00:10:26,640 --> 00:10:32,280
+Podsumowując tę całą lekcję, aby
+najłatwiej i najprościej rozliczyć się
+
+148
+00:10:32,360 --> 00:10:36,080
+podatkowo, możesz wybrać
+jedną z dwóch opcji.
+
+149
+00:10:36,160 --> 00:10:40,480
+Po pierwsze, akcje polskich spółek
+notowanych na Giełdzie Papierów
+
+150
+00:10:40,560 --> 00:10:46,880
+Wartościowych w Warszawie, a po drugie
+fundusze ETF akumulujące, i tutaj 
+
+151
+00:10:46,960 --> 00:10:50,560
+oczywiście to już mogą być
+fundusze międzynarodowe.
+
+152
+00:10:50,640 --> 00:10:52,880
+Na koniec jeszcze jedna ważna kwestia.
+
+153
+00:10:52,960 --> 00:10:58,720
+Jak wygląda sprawa, gdy inwestujemy na
+rachunkach IKE i IKZE, czyli takich, na
+
+154
+00:10:58,800 --> 00:11:03,520
+których my teoretycznie przecież jesteśmy
+zwolnione z podatku od zysków kapitałowych
+
+155
+00:11:03,600 --> 00:11:07,360
+i podatku ryczałtowego
+od odsetek i dywidend?
+
+156
+00:11:07,440 --> 00:11:10,480
+W takim wypadku nie płacisz również
+
+157
+00:11:10,560 --> 00:11:14,560
+podatku od dywidend, czyli
+również jesteś z niego zwolniona.
+
+158
+00:11:14,640 --> 00:11:18,800
+Ale warto pamiętać, że dotyczy to
+tylko polskiego urzędu skarbowego.
+
+159
+00:11:18,880 --> 00:11:21,400
+Czyli nie rozliczasz się z tych podatków,
+
+160
+00:11:21,480 --> 00:11:24,960
+które musiałabyś odprowadzić
+w Polsce, czyli np.
+
+161
+00:11:25,040 --> 00:11:28,480
+podatku od dywidend, które są wypłacane
+
+162
+00:11:28,560 --> 00:11:34,320
+z polskich spółek, albo na przykład podatku,
+który musiałabyś zapłacić od zysku, 
+
+163
+00:11:34,400 --> 00:11:39,640
+w przypadku inwestowania w ETF-y akumulujące.
+Natomiast jeżeli inwestujesz 
+
+164
+00:11:39,720 --> 00:11:44,400
+w zagraniczne spółki bezpośrednio i
+otrzymujesz od nich dywidendy i jeżeli
+
+165
+00:11:44,480 --> 00:11:50,320
+inwestujesz w zagraniczne ETF-y dystrybuujące,
+no to część podatku i tak będzie
+
+166
+00:11:50,400 --> 00:11:54,480
+pobrana u źródła
+i tego podatku już nie unikniesz.
+
+167
+00:11:54,560 --> 00:11:59,640
+To jest kolejny argument za tym, żeby
+inwestować w akcje polskich spółek
+
+168
+00:11:59,720 --> 00:12:04,360
+dywidendowych notowanych na GPW
+i w ETF-y akumulujące.
+

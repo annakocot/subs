@@ -1,0 +1,291 @@
+1
+00:00:02,920 --> 00:00:07,960
+Aby założyć rachunek maklerski w biurze
+maklerskim mBanku trzeba oczywiście wejść
+
+2
+00:00:07,990 --> 00:00:12,380
+na stronę mBanku
+i kliknąć Aktywuj maklera.
+
+3
+00:00:12,410 --> 00:00:14,660
+Wtedy zaznaczamy czy jesteśmy klientami
+
+4
+00:00:14,690 --> 00:00:21,180
+mBanku czy nie, i jeżeli tak, to
+uzupełniamy swoje dane do logowania.
+
+5
+00:00:21,210 --> 00:00:24,380
+Następnie wybieramy usługę inwestycyjną.
+
+6
+00:00:24,400 --> 00:00:27,180
+Tutaj z zasady zaznaczona jest usługa
+
+7
+00:00:27,210 --> 00:00:30,060
+eMakler, czyli podstawowy
+rachunek inwestycyjny.
+
+8
+00:00:30,080 --> 00:00:35,940
+Ale jak widzicie już w tym miejscu możecie
+też zaznaczyć inne opcje, czyli np.
+
+9
+00:00:35,960 --> 00:00:39,440
+założyć rachunki IKE, IKZE, Supermarket
+
+10
+00:00:39,460 --> 00:00:43,420
+Funduszy Inwestycyjnych czy rachunki
+dotyczące instrumentów pochodnych.
+
+11
+00:00:43,450 --> 00:00:46,640
+Ale oczywiście to jest
+tylko i wyłącznie opcja.
+
+12
+00:00:46,670 --> 00:00:50,620
+W tym momencie eMakler jak
+najbardziej Wam wystarczy.
+
+13
+00:00:50,650 --> 00:00:53,740
+O każdym z tych rachunków
+możecie dodatkowo przeczytać,
+
+14
+00:00:53,770 --> 00:00:56,120
+ale też każdy z tych rachunków możecie
+
+15
+00:00:56,150 --> 00:01:00,780
+później dodatkowo założyć,
+jeżeli będzie on Wam potrzebny.
+
+16
+00:01:00,800 --> 00:01:02,440
+Zaznaczcie, z którego konta chcecie
+
+17
+00:01:02,470 --> 00:01:07,340
+inwestować, a później
+uzupełnijcie swoje dane podatkowe.
+
+18
+00:01:07,370 --> 00:01:12,080
+Możecie zaznaczyć, czy PIT 8C, czyli po
+prostu Wasze rozliczenie podatkowe z domu
+
+19
+00:01:12,110 --> 00:01:18,600
+maklerskiego ma przychodzić do Was
+elektronicznie czy w formie papierowej.
+
+20
+00:01:19,160 --> 00:01:24,060
+Następnie zaznaczasz, jak chcesz
+zawrzeć umowę o usługi inwestycyjne.
+
+21
+00:01:24,090 --> 00:01:28,490
+W tym momencie najczęściej
+wybierany jest sposób elektroniczny.
+
+22
+00:01:28,520 --> 00:01:31,000
+Klikasz dalej i pojawia się informacja
+
+23
+00:01:31,030 --> 00:01:35,210
+o tym, że możesz wypełnić ankietę
+i poznać swój profil inwestora.
+
+24
+00:01:35,240 --> 00:01:38,700
+Ta ankieta jest obowiązkowa i
+wynika z przepisów unijnych.
+
+25
+00:01:38,730 --> 00:01:43,020
+Oczywiście możesz na ten moment zaznaczać,
+że nie chcesz wypełniać ankiety,
+
+26
+00:01:43,050 --> 00:01:46,380
+ale ja Cię zachęcam do tego,
+żeby zrobić to od razu.
+
+27
+00:01:46,410 --> 00:01:49,080
+Przede wszystkim dlatego, że bez niej nie
+
+28
+00:01:49,110 --> 00:01:52,820
+będziesz mogła formalnie
+zacząć inwestować.
+
+29
+00:01:52,850 --> 00:01:57,960
+Gdy klikniesz dalej,
+to otrzymasz kilkanaście zazwyczaj pytań
+
+30
+00:01:57,990 --> 00:02:01,960
+związanych z tym, jakie są Twoje
+preferencje inwestycyjne, skąd pochodzą
+
+31
+00:02:01,990 --> 00:02:07,120
+Twoje środki, jakie masz cele jako
+inwestora i oczywiście jaki masz też
+
+32
+00:02:07,150 --> 00:02:12,160
+poziom doświadczenia
+i poziom wiedzy inwestycyjnej.
+
+33
+00:02:12,280 --> 00:02:14,920
+Pamiętaj, że w przypadku tej ankiety nie
+
+34
+00:02:14,950 --> 00:02:17,860
+ma czegoś takiego jak
+to, że jej nie zdasz.
+
+35
+00:02:17,890 --> 00:02:22,680
+Tutaj chodzi przede wszystkim o to, żebyś
+miała wiedzę na temat tego, jaki jest Twój
+
+36
+00:02:22,710 --> 00:02:26,660
+profil jako inwestorski
+i jeżeli będziesz chciała później wypełnić
+
+37
+00:02:26,690 --> 00:02:30,060
+ankietę po raz kolejny,
+będziesz mogła to zrobić.
+
+38
+00:02:30,090 --> 00:02:32,580
+Gdy już przejdziesz
+przez wszystkie pytania,
+
+39
+00:02:32,610 --> 00:02:35,200
+pojawia się na Twoim ekranie wynik ankiety
+
+40
+00:02:35,230 --> 00:02:39,060
+MiFID, bo właśnie tak
+nazywa się ta ankieta.
+
+41
+00:02:39,090 --> 00:02:44,120
+Na podstawie Twoich odpowiedzi biuro
+maklerskie czy też dom maklerski ocenia,
+
+42
+00:02:44,150 --> 00:02:51,100
+że ta usługa inwestycyjna jest dla Ciebie
+odpowiednia albo być może nieodpowiednia.
+
+43
+00:02:51,130 --> 00:02:54,900
+Pamiętaj jednak, że czasem to, że np.
+
+44
+00:02:54,930 --> 00:02:57,640
+nie otrzymasz pozytywnej odpowiedzi wynika
+
+45
+00:02:57,670 --> 00:03:00,260
+z faktu, że po prostu
+nie masz doświadczenia.
+
+46
+00:03:00,280 --> 00:03:03,920
+To nie oznacza, że nie możesz założyć
+rachunku maklerskiego, bo przecież każdy
+
+47
+00:03:03,950 --> 00:03:07,610
+gdzieś zaczyna i każdy gdzieś
+to doświadczenie buduje.
+
+48
+00:03:07,640 --> 00:03:10,280
+Natomiast oczywiście jest to dla Ciebie
+
+49
+00:03:10,310 --> 00:03:15,180
+pewna informacja, że warto jeszcze
+nad swoją wiedzą popracować.
+
+50
+00:03:15,210 --> 00:03:17,960
+Następnie zaznaczasz, czy chcesz,
+
+51
+00:03:17,990 --> 00:03:22,980
+żeby Twoje inwestycje uwzględniały
+czynniki zrównoważonego rozwoju ESG.
+
+52
+00:03:23,010 --> 00:03:28,000
+Czyli po prostu chodzi o to, czy chcesz w
+swoim inwestowaniu mieć na uwadze takie
+
+53
+00:03:28,030 --> 00:03:32,480
+rzeczy jak kwestie środowiskowe,
+odpowiedzialność społeczną czy też
+
+54
+00:03:32,510 --> 00:03:36,580
+przejrzystość związaną z
+funkcjonowaniem danych spółek.
+
+55
+00:03:36,610 --> 00:03:41,680
+No i w końcu pozostaje już tylko ściągnąć
+umowę usługi eMakler, która została dla
+
+56
+00:03:41,710 --> 00:03:46,420
+Ciebie przygotowana,
+przeczytać ją i zaakceptować.
+
+57
+00:03:46,450 --> 00:03:49,500
+W ten sposób założysz
+swój rachunek maklerski.
+
+58
+00:03:49,530 --> 00:03:55,080
+Pamiętaj, że ścieżka, którą przedstawiłam
+na tym filmiku jest ścieżką dostępną dla
+
+59
+00:03:55,110 --> 00:03:59,420
+osób, które już miały wcześniej
+konto bankowe w mBanku.
+
+60
+00:03:59,450 --> 00:04:04,200
+Natomiast jeżeli takiego konta nie masz,
+to będzie czekała Cię jeszcze dodatkowa
+
+61
+00:04:04,230 --> 00:04:08,120
+weryfikacja, chociażby potwierdzenie
+swoich danych osobowych.
+

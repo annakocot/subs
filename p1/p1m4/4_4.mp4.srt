@@ -1,0 +1,523 @@
+1
+00:00:05,320 --> 00:00:07,560
+W poprzednich lekcjach dowiedziałaś się,
+
+2
+00:00:07,590 --> 00:00:13,660
+że budując swoją poduszkę finansową
+masz do wyboru kilka różnych instrumentów.
+
+3
+00:00:13,690 --> 00:00:16,360
+Możesz wybrać lokatę bankową, 
+
+4
+00:00:16,380 --> 00:00:22,940
+konto oszczędnościowe, ale możesz wybrać 
+również obligacje detaliczne indeksowane inflacją.
+
+5
+00:00:22,970 --> 00:00:25,520
+Ten trzeci sposób najczęściej jest
+
+6
+00:00:25,550 --> 00:00:30,380
+sugerowany jako optymalny sposób
+ulokowania swojej poduszki finansowej.
+
+7
+00:00:30,400 --> 00:00:33,620
+Czym więc są obligacje detaliczne?
+
+8
+00:00:33,640 --> 00:00:36,940
+Zacznijmy może od samej
+definicji obligacji.
+
+9
+00:00:36,960 --> 00:00:43,480
+Obligacje są to instrumenty dłużne,
+co oznacza, że kupując obligacje Ty
+
+10
+00:00:43,510 --> 00:00:47,540
+de facto pożyczasz pieniądze
+jakiemuś innemu podmiotowi.
+
+11
+00:00:47,570 --> 00:00:50,420
+Możesz pożyczać pieniądze
+jakiemuś państwu.
+
+12
+00:00:50,450 --> 00:00:53,160
+Możesz pożyczać pieniądze jakiejś gminie,
+
+13
+00:00:53,180 --> 00:00:58,220
+jakiemuś samorządowi, a możesz
+pożyczać pieniądze jakiejś firmie.
+
+14
+00:00:58,250 --> 00:01:00,760
+O różnych rodzajach obligacji i o tym,
+
+15
+00:01:00,790 --> 00:01:04,660
+jak w każdy z nich inwestować,
+będziemy jeszcze mówić
+
+16
+00:01:04,690 --> 00:01:09,700
+w drugiej części tego kursu,
+teraz jednak przyjrzymy się obligacjom
+
+17
+00:01:09,730 --> 00:01:16,240
+detalicznym, bo jest to bardzo specyficzny
+typ obligacji, który jest przeznaczony
+
+18
+00:01:16,270 --> 00:01:22,100
+właśnie dla klientów detalicznych,
+czyli dla takich osób jak ja, czy Ty.
+
+19
+00:01:22,130 --> 00:01:27,000
+Natomiast nie jest on przeznaczony dla tak
+zwanych inwestorów instytucjonalnych,
+
+20
+00:01:27,030 --> 00:01:30,210
+takich jak na przykład
+fundusze inwestycyjne.
+
+21
+00:01:30,240 --> 00:01:34,540
+Inwestowanie w obligacje detaliczne
+jest bardzo przewidywalne.
+
+22
+00:01:34,570 --> 00:01:37,850
+Jedna obligacja kosztuje
+dokładnie 100 złotych.
+
+23
+00:01:37,880 --> 00:01:43,720
+A inwestowanie w ten instrument finansowy
+polega na tym, że mamy ściśle określone
+
+24
+00:01:43,750 --> 00:01:48,660
+oprocentowanie, które jest przypisane
+danemu rodzajowi obligacji.
+
+25
+00:01:48,690 --> 00:01:51,540
+Możemy kupować obligacje różnego rodzaju,
+
+26
+00:01:51,570 --> 00:01:56,800
+zarówno te, które opiewają na bardzo
+krótki okres, jak i te, które są
+
+27
+00:01:56,830 --> 00:02:01,460
+przeznaczone dla inwestorów czy
+inwestorek długoterminowych.
+
+28
+00:02:01,490 --> 00:02:06,020
+Istnieje kilka podstawowych
+typów obligacji detalicznych.
+
+29
+00:02:06,050 --> 00:02:08,480
+Pierwszy typ to obligacje
+
+30
+00:02:08,510 --> 00:02:14,100
+stałoprocentowe, najbardziej przewidywalny
+rodzaj obligacji detalicznych.
+
+31
+00:02:14,130 --> 00:02:19,600
+W momencie, gdy nagrywam dla Was tę
+lekcję, mamy do wyboru dwa rodzaje
+
+32
+00:02:19,630 --> 00:02:28,700
+obligacji stałoprocentowych: trzymiesięczne
+obligacje OTS oraz trzyletnie obligacje TOS.
+
+33
+00:02:28,730 --> 00:02:34,120
+Te obligacje stałoprocentowe
+charakteryzują się tym, że jak
+
+34
+00:02:34,150 --> 00:02:38,610
+sama nazwa wskazuje,
+ich oprocentowanie jest stałe.
+
+35
+00:02:38,640 --> 00:02:44,140
+Czyli z góry wiemy, ile zarobimy
+na inwestycji w daną obligacje.
+
+36
+00:02:44,170 --> 00:02:49,780
+Drugi typ obligacji to
+obligacje zmiennoprocentowe.
+
+37
+00:02:49,810 --> 00:02:52,940
+Ich oprocentowanie jest zazwyczaj
+
+38
+00:02:52,970 --> 00:02:58,610
+uzależnione od jakiejś konkretnej
+zmiennej powiązanej z gospodarką.
+
+39
+00:02:58,640 --> 00:03:04,420
+W tym momencie mamy do wyboru dwa rodzaje
+obligacji zmiennoprocentowych:
+
+40
+00:03:04,450 --> 00:03:11,780
+roczne obligacje ROR
+oraz dwuletnie obligacje DOR.
+
+41
+00:03:11,810 --> 00:03:14,280
+Poziom ich oprocentowania jest uzależniony
+
+42
+00:03:14,310 --> 00:03:20,340
+od wysokości stóp procentowych w Polsce,
+a te, jak wiemy, potrafią się zmieniać.
+
+43
+00:03:20,370 --> 00:03:26,220
+A więc mamy z jednej strony wciąż dużą
+przewidywalność takiej inwestycji,
+
+44
+00:03:26,250 --> 00:03:32,660
+ale mimo wszystko mniejszą niż w
+przypadku obligacji stałoprocentowych.
+
+45
+00:03:32,690 --> 00:03:35,680
+Trzecim bardzo popularnym wśród inwestorów
+
+46
+00:03:35,710 --> 00:03:41,340
+typem obligacji detalicznych,
+są obligacje indeksowane inflacją.
+
+47
+00:03:41,370 --> 00:03:44,520
+W przypadku tego rodzaju obligacji mamy
+
+48
+00:03:44,550 --> 00:03:50,980
+oprocentowanie, jak sama nazwa wskazuje,
+uzależnione od poziomu inflacji,
+
+49
+00:03:51,010 --> 00:03:57,100
+czyli oprocentowanie zmienia się wraz ze
+zmieniającymi się wskaźnikami inflacji.
+
+50
+00:03:57,130 --> 00:04:00,100
+Jednocześnie w przypadku tych obligacji
+
+51
+00:04:00,130 --> 00:04:05,040
+mamy stałe, z góry określone
+oprocentowanie w pierwszym roku
+
+52
+00:04:05,070 --> 00:04:11,560
+inwestowania, czyli w praktyce wygląda to
+tak, że w pierwszym roku mamy z góry
+
+53
+00:04:11,590 --> 00:04:17,060
+określone oprocentowanie, natomiast od
+drugiego roku inwestycji
+
+54
+00:04:17,090 --> 00:04:21,620
+mamy oprocentowanie zależne
+właśnie od inflacji.
+
+55
+00:04:21,650 --> 00:04:26,920
+Obligacje detaliczne indeksowane inflacją
+z zasady są inwestycją bardziej
+
+56
+00:04:26,950 --> 00:04:30,900
+długoterminową niż
+pozostałe typy obligacji.
+
+57
+00:04:30,920 --> 00:04:38,620
+Obecnie mamy do wyboru 4-letnie
+obligacje COI i 10-letnie obligacje EDO
+
+58
+00:04:38,650 --> 00:04:47,780
+oraz 6-letnie obligacje rodzinne ROS
+i 12-letnie obligacje rodzinne ROD.
+
+59
+00:04:47,800 --> 00:04:50,000
+Te dwa ostatnie typy obligacji
+
+60
+00:04:50,030 --> 00:04:54,600
+detalicznych, czyli właśnie obligacje
+rodzinne, są przeznaczone dla
+
+61
+00:04:54,630 --> 00:05:01,540
+beneficjentów programu 800+ i można w
+nie zainwestować kwotę, którą dotychczas
+
+62
+00:05:01,570 --> 00:05:05,260
+otrzymało nasze dziecko
+w ramach tego programu.
+
+63
+00:05:05,280 --> 00:05:08,480
+Czwartym rodzajem obligacji, który pojawia
+
+64
+00:05:08,510 --> 00:05:12,460
+się jedynie okazjonalnie,
+są obligacje premiowe.
+
+65
+00:05:12,480 --> 00:05:16,480
+Czasem zdarza się taka emisja obligacji,
+
+66
+00:05:16,510 --> 00:05:20,880
+w której możemy oprócz
+klasycznego i z góry znanego
+
+67
+00:05:20,910 --> 00:05:25,140
+oprocentowania również
+wylosować pewną premię.
+
+68
+00:05:25,160 --> 00:05:27,640
+Zazwyczaj po prostu część osób,
+
+69
+00:05:27,660 --> 00:05:34,100
+która inwestuje w dany typ obligacji,
+otrzymuje mniejsze lub większe premie pieniężne.
+
+70
+00:05:34,130 --> 00:05:37,540
+Ten typ obligacji jednak
+nie jest w stałej sprzedaży.
+
+71
+00:05:37,570 --> 00:05:40,560
+Wszystkie typy dostępnych w danym momencie
+
+72
+00:05:40,590 --> 00:05:46,780
+obligacji detalicznych można sprawdzić
+na stronie obligacjeskarbowe.pl.
+
+73
+00:05:46,800 --> 00:05:52,680
+Oferta obligacji zmienia się wraz z każdym
+miesiącem, więc gdy chcemy zainwestować
+
+74
+00:05:52,710 --> 00:05:58,700
+w obligacje to warto sprawdzić, jakie
+obligacje są w aktualnej ofercie.
+
+75
+00:05:58,730 --> 00:06:02,880
+Oprócz możliwości kupna tych wszystkich
+rodzajów obligacji, o których powiedziałam
+
+76
+00:06:02,910 --> 00:06:09,980
+do tej pory, można założyć także konta
+emerytalne oparte o obligacje detaliczne.
+
+77
+00:06:10,010 --> 00:06:14,860
+Konto IKE obligacje albo IKZE obligacje.
+
+78
+00:06:14,890 --> 00:06:17,620
+Będziemy o nich mówić jeszcze nieco więcej
+
+79
+00:06:17,650 --> 00:06:22,020
+w lekcji dotyczącej oszczędzania
+i inwestowania na emeryturę.
+
+80
+00:06:22,040 --> 00:06:24,840
+Natomiast warto pamiętać, że w ramach
+
+81
+00:06:24,860 --> 00:06:29,860
+takich kont emerytalnych możemy
+inwestować tylko w obligacje detaliczne.
+
+82
+00:06:29,890 --> 00:06:31,680
+Gdy już wiesz, jakie masz dostępne
+
+83
+00:06:31,710 --> 00:06:36,960
+obligacje detaliczne w ofercie, pojawia
+się pytanie, które z nich najbardziej
+
+84
+00:06:36,980 --> 00:06:39,860
+nadają się do tworzenia
+poduszki finansowej?
+
+85
+00:06:39,890 --> 00:06:43,900
+Które z nich będą dla nas
+najlepiej pracowały przez lata?
+
+86
+00:06:43,920 --> 00:06:46,180
+I tu odpowiedź jest prosta!
+
+87
+00:06:46,210 --> 00:06:48,960
+Twoim zadaniem, gdy inwestujesz w ramach
+
+88
+00:06:48,980 --> 00:06:54,500
+poduszki finansowej jest długoterminowe
+zabezpieczenie swojego kapitału.
+
+89
+00:06:54,530 --> 00:07:00,880
+Więc zależy Ci na tym, żeby po pierwsze
+wypracowywać jak największe zyski, po
+
+90
+00:07:00,910 --> 00:07:07,340
+drugie, żeby w jak największym stopniu
+chronić Twoje pieniądze przed inflacją.
+
+91
+00:07:07,360 --> 00:07:13,000
+No i po trzecie, aby umożliwić sobie
+wygodne, długoterminowe inwestowanie.
+
+92
+00:07:13,030 --> 00:07:16,420
+Dlatego, że z zasady poduszka finansowa
+
+93
+00:07:16,450 --> 00:07:23,240
+jest takim funduszem ostatniej instancji,
+czyli takim poziomem oszczędności,
+
+94
+00:07:23,270 --> 00:07:27,660
+który chcesz ruszać tylko i wyłącznie
+wtedy, kiedy zajdzie taka potrzeba.
+
+95
+00:07:27,690 --> 00:07:32,500
+A więc chcesz go z zasady
+zainwestować właśnie długoterminowo.
+
+96
+00:07:32,530 --> 00:07:35,820
+Najbardziej popularnym rodzajem obligacji,
+
+97
+00:07:35,850 --> 00:07:39,340
+który wykorzystywany jest do budowy
+poduszki finansowej,
+
+98
+00:07:39,360 --> 00:07:45,780
+są 10-letnie obligacje EDO,
+czyli obligacje indeksowane inflacją,
+
+99
+00:07:45,800 --> 00:07:51,940
+które umożliwiają nam zainwestowanie
+swoich pieniędzy na aż 10 lat.
+
+100
+00:07:51,970 --> 00:07:57,320
+Oczywiście, jeżeli tylko macie możliwość,
+możecie wykorzystać do budowy poduszki
+
+101
+00:07:57,350 --> 00:08:04,260
+finansowej także obligacje
+12-letnie, czyli obligacje rodzinne ROD.
+
+102
+00:08:04,290 --> 00:08:06,920
+Ale ta możliwość oczywiście nie jest dla
+
+103
+00:08:06,950 --> 00:08:13,620
+wszystkich dostępna i dodatkowo ma ona
+pewne limity wpłacania konkretnych kwot.
+
+104
+00:08:13,650 --> 00:08:18,300
+Dlatego właśnie obligacje EDO
+są dużo bardziej popularne.
+
+105
+00:08:18,330 --> 00:08:23,200
+Obligacje dziesięcioletnie EDO są czasem
+porównywane do lokaty bankowej, tylko
+
+106
+00:08:23,230 --> 00:08:27,420
+takiej, którą możesz założyć
+na znacznie dłuższy czas.
+
+107
+00:08:27,450 --> 00:08:33,640
+Mają one jednak duże różnice w stosunku
+do tradycyjnej lokaty bankowej,
+
+108
+00:08:33,670 --> 00:08:39,580
+np. to, że gdy wypłaca się wcześniej
+pieniądze, nie tracisz wszystkich odsetek.
+
+109
+00:08:39,610 --> 00:08:43,680
+Ale o tych wszystkich szczegółach
+dotyczących tego, jak konkretnie
+
+110
+00:08:43,700 --> 00:08:47,320
+w obligacje inwestować, opowiem
+jeszcze w kolejnych lekcjach.
+

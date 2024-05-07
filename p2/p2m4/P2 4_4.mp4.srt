@@ -1,0 +1,501 @@
+1
+00:00:04,040 --> 00:00:06,720
+Wyliczanie wartości konkretnej spółki
+
+2
+00:00:06,800 --> 00:00:10,440
+brzmi jak dość skomplikowana
+i żmudna praca.
+
+3
+00:00:10,520 --> 00:00:12,520
+I właśnie taka jest.
+
+4
+00:00:12,600 --> 00:00:15,000
+Robienie analizy fundamentalnej konkretnej
+
+5
+00:00:15,080 --> 00:00:21,200
+spółki to często długotrwały proces
+i wiąże się z nim wiele wyzwań, takich jak
+
+6
+00:00:21,280 --> 00:00:24,280
+konieczność posiadania
+szerokiej wiedzy analitycznej,
+
+7
+00:00:24,360 --> 00:00:27,000
+trudności w dogłębnym poznaniu sytuacji 
+
+8
+00:00:27,080 --> 00:00:31,280
+w danej spółce czy czasochłonność
+całego procesu analitycznego.
+
+9
+00:00:31,360 --> 00:00:36,520
+I dlatego właśnie większość inwestorów nie
+dokonuje analizy fundamentalnej
+
+10
+00:00:36,600 --> 00:00:40,560
+samodzielnie.
+Podpierają się oni rekomendacjami
+
+11
+00:00:40,640 --> 00:00:46,200
+analityków, czyli specjalnymi dokumentami
+przygotowanymi przez specjalistów, 
+
+12
+00:00:46,280 --> 00:00:52,360
+w których podawane są wyliczenia związane
+z wartością akcji konkretnej spółki.
+
+13
+00:00:52,440 --> 00:00:58,440
+Analitycy giełdowi, zwani też analitykami
+akcji, to osoby, które zawodowo zajmują
+
+14
+00:00:58,520 --> 00:01:02,600
+się analizą fundamentalną i
+wyceną akcji konkretnych spółek.
+
+15
+00:01:02,680 --> 00:01:07,960
+Bardzo często analitycy giełdowi
+mają swoje specjalizacje, czyli np.
+
+16
+00:01:08,040 --> 00:01:10,520
+specjalizują się w konkretnej branży.
+
+17
+00:01:10,600 --> 00:01:13,280
+Często znają oni dogłębnie sytuację 
+
+18
+00:01:13,360 --> 00:01:19,680
+w konkretnej spółce, znają kluczowe osoby w
+tej konkretnej spółce i na bieżąco śledzą
+
+19
+00:01:19,760 --> 00:01:24,920
+komunikaty związane z tą
+konkretną spółką i całą branżą.
+
+20
+00:01:25,000 --> 00:01:27,720
+Analitycy giełdowi regularnie publikują
+
+21
+00:01:27,800 --> 00:01:32,240
+rekomendacje spółek giełdowych, czyli
+dokumenty zawierające analizę
+
+22
+00:01:32,320 --> 00:01:36,760
+fundamentalną konkretnej
+spółki oraz wycenę jej akcji.
+
+23
+00:01:36,840 --> 00:01:42,160
+Jak sama nazwa wskazuje, rekomendacja to
+dokument, który służy temu, żeby
+
+24
+00:01:42,240 --> 00:01:46,480
+zarekomendować inwestorom
+jakieś konkretne działanie.
+
+25
+00:01:46,560 --> 00:01:50,600
+Rekomendacje giełdowe to często
+bardzo obszerne dokumenty.
+
+26
+00:01:50,680 --> 00:01:55,680
+No bo sama analiza fundamentalna
+jest dość czasochłonne i obszerna.
+
+27
+00:01:55,760 --> 00:02:00,520
+Jednak są ich pewne elementy,
+których wypatrują wszyscy inwestorzy.
+
+28
+00:02:00,600 --> 00:02:07,000
+Te najważniejsze elementy to po pierwsze
+wycena, czyli tak zwana cena docelowa.
+
+29
+00:02:07,080 --> 00:02:12,800
+Jest to konkretna liczba, która według
+danego analityka jest liczbą
+
+30
+00:02:12,880 --> 00:02:17,160
+reprezentującą wartość
+akcji konkretnej spółki.
+
+31
+00:02:17,240 --> 00:02:20,480
+Czyli na przykład, jeżeli cena docelowa w
+
+32
+00:02:20,560 --> 00:02:27,520
+rekomendacji wynosi 10 złotych, to znaczy,
+że dany analityk twierdzi, że wartość
+
+33
+00:02:27,600 --> 00:02:31,280
+akcji danej spółki wynosi
+właśnie 10 złotych.
+
+34
+00:02:31,360 --> 00:02:34,200
+I pamiętaj, że ta wartość, czyli ta cena
+
+35
+00:02:34,280 --> 00:02:39,720
+docelowa, niekoniecznie musi odpowiadać
+cenie, która aktualnie jest na rynku.
+
+36
+00:02:39,800 --> 00:02:42,400
+Po drugie, w tym dokumencie pojawia się
+
+37
+00:02:42,480 --> 00:02:48,160
+rekomendacja fundamentalna
+kupuj, sprzedaj albo trzymaj.
+
+38
+00:02:48,240 --> 00:02:51,360
+Jest to sugestia, co dany inwestor czy
+
+39
+00:02:51,440 --> 00:02:57,400
+inwestorka powinien zrobić z akcjami danej
+spółki w długoterminowej perspektywie.
+
+40
+00:02:57,480 --> 00:03:02,960
+No bo na przykład jeżeli powiedzmy cena
+docelowa, czyli wycena akcji danej spółki
+
+41
+00:03:03,040 --> 00:03:08,720
+wyniosła 10 złotych,
+a cena akcji na rynku w danym momencie
+
+42
+00:03:08,800 --> 00:03:16,480
+wynosi 8 złotych, to prawdopodobnie w tym
+dokumencie pojawi się rekomendacja kupuj.
+
+43
+00:03:16,560 --> 00:03:19,560
+No bo przecież dany analityk twierdzi,
+
+44
+00:03:19,640 --> 00:03:24,440
+że wycena akcji danej spółki
+fundamentalnie powinna być wyższa.
+
+45
+00:03:24,520 --> 00:03:30,240
+Po trzecie, opcjonalnie też czasem pojawia
+się tak zwana rekomendacja relatywna:
+
+46
+00:03:30,320 --> 00:03:36,240
+przeważaj, neutralnie, albo niedoważaj
+jest to sugestia dotycząca tego, 
+
+47
+00:03:36,320 --> 00:03:41,800
+co w najbliższej, krótkoterminowej perspektywie
+warto zrobić z akcjami danej spółki.
+
+48
+00:03:41,880 --> 00:03:44,560
+Warto wiedzieć, że większość rekomendacji
+
+49
+00:03:44,640 --> 00:03:48,800
+giełdowych nie jest dostępna
+publicznie w całości.
+
+50
+00:03:48,880 --> 00:03:50,760
+Zazwyczaj rekomendacje giełdowe są
+
+51
+00:03:50,840 --> 00:03:55,120
+dostępne tylko dla klientów poszczególnych
+domów maklerskich,
+
+52
+00:03:55,200 --> 00:04:01,200
+ale wiele domów maklerskich publikuje tak
+zwane flash notes, czyli skrócone dokumenty
+
+53
+00:04:01,280 --> 00:04:04,600
+zawierające najważniejsze
+tezy z danej rekomendacji.
+
+54
+00:04:04,680 --> 00:04:09,720
+I oczywiście cenę docelową
+oraz rekomendowane działanie.
+
+55
+00:04:09,800 --> 00:04:16,320
+Ciekawostką jest jednak to, że w 2019 roku
+Giełda Papierów Wartościowych rozpoczęła
+
+56
+00:04:16,400 --> 00:04:20,320
+tak zwany program wsparcia
+pokrycia analitycznego.
+
+57
+00:04:20,400 --> 00:04:26,480
+W jego ramach giełda finansuje tworzenie
+raportów analitycznych, czyli rekomendacji
+
+58
+00:04:26,560 --> 00:04:32,680
+dla niektórych spółek giełdowych i wtedy
+te rekomendacje są dostępne w całości.
+
+59
+00:04:32,760 --> 00:04:35,640
+Linki do stron z różnymi rekomendacjami
+
+60
+00:04:35,720 --> 00:04:40,760
+albo tak zwanymi flash notę, jak również
+link do programu wsparcia pokrycia
+
+61
+00:04:40,840 --> 00:04:45,440
+analitycznego, gdzie możecie przeglądać
+rekomendacje finansowane przez Giełdę
+
+62
+00:04:45,520 --> 00:04:50,400
+Papierów Wartościowych, znajdziecie w
+materiałach dodatkowych do tego odcinka.
+
+63
+00:04:50,480 --> 00:04:55,400
+Rekomendacje giełdowe wydają się na
+pierwszy rzut oka fantastyczną sprawą,
+
+64
+00:04:55,480 --> 00:05:00,560
+no bo dany inwestor dzięki nim nie musi
+dokonywać czasochłonnych analiz, tylko
+
+65
+00:05:00,640 --> 00:05:04,040
+może zobaczyć, co o danej
+spółce sądzą specjaliści.
+
+66
+00:05:04,120 --> 00:05:07,440
+I na podstawie ich wskazań mieć konkretną
+
+67
+00:05:07,520 --> 00:05:11,960
+rekomendację dotyczącą tego, co
+robić z akcjami danej spółki.
+
+68
+00:05:12,040 --> 00:05:16,720
+Czy więc warto inwestować właśnie
+kierując się rekomendacjami?
+
+69
+00:05:16,800 --> 00:05:20,040
+Tu sprawa jest niestety
+bardziej skomplikowana.
+
+70
+00:05:20,120 --> 00:05:24,920
+Rekomendacje mają swoje zalety,
+ale niestety mają też wiele wad.
+
+71
+00:05:25,000 --> 00:05:27,520
+I ślepe wierzenie w to, co jest zawarte 
+
+72
+00:05:27,600 --> 00:05:32,760
+w rekomendacji, często kończy się
+niezbyt udanymi transakcjami.
+
+73
+00:05:32,840 --> 00:05:35,000
+Dlaczego inwestowanie zgodne ze
+
+74
+00:05:35,080 --> 00:05:38,840
+wskazaniami rekomendacji giełdowych
+nie zawsze jest skuteczne?
+
+75
+00:05:38,920 --> 00:05:41,040
+Dzieje się tak z kilku przyczyn.
+
+76
+00:05:41,120 --> 00:05:45,720
+Po pierwsze, rekomendacje mogą
+wywołać znaczący ruch cen akcji.
+
+77
+00:05:45,800 --> 00:05:48,800
+Dotyczy to zwłaszcza rekomendacji kupuj.
+
+78
+00:05:48,880 --> 00:05:54,000
+Często jednak jest to ruch
+krótkoterminowy, a największy ruch widać
+
+79
+00:05:54,080 --> 00:05:59,120
+po odtajnieniu rekomendacji i czasem
+później jeszcze tylko przez kilka dni.
+
+80
+00:05:59,200 --> 00:06:01,520
+Po drugie, daną rekomendację w pierwszej
+
+81
+00:06:01,600 --> 00:06:05,160
+kolejności zna jedynie
+wąska grupa inwestorów.
+
+82
+00:06:05,240 --> 00:06:07,440
+Najczęściej są to klienci konkretnego domu
+
+83
+00:06:07,520 --> 00:06:13,080
+maklerskiego, natomiast reszta uczestników
+rynku dowiaduje się o niej nieco później.
+
+84
+00:06:13,160 --> 00:06:18,680
+Można więc powiedzieć, że większość
+inwestorów jest na straconej pozycji.
+
+85
+00:06:18,760 --> 00:06:22,600
+Po trzecie, rekomendacje
+bywają nieobiektywne, np.
+
+86
+00:06:22,680 --> 00:06:25,320
+gdy dany broker wprowadza jakąś spółkę na
+
+87
+00:06:25,400 --> 00:06:29,600
+giełdę, to często wydaje dla
+niej także rekomendację kupuj.
+
+88
+00:06:29,680 --> 00:06:32,840
+Zresztą ogólnie na rynku
+panuje pewna asymetria.
+
+89
+00:06:32,920 --> 00:06:38,280
+Dużo częściej wydawane są rekomendacje
+kupuj niż rekomendacje sprzedaj.
+
+90
+00:06:38,360 --> 00:06:41,600
+Nikt nie chce być
+posłańcem złych wiadomości.
+
+91
+00:06:41,680 --> 00:06:43,600
+Po czwarte, rekomendacje bywają
+
+92
+00:06:43,680 --> 00:06:46,560
+nierzetelne, co wynika
+z czynnika ludzkiego.
+
+93
+00:06:46,640 --> 00:06:49,200
+Tak jak w każdym innym zawodzie,
+
+94
+00:06:49,280 --> 00:06:54,760
+także wśród analityków giełdowych znajdują
+się ci świetni, jak i ci słabi.
+
+95
+00:06:54,840 --> 00:06:57,480
+Początkującym inwestorom bardzo ciężko
+
+96
+00:06:57,560 --> 00:07:01,320
+jest często odróżnić
+pierwszych od drugich.
+
+97
+00:07:01,400 --> 00:07:04,600
+Po piąte, nawet najlepszy analityk może
+
+98
+00:07:04,680 --> 00:07:09,560
+nie mieć pełnej wiedzy na temat sytuacji 
+w konkretnej spółce, a na pewno nie ma on
+
+99
+00:07:09,640 --> 00:07:14,760
+tak dużej wiedzy jak zarząd danej
+spółki czy też jej rada nadzorcza.
+
+100
+00:07:14,840 --> 00:07:16,760
+Poza tym ogólnie rynki bywają
+
+101
+00:07:16,840 --> 00:07:22,720
+nieprzewidywalne, więc nie wszystkie
+czynniki da się zmieścić w rekomendacji.
+
+102
+00:07:22,800 --> 00:07:25,080
+Rezultatem tych wszystkich czynników jest
+
+103
+00:07:25,160 --> 00:07:31,600
+to, że strategia inwestycyjna polegająca
+na kupowaniu czy sprzedawaniu akcji tuż po
+
+104
+00:07:31,680 --> 00:07:36,680
+publikacji rekomendacji długofalowo
+niestety nie jest skuteczna.
+
+105
+00:07:36,760 --> 00:07:43,720
+Dlatego właśnie rekomendacje dużo bardziej
+warto traktować nie jako wyrocznię, ale
+
+106
+00:07:43,800 --> 00:07:47,560
+jako wsparcie w inwestowaniu
+w spółki giełdowe.
+

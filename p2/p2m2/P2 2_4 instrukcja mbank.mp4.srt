@@ -1,0 +1,216 @@
+1
+00:00:05,200 --> 00:00:11,600
+Spójrzmy jak w praktyce wygląda kupowanie
+jednostek funduszu ETF opartego o akcje.
+
+2
+00:00:11,680 --> 00:00:16,960
+W tym przypadku korzystamy z
+rachunku w biurze maklerskim mBanku.
+
+3
+00:00:17,040 --> 00:00:20,520
+Wchodzimy do wnętrza naszego
+rachunku maklerskiego.
+
+4
+00:00:20,600 --> 00:00:26,880
+Aby złożyć zlecenie kupna, musimy kliknąć
+w zielony przycisk z napisem kupno.
+
+5
+00:00:26,960 --> 00:00:29,880
+Pojawi się formularz, w którym wypełniamy
+
+6
+00:00:29,960 --> 00:00:33,320
+jakie aktywa chcemy
+kupić i w jakiej ilości.
+
+7
+00:00:33,400 --> 00:00:39,080
+Najpierw w wyszukiwarce odnajdujemy
+interesujący nas fundusze ETF.
+
+8
+00:00:39,160 --> 00:00:42,320
+Tutaj wybrałyśmy jednostki funduszy ETF 
+
+9
+00:00:42,400 --> 00:00:47,040
+z bardzo słynnej serii opartej
+o akcje oraz obligacje,
+
+10
+00:00:47,120 --> 00:00:50,200
+chodzi o serię Vanguard Live Strategy.
+
+11
+00:00:50,280 --> 00:00:52,960
+W materiałach dodatkowych z poprzedniej
+
+12
+00:00:53,040 --> 00:00:57,440
+lekcji masz informacje na
+temat tego właśnie funduszu.
+
+13
+00:00:57,520 --> 00:01:03,000
+Po wpisaniu tickera system automatycznie
+podpowiada nam konkretny ETF.
+
+14
+00:01:03,080 --> 00:01:08,600
+Później wpisujemy oczywiście jaką liczbę
+jednostek chcemy kupić
+
+15
+00:01:08,680 --> 00:01:15,480
+i czy ustawiamy jakiś limit cenowy,
+czy może wybieramy kupno PKC.
+
+16
+00:01:15,560 --> 00:01:18,520
+Zauważ, że u dołu pojawia się również
+
+17
+00:01:18,600 --> 00:01:25,160
+informacja, że żeby nabyć jednostki tego
+funduszu należy przeczytać dokument KID.
+
+18
+00:01:25,240 --> 00:01:27,360
+Trzeba więc zaznaczyć, że ten dokument
+
+19
+00:01:27,440 --> 00:01:31,800
+przeczytałaś zanim będziesz
+mogła wykonać transakcję.
+
+20
+00:01:31,880 --> 00:01:34,160
+W naszym przypadku wybieramy konkretny
+
+21
+00:01:34,240 --> 00:01:40,800
+limit ceny, czyli wybieramy zlecenie kupna
+z limitem, a nie zlecenie PKC
+
+22
+00:01:40,880 --> 00:01:46,280
+i ważność tego zlecenia jest
+automatycznie ustawiona jako dzień.
+
+23
+00:01:46,360 --> 00:01:49,600
+Pamiętaj, że większość Twoich zleceń kupna
+
+24
+00:01:49,680 --> 00:01:54,520
+czy sprzedaży będzie z automatu
+ważna do końca bieżącej sesji.
+
+25
+00:01:54,600 --> 00:01:56,840
+Jeżeli więc chcesz, żeby Twoje zlecenie
+
+26
+00:01:56,920 --> 00:02:01,840
+było ważne dłużej, musisz zaznaczyć
+to właśnie w tym formularzu.
+
+27
+00:02:01,920 --> 00:02:08,640
+Tutaj jeszcze zanim zaakceptujemy zlecenie
+kupna, warto spojrzeć na to, że pojawiły
+
+28
+00:02:08,720 --> 00:02:14,320
+się także informacje o tym, jaki
+był wcześniejszy kurs zamknięcia.
+
+29
+00:02:14,400 --> 00:02:17,760
+Tutaj można również zobaczyć, 
+
+30
+00:02:17,840 --> 00:02:23,160
+że ten fundusz jest notowany na
+niemieckiej giełdzie XETRA.
+
+31
+00:02:23,240 --> 00:02:26,000
+Klikamy złóż zlecenie kupna
+
+32
+00:02:26,080 --> 00:02:30,240
+i później często musimy potwierdzić
+to również na naszym telefonie.
+
+33
+00:02:30,320 --> 00:02:33,160
+Jeszcze raz pokazany jest po lewej stronie
+
+34
+00:02:33,240 --> 00:02:38,360
+konkretny walor, czyli po prostu
+nazwa funduszu ETF, które kupujemy,
+
+35
+00:02:38,440 --> 00:02:42,160
+Poniżej giełda, na
+której jest on notowany
+
+36
+00:02:42,240 --> 00:02:46,200
+(w naszym przypadku jest to niemiecka
+giełda XETRA),
+
+37
+00:02:46,280 --> 00:02:52,760
+oraz mamy tutaj także numer ISIN, czyli
+numer seryjny tego właśnie funduszu ETF.
+
+38
+00:02:52,840 --> 00:02:58,280
+Mamy liczbę 3, czyli trzy jednostki
+danego funduszu, limit ceny,
+
+39
+00:02:58,360 --> 00:03:04,400
+ważność naszego zlecenia
+oraz już konkretnie podaną wartość naszego
+
+40
+00:03:04,480 --> 00:03:08,040
+zlecenia z prowizją
+oraz wysokość prowizji.
+
+41
+00:03:08,120 --> 00:03:10,640
+Gdy zobaczymy już to podsumowanie, to
+
+42
+00:03:10,720 --> 00:03:14,200
+ostatnim krokiem jest
+zatwierdzenie tego zlecenia,
+
+43
+00:03:14,280 --> 00:03:16,960
+najczęściej w naszej
+aplikacji na telefonie.
+
+44
+00:03:17,040 --> 00:03:19,320
+Po jakimś czasie pojawia się informacja,
+
+45
+00:03:19,400 --> 00:03:25,200
+że nasze zlecenie zostało zarejestrowane,
+a gdy zostanie ono zrealizowane przez
+
+46
+00:03:25,280 --> 00:03:31,240
+giełdę, to w naszym portfelu pojawią się
+kupione przez nas jednostki funduszu ETF.
+

@@ -1,0 +1,327 @@
+1
+00:00:03,520 --> 00:00:09,120
+Słynny inwestor Warren Buffet powiedział
+kiedyś: cena jest tym, co płacisz;
+
+2
+00:00:09,200 --> 00:00:12,280
+wartość jest tym, co otrzymujesz.
+
+3
+00:00:12,360 --> 00:00:14,800
+Bardzo dobrze podsumował on jedną 
+
+4
+00:00:14,880 --> 00:00:18,040
+z ważnych zasad panujących
+na rynkach finansowych.
+
+5
+00:00:18,120 --> 00:00:21,720
+Cena to nie jest to samo co wartość.
+
+6
+00:00:21,800 --> 00:00:26,080
+Na rynkach finansowych cena akcji
+jest nam zawsze dobrze znana.
+
+7
+00:00:26,160 --> 00:00:28,880
+Możemy ją zobaczyć na wykresie w naszym
+
+8
+00:00:28,960 --> 00:00:32,640
+systemie transakcyjnym czy
+na stronie internetowej.
+
+9
+00:00:32,720 --> 00:00:39,120
+W zasadzie możemy bardzo łatwo ocenić,
+jaka jest cena akcji konkretnej spółki.
+
+10
+00:00:39,200 --> 00:00:43,480
+Patrzymy na te ceny tak, jakbyśmy
+patrzyli na sklepowe metki.
+
+11
+00:00:43,560 --> 00:00:47,400
+Ale czy zawsze to, co kupujemy,
+jest dokładnie tyle warte?
+
+12
+00:00:47,480 --> 00:00:48,760
+Niekoniecznie.
+
+13
+00:00:48,840 --> 00:00:50,920
+Na rynkach finansowych działają dokładnie
+
+14
+00:00:51,000 --> 00:00:54,320
+te same mechanizmy, co na
+rynku jakiegokolwiek innego dobra.
+
+15
+00:00:54,400 --> 00:00:57,800
+Cena akcji może się równać jej
+
+16
+00:00:57,880 --> 00:01:03,200
+wartości, ale mogą zdarzyć
+się także inne sytuacje.
+
+17
+00:01:03,280 --> 00:01:06,280
+Jeśli akurat panuje moda na akcje danej
+
+18
+00:01:06,360 --> 00:01:12,480
+spółki i wiele osób chce je kupić,
+to może się okazać, że przepłacimy.
+
+19
+00:01:12,560 --> 00:01:15,240
+Ale możemy też szukać na rynku okazji,
+
+20
+00:01:15,320 --> 00:01:20,360
+czyli akcji, które akurat są
+w przecenie, w cudzysłowie,
+
+21
+00:01:20,440 --> 00:01:26,040
+czyli takich akcji, których wartość
+jest wyższa niż aktualna cena rynkowa.
+
+22
+00:01:26,120 --> 00:01:32,520
+I właśnie na tym polega inwestowanie w
+wartość, czyli tak zwane value investment.
+
+23
+00:01:32,600 --> 00:01:35,640
+Czym więc jest wartość spółki?
+
+24
+00:01:35,720 --> 00:01:42,160
+Zacznijmy od prostego rozróżnienia ceny
+i wartości akcji konkretnej spółki.
+
+25
+00:01:42,240 --> 00:01:46,360
+Cena to kwota, którą w danym
+momencie musisz zapłacić za akcje.
+
+26
+00:01:46,440 --> 00:01:50,800
+Po prostu pokazuje ona, ile
+kosztują akcje konkretnej spółki,
+
+27
+00:01:50,880 --> 00:01:53,120
+W tym konkretnym momencie.
+
+28
+00:01:53,200 --> 00:01:58,120
+Cena zależy od kondycji finansowej
+spółki czy też od jej perspektyw.
+
+29
+00:01:58,200 --> 00:01:59,520
+Ale nie tylko.
+
+30
+00:01:59,600 --> 00:02:04,560
+Cena może się także wahać w zależności
+od aktualnych nastrojów na rynku.
+
+31
+00:02:04,640 --> 00:02:07,440
+Ceny akcji bardzo łatwo sprawdzić.
+
+32
+00:02:07,520 --> 00:02:11,480
+Możemy ją zobaczyć właśnie w naszym
+systemie transakcyjnym, na stronie
+
+33
+00:02:11,560 --> 00:02:15,320
+internetowej czy po prostu na
+wykresie cen akcji danej spółki.
+
+34
+00:02:15,400 --> 00:02:18,680
+Z kolei wartość pokazuje, ile akcje danej
+
+35
+00:02:18,760 --> 00:02:23,600
+spółki faktycznie są warte, czyli
+ile teoretycznie powinny kosztować.
+
+36
+00:02:23,680 --> 00:02:26,880
+Ocena wartości akcji danej spółki wcale
+
+37
+00:02:26,960 --> 00:02:31,360
+nie jest prosta, a dane na ten
+temat nie są łatwo dostępne.
+
+38
+00:02:31,440 --> 00:02:34,520
+Co więcej, wartość to kwota w dużym
+
+39
+00:02:34,600 --> 00:02:38,840
+stopniu subiektywna. W ocenie
+jednego analityka czy inwestora
+
+40
+00:02:38,920 --> 00:02:43,760
+wartość danej spółki może być
+wyższa niż w ocenie innej osoby.
+
+41
+00:02:43,840 --> 00:02:48,920
+Pod tym kątem rozróżnienie pomiędzy ceną, 
+a wartością jest analogiczne do sytuacji,
+
+42
+00:02:49,000 --> 00:02:52,600
+które prawdopodobnie już
+znasz z codziennego życia.
+
+43
+00:02:52,680 --> 00:02:55,280
+Pomyśl o takich dwóch sytuacjach.
+
+44
+00:02:55,360 --> 00:02:59,680
+Sytuacja pierwsza:
+widzisz w sklepie, na przecenie, model butów
+
+45
+00:02:59,760 --> 00:03:03,000
+trekkingowych, które chciałaś
+kupić od dłuższego czasu.
+
+46
+00:03:03,080 --> 00:03:09,880
+Teraz kosztują one 350 złotych, a
+wcześniej kosztowały 600 złotych.
+
+47
+00:03:09,960 --> 00:03:16,600
+W Twojej ocenie wartość tych butów jest
+większa niż ich cena, czyli 350 złotych.
+
+48
+00:03:16,680 --> 00:03:22,000
+Więc kupujesz te buty, ale dla innej
+osoby, która nie chodzi po górach,
+
+49
+00:03:22,080 --> 00:03:26,400
+te buty praktycznie nie mają
+niemalże żadnej wartości.
+
+50
+00:03:26,480 --> 00:03:31,440
+Sytuacja nr 2 też taka,
+którą może znać wiele z Was:
+
+51
+00:03:31,520 --> 00:03:35,280
+dzień przed Wigilią gorączkowo
+szukasz prezentów pod choinkę.
+
+52
+00:03:35,360 --> 00:03:37,760
+Zaglądasz do księgarni stacjonarnej obok
+
+53
+00:03:37,840 --> 00:03:42,480
+Twojego mieszkania i kupujesz
+kilka książek na prezenty.
+
+54
+00:03:42,560 --> 00:03:46,000
+Wiesz, że przepłaciłaś i że gdybyś kupiła te
+
+55
+00:03:46,080 --> 00:03:50,720
+książki znacznie wcześniej w
+internecie, to zapłaciłabyś dużo mniej.
+
+56
+00:03:50,800 --> 00:03:54,400
+Na rynkach finansowych działają
+dokładnie te same mechanizmy.
+
+57
+00:03:54,480 --> 00:04:00,160
+Możesz albo kupić akcje jakiejś spółki za
+cenę odpowiadającą jej wartości,
+
+58
+00:04:00,240 --> 00:04:05,600
+albo możesz przepłacić, albo
+możesz znaleźć rynkową okazję.
+
+59
+00:04:05,680 --> 00:04:08,200
+I oczywiście wszystkie te trzy warianty
+
+60
+00:04:08,280 --> 00:04:12,080
+mają swoje nazwy w
+terminologii finansowej.
+
+61
+00:04:12,160 --> 00:04:18,440
+Gdy cena akcji jest podobna do jej
+wartości, to wtedy mówimy, że spółka jest
+
+62
+00:04:18,520 --> 00:04:22,120
+właściwie wyceniana według
+jej wartości fundamentalnej.
+
+63
+00:04:22,200 --> 00:04:24,240
+Gdy cena akcji jest wyższa od jej
+
+64
+00:04:24,320 --> 00:04:30,960
+wartości, to mówimy, że spółka jest
+przewartościowane, a jej akcje są drogie.
+
+65
+00:04:31,040 --> 00:04:34,560
+I analogicznie, gdy cena akcji jest niższa
+
+66
+00:04:34,640 --> 00:04:40,880
+od jej wartości, to mówimy, że spółka jest
+niedowartościowana, a jej akcje są tanie.
+
+67
+00:04:40,960 --> 00:04:43,520
+Inwestowanie w wartość to właśnie taka
+
+68
+00:04:43,600 --> 00:04:48,000
+strategia inwestycyjna, która polega na
+poszukiwaniu spółek z tej trzeciej
+
+69
+00:04:48,080 --> 00:04:51,840
+kategorii, czyli takich,
+które są niedowartościowane.
+
+70
+00:04:51,920 --> 00:04:57,600
+W ten sposób możemy kupować spółki po
+cenie niższej niż wynosi ich wartość.
+

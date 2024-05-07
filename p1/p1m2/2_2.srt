@@ -1,0 +1,660 @@
+1
+00:00:02,960 --> 00:00:09,860
+Relacje zysku i ryzyka składają się
+na podstawową zasadę dotyczącą inwestowania.
+
+2
+00:00:09,890 --> 00:00:13,760
+Ogólnie warto wiedzieć, że w świecie
+inwestycji ryzyko wcale nie jest
+
+3
+00:00:13,790 --> 00:00:16,940
+postrzegane negatywnie
+jako cokolwiek złego.
+
+4
+00:00:16,970 --> 00:00:20,940
+Wręcz przeciwnie, wraz z rosnącym ryzykiem
+
+5
+00:00:20,970 --> 00:00:26,460
+bardzo często rosną również nasze
+możliwości zarabiania pieniędzy.
+
+6
+00:00:26,490 --> 00:00:33,120
+W inwestowaniu ryzyko jest czymś, co można
+policzyć i dopasować do siebie, czyli jest
+
+7
+00:00:33,140 --> 00:00:36,520
+to coś, co możemy
+jednocześnie kontrolować.
+
+8
+00:00:36,550 --> 00:00:41,020
+Możemy na to wpływać i możemy
+dopasować poziom ryzyka do siebie.
+
+9
+00:00:41,050 --> 00:00:43,800
+Dlatego w tej lekcji po pierwsze poznasz
+
+10
+00:00:43,830 --> 00:00:49,460
+kluczową zasadę inwestowania, ale też
+po drugie zachęcę Cię do tego, żebyś to
+
+11
+00:00:49,490 --> 00:00:53,420
+ryzyko zaakceptowała,
+a być może nawet polubiła.
+
+12
+00:00:53,450 --> 00:00:56,600
+Ogólnie można powiedzieć, że zysk i ryzyko
+
+13
+00:00:56,630 --> 00:01:02,340
+to takie dwa pojęcia, wokół których
+kręcą się wszystkie inne zależności.
+
+14
+00:01:02,370 --> 00:01:07,480
+Na rynkach finansowych cała filozofia
+inwestowania w zasadzie opiera się o to,
+
+15
+00:01:07,510 --> 00:01:11,740
+żeby zarobić jak najwięcej
+przy jak najmniejszym ryzyku.
+
+16
+00:01:11,770 --> 00:01:17,440
+Czyli zauważ, że w inwestowaniu nie chodzi
+tylko i wyłącznie o odpowiedź na pytanie
+
+17
+00:01:17,470 --> 00:01:22,740
+ile mogę zarobić, ale jednocześnie
+jakie jest moje ryzyko.
+
+18
+00:01:22,770 --> 00:01:26,000
+Czyli jak zrobić tak, żeby poziom moich
+
+19
+00:01:26,030 --> 00:01:31,060
+zarobków mnie satysfakcjonował,
+ale jednocześnie żebym nie wystawiała się na
+
+20
+00:01:31,090 --> 00:01:34,740
+większe ryzyko niż takie, które
+jestem w stanie zaakceptować.
+
+21
+00:01:34,770 --> 00:01:41,000
+A więc najwyższy czas, żebyś poznała
+kluczową zasadę inwestycyjną, która będzie
+
+22
+00:01:41,030 --> 00:01:45,380
+Ci później towarzyszyć praktycznie
+przez wszystkie nasze lekcje.
+
+23
+00:01:45,410 --> 00:01:51,140
+A ta zasada brzmi im większy
+potencjalny zysk, tym większe ryzyko.
+
+24
+00:01:51,170 --> 00:01:58,020
+Innymi słowy, poziom zysku i poziom ryzyka
+są ze sobą nierozerwalnie powiązane.
+
+25
+00:01:58,050 --> 00:02:00,120
+Nie ma takiej inwestycji, która jest
+
+26
+00:02:00,150 --> 00:02:04,140
+bardzo bezpieczna, a jednocześnie
+daje ponadprzeciętne zyski.
+
+27
+00:02:04,170 --> 00:02:06,780
+Jeżeli ktoś Ci taką inwestycję obiecuje,
+
+28
+00:02:06,810 --> 00:02:09,780
+to w Twojej głowie powinna
+się zapalić czerwona lampka.
+
+29
+00:02:09,810 --> 00:02:14,120
+Jeżeli chcesz inwestować bardzo
+bezpiecznie i nastawiasz się przede
+
+30
+00:02:14,150 --> 00:02:19,640
+wszystkim na ochronę Twojego kapitału,
+no to wtedy oczywiście możesz inwestować
+
+31
+00:02:19,670 --> 00:02:23,780
+w ten sposób, ale nie nastawiaj
+się na ponadprzeciętne zyski.
+
+32
+00:02:23,810 --> 00:02:29,080
+Tutaj możesz ewentualnie pokonać inflację,
+czyli zabezpieczyć swoje pieniądze przed
+
+33
+00:02:29,110 --> 00:02:34,660
+spadkiem ich wartości wraz z upływającym
+czasem, ale raczej dużo nie zarobisz.
+
+34
+00:02:34,690 --> 00:02:39,320
+Natomiast jeżeli chcesz zarabiać na
+giełdzie i ogólnie na swoich inwestycjach
+
+35
+00:02:39,350 --> 00:02:44,980
+bardzo dużo, to też możesz to zrobić,
+ale nastaw się wtedy na dużo większe ryzyko.
+
+36
+00:02:45,010 --> 00:02:49,740
+Musisz zaakceptować wtedy większe emocje,
+większy poziom stresu
+
+37
+00:02:49,770 --> 00:02:54,820
+i również przygotować się na scenariusz,
+w którym nie wszystko idzie po Twojej myśli
+
+38
+00:02:54,850 --> 00:02:57,900
+i w którym potencjalnie
+możesz stracić pieniądze.
+
+39
+00:02:57,930 --> 00:03:00,680
+To od Ciebie zależy, którą
+z tych dróg wybierzesz.
+
+40
+00:03:00,710 --> 00:03:03,860
+Żadna z nich nie jest
+ani lepsza, ani gorsza.
+
+41
+00:03:03,890 --> 00:03:07,580
+I co więcej, mam dla ciebie
+trzy dobre wiadomości.
+
+42
+00:03:07,610 --> 00:03:10,180
+Po pierwsze, nic nie jest czarno białe.
+
+43
+00:03:10,210 --> 00:03:15,440
+Nie musi być tak, że wybierasz albo drogę
+bardzo dużego bezpieczeństwa i niskich
+
+44
+00:03:15,470 --> 00:03:21,900
+zysków, albo drogę dużego ryzyka, ale
+i ponadprzeciętnych potencjalnych zysków.
+
+45
+00:03:21,930 --> 00:03:24,880
+Możesz także wybrać drogę pośrodku taki
+
+46
+00:03:24,910 --> 00:03:31,020
+swój złoty środek, czyli dopasować
+poziom ryzyka do swoich preferencji.
+
+47
+00:03:31,050 --> 00:03:36,460
+Druga dobra wiadomość jest taka,
+że ryzyko w inwestowaniu jest policzalne.
+
+48
+00:03:36,490 --> 00:03:39,060
+Wraz z rosnącą wiedzą i doświadczeniem.
+
+49
+00:03:39,090 --> 00:03:44,900
+Nauczysz się oceniać, jaki poziom
+ryzyka wiąże się z konkretną inwestycją.
+
+50
+00:03:44,930 --> 00:03:47,060
+Będziemy mówić o tym zresztą
+
+51
+00:03:47,090 --> 00:03:52,200
+w późniejszych lekcjach, gdy nauczymy się
+już budować portfel inwestycyjny
+
+52
+00:03:52,230 --> 00:03:57,820
+i oczywiście też dopasowywać różne proporcje
+różnych instrumentów finansowych.
+
+53
+00:03:57,850 --> 00:04:02,580
+No i trzecia dobra wiadomość jest taka,
+że ryzyko możesz też sobie stopniować.
+
+54
+00:04:02,610 --> 00:04:08,480
+Możesz zacząć bardzo bezpiecznie,
+a później krok po kroku zwiększać poziom
+
+55
+00:04:08,510 --> 00:04:11,610
+ryzyka i zobaczyć, w którym
+momencie się zatrzymasz.
+
+56
+00:04:11,640 --> 00:04:14,720
+Zobaczysz wtedy, jaki poziom ryzyka
+
+57
+00:04:14,750 --> 00:04:18,540
+i potencjalnych zysków jest
+dla Ciebie optymalny.
+
+58
+00:04:18,570 --> 00:04:21,280
+Skoro już mówimy o ryzyku, to pojawia się
+
+59
+00:04:21,300 --> 00:04:24,960
+bardzo ważne pytanie
+czy jesteśmy w stanie to ryzyko faktycznie
+
+60
+00:04:24,980 --> 00:04:30,460
+w pełni kontrolować i czy są
+jakieś rzeczy poza naszą kontrolą.
+
+61
+00:04:30,480 --> 00:04:34,620
+Otóż w inwestowaniu wyróżnia się
+dwa podstawowe rodzaje ryzyka.
+
+62
+00:04:34,650 --> 00:04:37,700
+Ryzyko systematyczne i nie systematyczne.
+
+63
+00:04:37,720 --> 00:04:41,700
+Ryzyko systematyczne to jest
+tak zwane ryzyko zewnętrzne.
+
+64
+00:04:41,720 --> 00:04:44,320
+To jest po prostu takie ryzyko, które jest
+
+65
+00:04:44,340 --> 00:04:47,780
+związane z tym, jak funkcjonują
+globalne rynki finansowe.
+
+66
+00:04:47,800 --> 00:04:50,560
+Nie jesteśmy w stanie go uniknąć,
+
+67
+00:04:50,590 --> 00:04:53,060
+ale jesteśmy w stanie się
+do niego przygotować.
+
+68
+00:04:53,090 --> 00:04:58,240
+Czyli jesteśmy w stanie dopasować swój
+sposób działania do tego, żeby być
+
+69
+00:04:58,270 --> 00:05:02,180
+przygotowaną na różne
+nieprzewidywalne sytuacje.
+
+70
+00:05:02,210 --> 00:05:07,240
+Wśród takiego systematycznego ryzyka
+wymieniamy na przykład ryzyko stopy
+
+71
+00:05:07,270 --> 00:05:11,500
+procentowej, czyli takie, które się
+wiąże z decyzjami banków centralnych.
+
+72
+00:05:11,530 --> 00:05:16,100
+Ryzyko walutowe powiązane z tym,
+że zmieniają się notowania walut.
+
+73
+00:05:16,130 --> 00:05:21,980
+Ryzyko polityczne związane, jak się sama
+domyślasz, z nieprzewidywalną polityką.
+
+74
+00:05:22,010 --> 00:05:27,400
+Ryzyko zdarzeń, czyli po prostu
+występowanie zdarzeń, na które nie
+
+75
+00:05:27,420 --> 00:05:30,420
+miałyśmy wpływu albo nie
+mogłyśmy ich przewidzieć.
+
+76
+00:05:30,450 --> 00:05:34,120
+Globalna pandemia, kataklizm to są takie
+
+77
+00:05:34,150 --> 00:05:39,080
+rodzaje zdarzeń, które potrafią wpłynąć na
+to, co się dzieje na rynkach finansowych
+
+78
+00:05:39,100 --> 00:05:42,100
+i bezpośrednio potrafią
+wpłynąć na nasze pieniądze.
+
+79
+00:05:42,130 --> 00:05:46,720
+Dodatkowo mamy tutaj także ryzyko
+inflacji, ale na każdy z tych wymienionych
+
+80
+00:05:46,750 --> 00:05:51,280
+rodzajów ryzyka jesteśmy w stanie się
+przygotować, gdy stworzymy portfel
+
+81
+00:05:51,300 --> 00:05:56,600
+inwestycyjny, który jest dobrze dopasowany
+do nas i który przygotowuje nas na różne
+
+82
+00:05:56,630 --> 00:05:59,920
+tego typu sytuacje,
+to wtedy możemy spać spokojnie.
+
+83
+00:05:59,950 --> 00:06:02,320
+W obliczu tych wszystkich
+
+84
+00:06:02,350 --> 00:06:07,300
+nieprzewidywanych wydarzeń, w obliczu
+kryzysów krajów, konfliktów zbrojnych.
+
+85
+00:06:07,330 --> 00:06:08,920
+To właśnie ta wiedza i dobre
+
+86
+00:06:08,950 --> 00:06:12,620
+uporządkowanie portfela
+dają nam spać spokojnie.
+
+87
+00:06:12,650 --> 00:06:16,940
+Jest jeszcze wspomniane ryzyko,
+niesystematyczne, czyli wewnętrzne.
+
+88
+00:06:16,970 --> 00:06:22,720
+Ten rodzaj ryzyka wiąże się po prostu
+z aktywem, w które inwestujemy, czyli z tą
+
+89
+00:06:22,750 --> 00:06:25,980
+konkretną rzeczą, w którą
+wkładamy swoje pieniądze.
+
+90
+00:06:26,010 --> 00:06:31,580
+Tym rodzajem ryzyka możemy w pełni
+zarządzać i możemy je w pełni kontrolować.
+
+91
+00:06:31,600 --> 00:06:34,720
+Czyli możemy być tutaj świadome, na jakie
+
+92
+00:06:34,750 --> 00:06:40,820
+ryzyko się piszemy i co może pójść
+nie tak, a co może pójść nadzwyczaj dobrze.
+
+93
+00:06:40,850 --> 00:06:43,280
+Wśród takiego ryzyka nie systematycznego
+
+94
+00:06:43,300 --> 00:06:46,960
+wymieniamy na przykład
+ryzyko bankructwa, czyli np. to,
+
+95
+00:06:46,980 --> 00:06:48,880
+że gdy inwestujemy w akcje jakiejś
+
+96
+00:06:48,910 --> 00:06:53,060
+spółki, to ta spółka
+potencjalnie może zbankrutować.
+
+97
+00:06:53,090 --> 00:06:59,340
+Do tego ryzyka należy też ryzyko płynności
+związane z tym, czy łatwo tudzież trudno
+
+98
+00:06:59,360 --> 00:07:02,380
+dany papier wartościowy
+kupić albo sprzedać.
+
+99
+00:07:02,410 --> 00:07:05,200
+Mamy tu także ryzyko finansowe,
+
+100
+00:07:05,230 --> 00:07:08,580
+gdy np. inwestujemy w spółkę,
+która jest mocno zadłużona.
+
+101
+00:07:08,600 --> 00:07:12,120
+Do tego dochodzi też
+ryzyko biznesowe, czyli np.fakt,
+
+102
+00:07:12,150 --> 00:07:17,740
+że dana spółka, w którą inwestujemy,
+prowadzi działalność w ryzykownej branży.
+
+103
+00:07:17,770 --> 00:07:20,020
+No i w końcu ryzyko zarządzania, czyli
+
+104
+00:07:20,040 --> 00:07:23,760
+czyli to, że dana spółka może być
+źle zarządzana, czyli np.
+
+105
+00:07:23,790 --> 00:07:28,820
+jej zarząd może nie być kompetentny,
+albo może ten zarząd się zmienić.
+
+106
+00:07:28,850 --> 00:07:31,040
+Tak jak wspomniałam, te wszystkie rodzaje
+
+107
+00:07:31,070 --> 00:07:36,380
+ryzyka nie systematycznego można
+kontrolować, można nim zarządzać.
+
+108
+00:07:36,410 --> 00:07:36,980
+Dlaczego?
+
+109
+00:07:37,010 --> 00:07:42,180
+Dlatego, że to my wybieramy
+w co lokujemy swoje pieniądze.
+
+110
+00:07:42,210 --> 00:07:46,740
+W zasadzie to istnieją dwa sposoby na
+na to, żeby dobrze zarządzić tym ryzykiem.
+
+111
+00:07:46,770 --> 00:07:49,480
+Pierwszym sposobem jest selekcja, czyli
+
+112
+00:07:49,510 --> 00:07:56,060
+czyli to, gdy uczymy się w odpowiedni sposób
+dobierać sobie inwestycje do portfela.
+
+113
+00:07:56,090 --> 00:07:59,480
+Bo przecież gdy robimy selekcję jak
+
+114
+00:07:59,510 --> 00:08:05,080
+jak najlepszych spółek o zdrowej strukturze
+kapitału działających w perspektywicznych
+
+115
+00:08:05,100 --> 00:08:11,060
+branżach, to wtedy redukujemy naturalnie
+to swoje ryzyko, na które się wystawiamy.
+
+116
+00:08:11,090 --> 00:08:15,540
+Aby dokonać odpowiedniej selekcji,
+możemy użyć różnych technik.
+
+117
+00:08:15,570 --> 00:08:17,360
+Wśród nich znajduje się na przykład
+
+118
+00:08:17,390 --> 00:08:19,280
+analiza fundamentalna czy analiza
+
+119
+00:08:19,300 --> 00:08:24,260
+techniczna, o których będę jeszcze
+wspominać w drugiej części naszego kursu.
+
+120
+00:08:24,290 --> 00:08:29,080
+Natomiast drugim sposobem na to, żeby
+ryzykiem zarządzać i żeby je kontrolować
+
+121
+00:08:29,100 --> 00:08:33,580
+jest dywersyfikacja, o której
+też będzie osobna lekcja.
+
+122
+00:08:33,610 --> 00:08:37,820
+Dywersyfikacja to jest po prostu
+zróżnicowanie naszych inwestycji.
+
+123
+00:08:37,850 --> 00:08:42,140
+Fakt, że mówiąc kolokwialnie nie wkładamy
+wszystkich jajek do jednego koszyka.
+
+124
+00:08:42,170 --> 00:08:45,840
+O tym, jak okiełznać ryzyko i jak rozumieć
+
+125
+00:08:45,870 --> 00:08:51,480
+ryzyko, będę jeszcze mówić w tym kursie
+niejednokrotnie, Ale na ten moment ważne,
+
+126
+00:08:51,510 --> 00:08:55,980
+abyś pamiętała, że ryzyko
+w inwestowaniu nie jest niczym negatywnym.
+
+127
+00:08:56,010 --> 00:09:00,860
+Jest ono nierozerwalnie powiązane
+z poziomem potencjalnych zysków.
+
+128
+00:09:00,890 --> 00:09:04,300
+Warto też, abyś pamiętała,
+że są różne rodzaje ryzyka.
+
+129
+00:09:04,320 --> 00:09:09,500
+Niektóre z nich możemy kontrolować,
+na inne bardziej możemy się przygotować.
+
+130
+00:09:09,530 --> 00:09:14,760
+No i pamiętaj o tym, że dzięki selekcji
+i dywersyfikacji, o których jeszcze będę
+
+131
+00:09:14,790 --> 00:09:19,500
+mówić, możesz faktycznie
+realnie ograniczyć swoje ryzyko,
+
+132
+00:09:19,530 --> 00:09:21,500
+okiełznać to ryzyko.
+
+133
+00:09:21,530 --> 00:09:23,820
+Na koniec jednak jedna ważna rzecz.
+
+134
+00:09:23,850 --> 00:09:25,680
+Pamiętaj, że nawet doświadczeni
+
+135
+00:09:25,700 --> 00:09:29,880
+inwestorzy, doświadczony inwestor
+mają świadomość tego, że życie jest
+
+136
+00:09:29,910 --> 00:09:33,740
+nieprzewidywalne i także rynki
+finansowe są nieprzewidywalne.
+
+137
+00:09:33,760 --> 00:09:35,600
+Więc pamiętaj, że w inwestowaniu
+
+138
+00:09:35,630 --> 00:09:38,980
+jak w życiu wiele rzeczy jest
+nieprzewidywalnych.
+
+139
+00:09:39,010 --> 00:09:41,000
+No ale na tym polega jego piękno.
+

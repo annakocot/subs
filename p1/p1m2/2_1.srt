@@ -1,0 +1,344 @@
+1
+00:00:03,120 --> 00:00:07,900
+Stopa zwrotu to jeden z najważniejszych
+terminów powiązanych z inwestowaniem.
+
+2
+00:00:07,930 --> 00:00:11,400
+Według definicji stopa zwrotu, to wyrażony
+
+3
+00:00:11,430 --> 00:00:17,020
+w procentach zwrot osiągnięty z inwestycji
+w danym roku, w relacji do jej kosztu.
+
+4
+00:00:17,040 --> 00:00:20,000
+Czyli mówiąc prościej stopa zwrotu
+
+5
+00:00:20,030 --> 00:00:23,860
+to jest tyle, ile zarabiamy procentowo
+na danej inwestycji.
+
+6
+00:00:23,890 --> 00:00:24,700
+Na przykład:
+
+7
+00:00:24,730 --> 00:00:30,540
+powiedzmy, że kupujesz akcje jakiejś
+spółki na giełdzie za 100 złotych.
+
+8
+00:00:30,570 --> 00:00:35,820
+Po miesiącu odsprzedajesz
+te akcje za 108 złotych.
+
+9
+00:00:35,850 --> 00:00:38,740
+Ile wynosi Twój zysk z inwestycji?
+
+10
+00:00:38,770 --> 00:00:42,020
+Jest to właśnie to 8 złotych.
+
+11
+00:00:42,050 --> 00:00:47,820
+Gdy podzielimy to 8 złotych na
+początkowe 100 to wyjdzie nam 8%.
+
+12
+00:00:47,850 --> 00:00:55,340
+I to 8% jest właśnie Twoją stopą
+zwrotu z inwestycji w skali miesiąca.
+
+13
+00:00:55,370 --> 00:00:57,820
+Jak na miesiąc to całkiem nieźle!
+
+14
+00:00:57,850 --> 00:01:02,160
+Jednak w praktyce warto pamiętać, że są
+czynniki, które obniżają naszą stopę
+
+15
+00:01:02,180 --> 00:01:06,210
+zwrotu, taką realną stopę
+zwrotu z naszej inwestycji.
+
+16
+00:01:06,240 --> 00:01:11,490
+Wśród takich czynników wymienimy
+na przykład: po pierwsze - prowizje.
+
+17
+00:01:11,520 --> 00:01:14,080
+W większości domów maklerskich płacimy
+
+18
+00:01:14,110 --> 00:01:18,100
+prowizję od kupna i sprzedaży
+instrumentów finansowych.
+
+19
+00:01:18,130 --> 00:01:20,360
+Czyli powiedzmy, że jeżeli mamy te akcje,
+
+20
+00:01:20,390 --> 00:01:25,570
+które kupiłaś za 100 złotych
+i sprzedałeś za 108 złotych, ale np.
+
+21
+00:01:25,600 --> 00:01:31,680
+prowizja od kupna i sprzedaży wynosi
+1 złotych, to wtedy zapłaciłaś przy
+
+22
+00:01:31,710 --> 00:01:36,460
+kupnie akcji 1 zł i przy
+sprzedaży kolejny 1 zł.
+
+23
+00:01:36,490 --> 00:01:39,000
+Czyli tak naprawdę Twój realny zysk
+
+24
+00:01:39,030 --> 00:01:47,540
+wyniósł 6 złotych, a Twoja realna
+stopa zwrotu to jest 6%, a nie 8%.
+
+25
+00:01:47,570 --> 00:01:53,280
+Oczywiście zazwyczaj te prowizje to są
+dużo mniejsze prowizje procentowo,
+
+26
+00:01:53,310 --> 00:01:58,600
+czyli te proporcje tutaj trochę zaburzyłam,
+ale chciałam pokazać Ci właśnie w jaki sposób
+
+27
+00:01:58,630 --> 00:02:01,740
+prowizje wpływają na
+Twoją realną stopę zwrotu.
+
+28
+00:02:01,770 --> 00:02:07,080
+Prowizje są szczególnie ważne,
+gdy robimy transakcje często, czyli np.
+
+29
+00:02:07,110 --> 00:02:11,300
+gdy uprawiamy trading, spekulacje,
+inwestujemy bardziej aktywnie,
+
+30
+00:02:11,330 --> 00:02:16,320
+ale w praktyce dla większości inwestorów
+poziom prowizji nie jest aż tak bardzo
+
+31
+00:02:16,350 --> 00:02:21,500
+ważny, dlatego, że większość inwestorów
+inwestuje długoterminowo.
+
+32
+00:02:21,530 --> 00:02:28,320
+Więc gdy kupujemy jakieś akcje
+na 5, 10 czy 15 lat, to wtedy poziom prowizji jest
+
+33
+00:02:28,350 --> 00:02:32,500
+praktycznie nieistotny
+dla naszego ostatecznego wyniku.
+
+34
+00:02:32,530 --> 00:02:35,420
+Ale wtedy liczy się coś innego.
+
+35
+00:02:35,450 --> 00:02:41,120
+Drugim czynnikiem, który wpływa na naszą
+stopę zwrotu i też ją w pewnym stopniu
+
+36
+00:02:41,150 --> 00:02:46,780
+często obniża, jest poziom
+rocznych opłat z danej inwestycji.
+
+37
+00:02:46,810 --> 00:02:52,420
+Takie roczne opłaty pojawiają się przy
+niektórych typach inwestycji:
+
+38
+00:02:52,450 --> 00:02:58,340
+przy funduszach inwestycyjnych, przy
+funduszach ETF, w usługach robodoradców.
+
+39
+00:02:58,370 --> 00:03:04,660
+Po prostu płacimy jakąś stałą opłatę,
+która się rozkłada na cały rok.
+
+40
+00:03:04,690 --> 00:03:07,740
+Zazwyczaj jest to opłata, która jest
+
+41
+00:03:07,770 --> 00:03:12,420
+wymieniana jako opłata w skali roku
+w zależności od rodzaju inwestycji.
+
+42
+00:03:12,450 --> 00:03:15,180
+Wysokość tych opłat może być bardzo różna.
+
+43
+00:03:15,210 --> 00:03:20,440
+Może to być nawet 0,05%, czyli 5 setnych
+
+44
+00:03:20,470 --> 00:03:25,780
+procent w skali roku,
+a mogą to być nawet 3 czy 4% w skali roku.
+
+45
+00:03:25,810 --> 00:03:28,120
+Więc zawsze, gdy chcemy zainwestować
+
+46
+00:03:28,150 --> 00:03:33,180
+w dany instrument, zwłaszcza gdy chcemy
+zainwestować w niego długoterminowo,
+
+47
+00:03:33,210 --> 00:03:38,760
+warto przypatrzeć się jaki jest poziom
+rocznych opłat z danej inwestycji.
+
+48
+00:03:38,790 --> 00:03:41,400
+Oczywiście im niższy tym lepszy,
+
+49
+00:03:41,430 --> 00:03:47,340
+ale pamiętajmy, że jeżeli z kolei inwestujemy
+aktywnie, krótkoterminowo spekulujemy,
+
+50
+00:03:47,370 --> 00:03:52,780
+to wtedy ten poziom opłat rocznych
+nie jest już aż tak istotny, dlatego że wtedy
+
+51
+00:03:52,810 --> 00:03:57,460
+bardziej się liczą dla nas prowizje,
+które płacimy od kupna i sprzedaży.
+
+52
+00:03:57,490 --> 00:04:03,800
+No i w końcu trzecią rzeczą po prowizjach
+i opłatach, która może obniżać i obniża
+
+53
+00:04:03,830 --> 00:04:09,610
+naszą realną stopę zwrotu jest podatek
+od zysków kapitałowych zwany podatkiem Belki.
+
+54
+00:04:09,640 --> 00:04:16,600
+Podatek ten wynosi 19% i jest płacony,
+co ważne, od zysku, czyli tylko i wyłącznie
+
+55
+00:04:16,630 --> 00:04:19,940
+wtedy, kiedy zarabiamy
+na naszej inwestycji.
+
+56
+00:04:19,970 --> 00:04:24,180
+Po prostu musimy się z fiskusem
+częścią tych zysków podzielić.
+
+57
+00:04:24,210 --> 00:04:29,960
+Podatek od zysków kapitałowych płacimy
+praktycznie od każdej inwestycji od lokat
+
+58
+00:04:29,980 --> 00:04:34,980
+bankowych czy kont oszczędnościowych,
+aż po akcje czy ETF.
+
+59
+00:04:35,010 --> 00:04:39,360
+Czasem on jest odliczany automatycznie,
+dlatego czasem go nie widzimy,
+
+60
+00:04:39,390 --> 00:04:40,860
+na przykład w przypadku lokat.
+
+61
+00:04:40,890 --> 00:04:45,940
+Natomiast czasem musimy ten
+podatek zapłacić osobno.
+
+62
+00:04:45,970 --> 00:04:48,840
+Jak to robić jeszcze będę Wam opowiadać
+
+63
+00:04:48,860 --> 00:04:53,500
+w kolejnych modułach, gdy zajmiemy się
+już konkretnymi typami inwestycji.
+
+64
+00:04:53,530 --> 00:04:56,760
+Wielu inwestorów, zwłaszcza tych
+początkujących, albo dopiero
+
+65
+00:04:56,780 --> 00:05:01,180
+potencjalnych, zadaje pytanie
+ile mogę zarobić na moich inwestycjach?
+
+66
+00:05:01,210 --> 00:05:02,700
+Czyli jaka będzie
+
+67
+00:05:02,720 --> 00:05:04,740
+stopa zwrotu z tej inwestycji.
+
+68
+00:05:04,770 --> 00:05:08,100
+Na tak postawione pytanie
+nie ma jednoznacznej odpowiedzi.
+
+69
+00:05:08,130 --> 00:05:10,440
+Inwestowanie jest wprawianiem pieniędzy
+
+70
+00:05:10,470 --> 00:05:14,760
+w ruch na bardzo różne sposoby
+i w zależności od tego, jaki sposób
+
+71
+00:05:14,780 --> 00:05:19,700
+wybierzemy, nasza stopa zwrotu
+może być wyższa albo niższa.
+
+72
+00:05:19,720 --> 00:05:23,380
+Ale o tym, w jaki sposób możemy szacować
+
+73
+00:05:23,410 --> 00:05:27,400
+tę naszą potencjalną stopę
+zwrotu, opowiem w kolejnej lekcji.
+

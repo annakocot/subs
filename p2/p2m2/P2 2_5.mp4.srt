@@ -1,0 +1,469 @@
+1
+00:00:04,480 --> 00:00:10,560
+Bezpośrednie inwestowanie w akcje czy ETF-y
+wymaga od nas pewnej selekcji
+
+2
+00:00:10,640 --> 00:00:14,720
+i przynajmniej podstawowej
+wiedzy o inwestowaniu w akcje.
+
+3
+00:00:14,800 --> 00:00:20,720
+Istnieją jednak sposoby na to, żeby
+ten proces decyzyjny znacząco skrócić.
+
+4
+00:00:20,800 --> 00:00:26,240
+Istnieją bowiem możliwości na
+zainwestowanie w ETF-y, w których wybór
+
+5
+00:00:26,320 --> 00:00:32,960
+odpowiednich ETF-ów dla nas pozostawiamy
+albo specjalistom, albo algorytmom.
+
+6
+00:00:33,040 --> 00:00:35,720
+Ten pierwszy sposób to powierzanie swoich
+
+7
+00:00:35,800 --> 00:00:39,800
+środków zarządzającym w
+funduszach inwestycyjnych.
+
+8
+00:00:39,880 --> 00:00:47,080
+Natomiast ten drugi sposób to powierzanie
+swoich środków na usługi robodoradcy.
+
+9
+00:00:47,160 --> 00:00:49,880
+Kim są robodoradcy?
+
+10
+00:00:49,960 --> 00:00:56,800
+Według definicji robodoradcy to platformy
+cyfrowe, które wykorzystują algorytmy 
+
+11
+00:00:56,880 --> 00:01:02,640
+i technologie do świadczenia usług
+automatycznego zarządzania inwestycjami.
+
+12
+00:01:02,720 --> 00:01:08,800
+W praktyce taka inwestycja polega na tym,
+że wchodząc na stronę konkretnego robodoradcy
+
+13
+00:01:08,880 --> 00:01:15,440
+i dosłownie odpowiadając na kilka
+kilkanaście pytań związanych z naszym
+
+14
+00:01:15,520 --> 00:01:21,840
+charakterem i preferencjami
+inwestycyjnymi, otrzymujemy dopasowany do
+
+15
+00:01:21,920 --> 00:01:26,880
+nas zestaw ETF-ów, w którym
+możemy ulokować pieniądze.
+
+16
+00:01:26,960 --> 00:01:30,640
+ETF dobiera nam właśnie algorytm,
+
+17
+00:01:30,720 --> 00:01:36,760
+który stara się dobrać takie proporcje, żeby
+były one najlepiej dopasowane do naszej
+
+18
+00:01:36,840 --> 00:01:41,280
+sytuacji, do naszego wieku czy
+też horyzontu inwestycyjnego.
+
+19
+00:01:41,360 --> 00:01:43,720
+Choć wykorzystanie algorytmu brzmi jak coś
+
+20
+00:01:43,800 --> 00:01:47,440
+skomplikowanego, to jest
+dokładnie na odwrót.
+
+21
+00:01:47,520 --> 00:01:51,280
+Proces zakładania rachunku u robodoradcy
+
+22
+00:01:51,360 --> 00:01:57,400
+jest bardzo krótki i w zasadzie jedyną
+decyzją, jaką musimy podjąć w trakcie tego
+
+23
+00:01:57,480 --> 00:02:01,920
+procesu jest to, jaką kwotę
+chcemy przeznaczyć na inwestycję.
+
+24
+00:02:02,000 --> 00:02:06,320
+Robodoradztwo z zasady polega
+na inwestowaniu pasywnym.
+
+25
+00:02:06,400 --> 00:02:09,080
+Zazwyczaj przynosi najlepsze efekty, 
+
+26
+00:02:09,160 --> 00:02:13,560
+gdy swoje pieniądze powierzamy na kilka
+czy też kilkanaście lat inwestowania.
+
+27
+00:02:13,640 --> 00:02:19,640
+Warto pamiętać, że cały proces
+inwestycyjny wtedy de facto outsorce'ujemy,
+
+28
+00:02:19,720 --> 00:02:26,600
+czyli oddajemy w zarządzanie algorytmowi.
+Co jakiś czas, zazwyczaj co kwartał,
+
+29
+00:02:26,680 --> 00:02:29,960
+algorytm dokonuje rebalancingu,
+
+30
+00:02:30,040 --> 00:02:36,000
+czyli pilnuje tego, żeby proporcje naszego
+portfela były wciąż dopasowane do nas.
+
+31
+00:02:36,080 --> 00:02:40,200
+Natomiast nasz udział w tej
+inwestycji jest minimalny.
+
+32
+00:02:40,280 --> 00:02:46,800
+W zasadzie przez cały czas jej trwania nie
+musimy podejmować żadnych decyzji oprócz
+
+33
+00:02:46,880 --> 00:02:52,720
+tego, czy chcemy wpłacić dodatkowe
+środki na tego typu inwestycje.
+
+34
+00:02:52,800 --> 00:02:55,880
+Inwestowanie w ETF za pomocą robodoradców
+
+35
+00:02:55,960 --> 00:03:01,600
+wydaje się proste, intuicyjne
+i zaskakująco zautomatyzowane.
+
+36
+00:03:01,680 --> 00:03:05,080
+Ale czy jest to sposób
+odpowiedni dla Ciebie?
+
+37
+00:03:05,160 --> 00:03:09,040
+Podsumuj sobie plusy i
+minusy takiego rozwiązania.
+
+38
+00:03:09,120 --> 00:03:12,160
+Największym plusem inwestowania za pomocą
+
+39
+00:03:12,240 --> 00:03:17,400
+robodoradców jest to, że mamy
+dobrany optymalny zestaw ETF-ów.
+
+40
+00:03:17,480 --> 00:03:20,080
+Robi to za nas algorytm, więc my 
+
+41
+00:03:20,160 --> 00:03:24,560
+w zasadzie nie musimy tutaj podejmować
+żadnej dodatkowej decyzji.
+
+42
+00:03:24,640 --> 00:03:27,640
+Z zasady mamy tutaj dużą dywersyfikację,
+
+43
+00:03:27,720 --> 00:03:34,000
+dlatego że robodoradcy inwestują
+zazwyczaj w ETF-y, które są oparte 
+
+44
+00:03:34,080 --> 00:03:37,960
+o szeroki rynek akcji oraz
+o szeroki rynek obligacji.
+
+45
+00:03:38,040 --> 00:03:43,720
+Bardzo istotnym plusem, który skłania
+wiele osób do tego, żeby inwestować za
+
+46
+00:03:43,800 --> 00:03:49,040
+pomocą robodoradcy jest możliwość
+inwestowania nawet niewielkich kwot.
+
+47
+00:03:49,120 --> 00:03:51,040
+W przypadku najpopularniejszych robodoradców
+
+48
+00:03:51,120 --> 00:03:57,120
+możemy jednorazowo wpłacić
+zaledwie 50 albo 100 złotych.
+
+49
+00:03:57,200 --> 00:04:02,040
+Są to na tyle niewielkie kwoty,
+że inwestowanie w ETF-y zaczyna być
+
+50
+00:04:02,120 --> 00:04:07,040
+dostępne nawet dla osób o wręcz
+symbolicznych zasobach kapitału.
+
+51
+00:04:07,120 --> 00:04:13,280
+Dodatkowo wielu osobom może spodobać
+się całkowita automatyzacja inwestycji.
+
+52
+00:04:13,360 --> 00:04:19,400
+Nie dość, że sam proces zakładania
+rachunku maklerskiego u robodoradcy jest
+
+53
+00:04:19,480 --> 00:04:24,120
+bardzo krótki,
+to jeszcze później możemy nawet ustawić
+
+54
+00:04:24,200 --> 00:04:30,640
+sobie stałe zlecenie przelewu 
+i automatycznie przelewać pewne kwoty na
+
+55
+00:04:30,720 --> 00:04:36,760
+nasze konto robodoradcy i te kwoty
+będą również automatycznie inwestowane.
+
+56
+00:04:36,840 --> 00:04:38,960
+Jeżeli więc posiadamy niewielkie zasoby
+
+57
+00:04:39,040 --> 00:04:43,760
+kapitału, dosłownie takie rzędu 50 czy 100
+złotych miesięcznie,
+
+58
+00:04:43,840 --> 00:04:49,120
+to możemy ustawić sobie automatyczny
+przelew właśnie na taką niewielką kwotę
+
+59
+00:04:49,200 --> 00:04:54,160
+i ona już zacznie dla nas
+pracować w zautomatyzowany sposób.
+
+60
+00:04:54,240 --> 00:04:56,680
+W przypadku robodoradcy nie musimy także
+
+61
+00:04:56,760 --> 00:05:01,880
+samodzielnie pilnować proporcji
+naszych inwestycji, czyli np.
+
+62
+00:05:01,960 --> 00:05:04,440
+przeprowadzać regularnego rebalancingu.
+
+63
+00:05:04,520 --> 00:05:09,680
+Ogólnie taka metoda inwestowania to
+po prostu duża oszczędność czasu.
+
+64
+00:05:09,760 --> 00:05:12,520
+Skoro robodoradcy to taki wygodny sposób
+
+65
+00:05:12,600 --> 00:05:17,000
+na inwestowanie,
+to ile nas kosztuje taka wygoda?
+
+66
+00:05:17,080 --> 00:05:21,800
+Jakie są minusy inwestowania
+za pośrednictwem robodoradców?
+
+67
+00:05:21,880 --> 00:05:25,160
+Największym minusem inwestowania w ETFy za
+
+68
+00:05:25,240 --> 00:05:28,800
+pośrednictwem robodoradców
+są dodatkowe opłaty.
+
+69
+00:05:28,880 --> 00:05:31,240
+W przypadku robodoradców występuje
+
+70
+00:05:31,320 --> 00:05:36,320
+dodatkowa opłata roczna,
+która jest narzucona już ponad te
+
+71
+00:05:36,400 --> 00:05:40,200
+wszystkie opłaty, które dotyczą
+bezpośrednio konkretnych ETF-ów.
+
+72
+00:05:40,280 --> 00:05:46,640
+W rezultacie długofalowo takie rozwiązanie
+nie jest do końca optymalne kosztowo.
+
+73
+00:05:46,720 --> 00:05:49,840
+Dużo bardziej opłacałoby się użyć jednak
+
+74
+00:05:49,920 --> 00:05:54,920
+swojego rachunku zagranicznego, 
+czyli naszego rachunku maklerskiego i kupić ten
+
+75
+00:05:55,000 --> 00:06:00,000
+sam zestaw ETF-ów, tylko po
+prostu z pominięciem tej opłaty.
+
+76
+00:06:00,080 --> 00:06:03,080
+Tutaj jednak warto zaznaczyć, że wielu
+
+77
+00:06:03,160 --> 00:06:09,680
+robodoradców okresowo organizuje promocje
+i w ramach takiej promocji często możemy
+
+78
+00:06:09,760 --> 00:06:15,080
+przeznaczyć pewną kwotę na
+zarządzanie bez żadnych opłat.
+
+79
+00:06:15,160 --> 00:06:17,840
+Gdy trafi się właśnie taka okazja,
+
+80
+00:06:17,920 --> 00:06:24,000
+wtedy można faktycznie wypróbować 
+robodoradcę jako sposób na inwestowanie.
+
+81
+00:06:24,080 --> 00:06:30,240
+Drugim ważnym minusem inwestowania w ETF-y
+za pomocą robodoradców jest to, że jednak
+
+82
+00:06:30,320 --> 00:06:34,800
+zestaw ETF ów dostępnych w
+tej usłudze jest ograniczony.
+
+83
+00:06:34,880 --> 00:06:40,640
+Zazwyczaj robodoradcy bazują na jakimś
+ściśle określonym zestawie ETF-ów
+
+84
+00:06:40,720 --> 00:06:45,760
+i nie mamy tutaj większej
+możliwości zmiany tego zestawu.
+
+85
+00:06:45,840 --> 00:06:48,320
+Oczywiście są pewne wyjątki.
+
+86
+00:06:48,400 --> 00:06:51,560
+Część robodoradców dodatkowo jeszcze
+
+87
+00:06:51,640 --> 00:06:57,240
+tworzy oddzielne portfele, które mogą być
+bardziej spersonalizowane,
+
+88
+00:06:57,320 --> 00:07:01,680
+ale mimo wszystko wiążą się one
+już z większym poziomem ryzyka.
+
+89
+00:07:01,760 --> 00:07:04,320
+No i w końcu, gdy już mówimy o minusach,
+
+90
+00:07:04,400 --> 00:07:10,280
+warto pamiętać, że w zamian za to, że mamy
+praktycznie całkowitą automatyzację
+
+91
+00:07:10,360 --> 00:07:16,680
+inwestycji, mamy również oddanie
+całkowitej kontroli nad naszą inwestycją.
+
+92
+00:07:16,760 --> 00:07:21,960
+Nie mamy tutaj dużego wpływu na to,
+jak nasze pieniądze są inwestowane.
+
+93
+00:07:22,040 --> 00:07:25,360
+A więc podsumowując, inwestowanie w ETF-y za
+
+94
+00:07:25,440 --> 00:07:31,400
+pomocą robodoradców to rozwiązanie przede
+wszystkim dla osób, które mają albo bardzo
+
+95
+00:07:31,480 --> 00:07:35,960
+niski poziom kapitału,
+taki, żeby faktycznie móc wykorzystać
+
+96
+00:07:36,040 --> 00:07:42,120
+możliwość wpłaty niewielkich kwot,
+ale też dla osób zabieganych, czyli takich
+
+97
+00:07:42,200 --> 00:07:47,400
+osób, które chcą w pełni wykorzystać
+automatyzację tej inwestycji.
+
+98
+00:07:47,480 --> 00:07:49,920
+Jeśli chcesz zobaczyć jak wygląda
+
+99
+00:07:50,000 --> 00:07:55,320
+założenie rachunku u robodoradcy,
+zerknij do dodatkowych materiałów.
+

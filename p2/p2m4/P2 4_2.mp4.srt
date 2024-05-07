@@ -1,0 +1,205 @@
+1
+00:00:04,200 --> 00:00:06,360
+Jak już wiesz z poprzedniej lekcji,
+
+2
+00:00:06,440 --> 00:00:10,760
+oszacowanie wartości spółki nie jest wcale
+łatwym zadaniem
+
+3
+00:00:10,840 --> 00:00:16,800
+i bardzo często jest to proces, który
+jest pracochłonny i czasochłonny.
+
+4
+00:00:16,880 --> 00:00:23,040
+Aby ocenić wartość spółki stosowana
+jest tak zwana analiza fundamentalna.
+
+5
+00:00:23,120 --> 00:00:25,320
+Dzieli się ona na kilka etapów.
+
+6
+00:00:25,400 --> 00:00:28,400
+Pierwszy etap to analiza sytuacji spółki.
+
+7
+00:00:28,480 --> 00:00:31,160
+Polega ona na ocenie wyników finansowych
+
+8
+00:00:31,240 --> 00:00:36,200
+danej spółki i jej pozycji na tle
+całej branży i jej konkurencji.
+
+9
+00:00:36,280 --> 00:00:39,560
+Na ocenie pracy i zaangażowania zarządu,
+
+10
+00:00:39,640 --> 00:00:43,320
+realizowanej strategii czy
+też planów na przyszłość.
+
+11
+00:00:43,400 --> 00:00:48,800
+W analizie sytuacji spółki bardzo
+przydatne są sprawozdania finansowe,
+
+12
+00:00:48,880 --> 00:00:53,720
+które są regularnie publikowane przez
+wszystkie spółki giełdowe.
+
+13
+00:00:53,800 --> 00:00:56,760
+Drugi etap to analiza sektorowa.
+
+14
+00:00:56,840 --> 00:00:59,480
+Jest to analiza konkretnego biznesu,
+
+15
+00:00:59,560 --> 00:01:03,440
+w jakim działa dana spółka i
+branży, w jakiej ona się porusza.
+
+16
+00:01:03,520 --> 00:01:09,680
+To może być branża IT, branża produkcji
+gier, branża budowlana czy farmaceutyczna.
+
+17
+00:01:09,760 --> 00:01:12,800
+Tutaj oceniane jest to, czy dany sektor,
+
+18
+00:01:12,880 --> 00:01:19,280
+dana branża jest perspektywiczny, czy może
+staje się coraz bardziej przestarzały,
+
+19
+00:01:19,360 --> 00:01:25,920
+czy ma coraz więcej klientów, czy wręcz
+przeciwnie- klienci z tej branży odchodzą.
+
+20
+00:01:26,000 --> 00:01:31,520
+Tutaj także bierze się pod uwagę to, 
+czy w stosunku do danej branży są stosowane
+
+21
+00:01:31,600 --> 00:01:34,920
+korzystne, czy też może
+niekorzystne regulacje.
+
+22
+00:01:35,000 --> 00:01:39,840
+Trzeci etap to analiza makroekonomiczna,
+czyli jeszcze szersze spojrzenie.
+
+23
+00:01:39,920 --> 00:01:42,840
+Tu przypatrujemy się sytuacji w gospodarce
+
+24
+00:01:42,920 --> 00:01:46,880
+danego kraju czy też całej
+gospodarce globalnej.
+
+25
+00:01:46,960 --> 00:01:52,760
+Analizowane jest to,
+czy sytuacja gospodarcza w danym regionie,
+
+26
+00:01:52,840 --> 00:01:56,720
+czy też w danym kraju, a także
+na całym świecie, czyli np.
+
+27
+00:01:56,800 --> 00:01:58,960
+inflacja, wzrost PKB,
+
+28
+00:01:59,040 --> 00:02:01,560
+działania rządów czy banków centralnych,
+
+29
+00:02:01,640 --> 00:02:04,760
+czy sprzyjają one dalszemu rozwojowi danej
+
+30
+00:02:04,840 --> 00:02:09,160
+spółki, czy może stawiają
+przed nią trudne wyzwania?
+
+31
+00:02:09,240 --> 00:02:13,120
+Kolejny, czwarty etap
+to analiza wskaźnikowa.
+
+32
+00:02:13,200 --> 00:02:17,960
+Jest to bardzo ciekawy etap analizy
+fundamentalnej, w którym mierzone są
+
+33
+00:02:18,040 --> 00:02:21,840
+różnego typu wskaźniki
+badające wartość, np.
+
+34
+00:02:21,920 --> 00:02:26,320
+takie jak cena do zysku czy
+cena do wartości księgowej.
+
+35
+00:02:26,400 --> 00:02:29,240
+Badane jest również to, jak te wskaźniki
+
+36
+00:02:29,320 --> 00:02:34,040
+mają się do wskaźników prezentowanych
+przez spółki konkurencyjne.
+
+37
+00:02:34,120 --> 00:02:40,520
+I dopiero po tych czterech etapach
+dokonywany jest piąty i najważniejszy etap
+
+38
+00:02:40,600 --> 00:02:46,400
+analizy fundamentalnej, czyli
+już właściwa wycena danej spółki.
+
+39
+00:02:46,480 --> 00:02:49,200
+Można ją dokonywać wieloma sposobami.
+
+40
+00:02:49,280 --> 00:02:51,520
+Najsłynniejszym metodami jest tutaj metoda
+
+41
+00:02:51,600 --> 00:02:55,760
+DCF, czyli discounted cash
+flow czy też metoda porównawcza.
+
+42
+00:02:55,840 --> 00:03:02,360
+Ale kluczowe jest to, że to właśnie na tym
+etapie wyliczana jest wartość akcji
+
+43
+00:03:02,440 --> 00:03:08,840
+konkretnej spółki, czyli to, ile w ocenie
+danej osoby, inwestora czy analityka
+
+44
+00:03:08,920 --> 00:03:12,920
+powinny być warte akcje
+danej spółki na giełdzie.
+

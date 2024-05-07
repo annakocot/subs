@@ -1,0 +1,162 @@
+1
+00:00:03,680 --> 00:00:07,600
+Na tym filmiku zobaczysz jak kupić ETF
+
+2
+00:00:07,630 --> 00:00:11,380
+oparty o obligacje
+skarbowe z całego świata.
+
+3
+00:00:11,410 --> 00:00:17,940
+Jest to wnętrze programu X Station,
+czyli rachunku maklerskiego w ramach XTB.
+
+4
+00:00:17,970 --> 00:00:23,520
+Po lewej stronie masz wyszukiwarkę, w
+której możesz wpisać ticker, czyli skrót
+
+5
+00:00:23,550 --> 00:00:29,180
+nazwy wybranego przez Ciebie
+funduszu ETF opartego o obligacje.
+
+6
+00:00:29,210 --> 00:00:35,660
+W naszym wypadku wybieramy tracker
+funduszu ETF Ishares Global Government Bond,
+
+7
+00:00:35,680 --> 00:00:41,860
+czyli po prostu funduszu ETF opartego
+o globalne obligacje skarbowe.
+
+8
+00:00:41,890 --> 00:00:47,920
+Możesz przerzucić sobie wykres tego
+funduszu ETF na prawą stronę i zobaczyć
+
+9
+00:00:47,950 --> 00:00:53,220
+jak kształtował się w ostatnich dniach,
+godzinach, latach czy miesiącach.
+
+10
+00:00:53,250 --> 00:00:56,580
+Możesz na szybko złożyć
+zlecenie już po lewej stronie.
+
+11
+00:00:56,610 --> 00:01:00,400
+W tej tabeli
+natomiast możesz również kliknąć na
+
+12
+00:01:00,430 --> 00:01:05,050
+wykresie prawym przyciskiem
+i utworzyć nowe zlecenie.
+
+13
+00:01:05,080 --> 00:01:08,180
+Pojawi Ci się okienko, w którym u góry
+
+14
+00:01:08,210 --> 00:01:13,210
+widzisz dany instrument, który
+chcesz kupić i dwie możliwości.
+
+15
+00:01:13,240 --> 00:01:16,980
+Zlecenie rynkowe albo zlecenie stop limit.
+
+16
+00:01:17,010 --> 00:01:20,740
+Nam wystarczy tym razem zlecenie rynkowe,
+
+17
+00:01:20,770 --> 00:01:25,660
+czyli kupujemy po cenie, która
+jest aktualnie dostępna na rynku.
+
+18
+00:01:25,690 --> 00:01:30,920
+Możesz tutaj wpisać wolumen, czyli
+informację o tym ile jednostek danego
+
+19
+00:01:30,950 --> 00:01:35,320
+funduszu chcesz kupić,
+a po prawej stronie masz informację o tym,
+
+20
+00:01:35,350 --> 00:01:40,380
+jaka jest wartość Twojej inwestycji
+i jaki jest stan Twojego konta.
+
+21
+00:01:40,410 --> 00:01:45,210
+Poniżej masz też kurs walutowy
+oraz informacje o prowizji.
+
+22
+00:01:45,240 --> 00:01:49,020
+W tym przypadku nie płacimy jej wcale.
+
+23
+00:01:49,050 --> 00:01:54,200
+Gdy klikniesz w Buy, przenosisz się do
+kolejnego okienka, w którym musisz już
+
+24
+00:01:54,230 --> 00:01:58,380
+tylko potwierdzić, czy
+wszystkie dane się zgadzają.
+
+25
+00:01:58,410 --> 00:02:03,960
+Czasem pojawi Ci się dodatkowe okienko, w
+którym musisz potwierdzić, czy zapoznałeś
+
+26
+00:02:03,990 --> 00:02:10,890
+się z dokumentem emitenta, czyli po prostu
+informacjami na temat danego funduszu ETF.
+
+27
+00:02:10,920 --> 00:02:13,780
+Gdy taki komunikat się pojawi, trzeba
+
+28
+00:02:13,810 --> 00:02:17,780
+go zaakceptować, jeżeli nasze
+zlecenie ma zostać przyjęte.
+
+29
+00:02:17,810 --> 00:02:22,540
+W naszym przypadku wypełniamy
+więc jeszcze raz to zlecenie.
+
+30
+00:02:22,570 --> 00:02:25,860
+Oczywiście wygląda ono dokładnie tak samo.
+
+31
+00:02:25,890 --> 00:02:31,200
+Klikamy potwierdzenie i dostajemy
+informację, że nasze zlecenie zostało
+
+32
+00:02:31,230 --> 00:02:35,890
+wysłane, a później, że nasza
+pozycja została już otwarta.
+
+33
+00:02:35,920 --> 00:02:38,360
+I w ten sposób stajemy się właścicielami
+
+34
+00:02:38,390 --> 00:02:43,360
+jednostki funduszu ETF opartego
+o obligacje z całego świata.
+

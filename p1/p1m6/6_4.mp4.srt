@@ -1,0 +1,839 @@
+1
+00:00:03,960 --> 00:00:09,540
+Aby kupić czy też sprzedać akcje, ETF-y czy
+jakiekolwiek inne instrumenty finansowe
+
+2
+00:00:09,570 --> 00:00:13,980
+należy złożyć zlecenie
+kupna albo sprzedaży.
+
+3
+00:00:14,010 --> 00:00:15,880
+Robi się to w tak zwanym formularzu
+
+4
+00:00:15,910 --> 00:00:20,060
+zleceń, który jest dostępny
+na Twoim rachunku maklerskim.
+
+5
+00:00:20,080 --> 00:00:26,060
+Zamiast jakiegoś wyimaginowanego rachunku
+czy też rachunku demo pokażę Wam wnętrze
+
+6
+00:00:26,080 --> 00:00:29,500
+mojego własnego rachunku, 
+z którego ja korzystam na co dzień.
+
+7
+00:00:29,530 --> 00:00:32,360
+Oczywiście formularz składania zleceń 
+
+8
+00:00:32,390 --> 00:00:36,640
+w przypadku każdego rachunku maklerskiego
+może wyglądać nieco inaczej, 
+
+9
+00:00:36,670 --> 00:00:40,100
+ale podstawowe funkcje powinny
+być dokładnie takie same.
+
+10
+00:00:40,130 --> 00:00:45,460
+Zobaczcie jak wygląda wnętrze takiego
+rachunku i zwróćcie uwagę na kilka rzeczy.
+
+11
+00:00:45,490 --> 00:00:49,300
+Po lewej stronie możecie zobaczyć
+wszystkie rachunki, które mam otwarte.
+
+12
+00:00:49,330 --> 00:00:54,200
+We wcześniejszych lekcjach wspominałam Wam
+o tym, że w zależności od tego, jak i w co
+
+13
+00:00:54,230 --> 00:00:58,460
+chcemy inwestować, możemy
+zakładać wiele różnych rachunków.
+
+14
+00:00:58,490 --> 00:01:01,020
+Dlatego właśnie ja mam
+ich całkiem spory zestaw.
+
+15
+00:01:01,050 --> 00:01:04,200
+Gdy chcę kupować lub sprzedawać akcje, 
+
+16
+00:01:04,230 --> 00:01:07,850
+to muszę wybrać któryś
+rachunek z zakładki Akcje.
+
+17
+00:01:07,880 --> 00:01:12,400
+W tym przypadku wybrałam podstawowy
+rachunek maklerski, ale zlecenia na kupno
+
+18
+00:01:12,430 --> 00:01:18,180
+i sprzedaż polskich akcji mogę składać
+również na rachunkach IKE czy IKZE.
+
+19
+00:01:18,210 --> 00:01:20,880
+Tymczasem pozostałe rachunki służą już do
+
+20
+00:01:20,910 --> 00:01:24,140
+nieco innych instrumentów niż
+akcje na polskiej giełdzie.
+
+21
+00:01:24,170 --> 00:01:28,720
+Na przykład, jeżeli chcę kupić jednostki
+funduszy ETF notowane na giełdzie 
+
+22
+00:01:28,750 --> 00:01:33,180
+w Londynie czy we Frankfurcie,
+muszę wybrać rachunek zagranica.
+
+23
+00:01:33,210 --> 00:01:35,640
+A gdy chcę kupić kontrakty terminowe, 
+
+24
+00:01:35,670 --> 00:01:38,540
+to mogę to zrobić jedynie
+na rachunku kontraktowym.
+
+25
+00:01:38,570 --> 00:01:41,180
+U góry wybrałam zakładkę zlecenia.
+
+26
+00:01:41,210 --> 00:01:46,340
+To właśnie w tej zakładce znajdę formularz
+do składania zleceń kupna oraz sprzedaży.
+
+27
+00:01:46,370 --> 00:01:48,320
+Poniżej znajdziemy miejsce, w którym
+
+28
+00:01:48,350 --> 00:01:51,980
+wpisujemy najważniejsze informacje
+przy składaniu zlecenia.
+
+29
+00:01:52,010 --> 00:01:54,120
+Aby złożyć podstawowe zlecenie musimy
+
+30
+00:01:54,150 --> 00:01:57,820
+wybrać papier, czyli
+po prostu nazwę spółki.
+
+31
+00:01:57,850 --> 00:01:58,720
+Można na przykład
+
+32
+00:01:58,750 --> 00:02:04,100
+wybrać CD Projekt. W miejscu,
+gdy widzimy K łamane na S,
+
+33
+00:02:04,130 --> 00:02:07,210
+wybieramy czy chcemy
+kupić czy sprzedać akcje.
+
+34
+00:02:07,240 --> 00:02:12,700
+Oczywiście K oznacza kupno,
+a S oznacza sprzedaż.
+
+35
+00:02:12,730 --> 00:02:17,220
+Ilość: tu wpisujemy ile akcji chcemy
+kupić lub sprzedać. 
+
+36
+00:02:17,250 --> 00:02:19,680
+Limit: tu wpisujemy czy chcemy kupić lub sprzedać
+
+37
+00:02:19,710 --> 00:02:24,340
+akcje po jakiejkolwiek cenie i wtedy
+wybieramy zlecenie PKC
+
+38
+00:02:24,370 --> 00:02:29,340
+czy może mamy jakąś minimalną
+albo maksymalną akceptowalną cenę.
+
+39
+00:02:29,370 --> 00:02:32,660
+To właśnie tutaj ustalamy rodzaj zlecenia,
+
+40
+00:02:32,690 --> 00:02:35,260
+o którym zresztą opowiem
+Wam jeszcze później.
+
+41
+00:02:35,290 --> 00:02:38,200
+A więc powiedzmy, że chcemy kupić 10 akcji
+
+42
+00:02:38,230 --> 00:02:43,940
+spółki CD Projekt i zapłacić za
+nie nie więcej niż 114 zł za akcję.
+
+43
+00:02:43,970 --> 00:02:54,340
+Wtedy wpisujemy papier CD Projekt,
+K łamane przez S: K. Ilość:10, limit: 114.
+
+44
+00:02:54,370 --> 00:02:56,140
+I to w zasadzie tyle.
+
+45
+00:02:56,170 --> 00:02:58,960
+Później tylko klikamy w przycisk 
+
+46
+00:02:58,990 --> 00:03:04,460
+złóż zlecenie i w zasadzie już tylko czekamy
+czy ktoś zgodzi się na naszą cenę.
+
+47
+00:03:04,490 --> 00:03:08,380
+Możemy to śledzić
+właśnie w arkuszu zleceń.
+
+48
+00:03:08,410 --> 00:03:11,420
+Nie zawsze jednak musimy
+ustawiać sobie limit cenowy.
+
+49
+00:03:11,450 --> 00:03:16,260
+Mamy także inne możliwości
+i o nich opowiem za chwilę.
+
+50
+00:03:16,290 --> 00:03:19,900
+Pamiętaj jednak, że nie zawsze
+musisz ustalać sobie limit cenowy.
+
+51
+00:03:19,930 --> 00:03:22,940
+Czasem możesz wybrać
+także inny rodzaj zleceń.
+
+52
+00:03:22,970 --> 00:03:25,000
+W miejscu, w którym wybierasz rodzaj
+
+53
+00:03:25,030 --> 00:03:32,540
+zlecenia może pojawić się wiele
+różnych możliwości PKC, PEG, PCR.
+
+54
+00:03:32,570 --> 00:03:35,920
+Ale prawda jest taka, że nie wszystkie te
+
+55
+00:03:35,950 --> 00:03:39,260
+rodzaje zleceń są często
+wykorzystywane przez inwestorów.
+
+56
+00:03:39,290 --> 00:03:41,680
+Wręcz powiedziałabym, że w codziennym
+
+57
+00:03:41,710 --> 00:03:47,180
+użyciu jest raptem kilka, 
+a w zasadzie dwa podstawowe.
+
+58
+00:03:47,210 --> 00:03:49,540
+I właśnie nimi się zajmiemy w tej lekcji.
+
+59
+00:03:49,570 --> 00:03:51,640
+Pierwszym rodzajem zlecenia, które jest
+
+60
+00:03:51,670 --> 00:03:58,500
+bardzo popularne w codziennym handlu
+jest zlecenie PKC, czyli po każdej cenie.
+
+61
+00:03:58,530 --> 00:04:01,360
+Jak sama nazwa wskazuje, w przypadku tego
+
+62
+00:04:01,390 --> 00:04:06,300
+zlecenia nie zależy Ci na tym, żeby
+kupić akcje po jakiejś konkretnej cenie.
+
+63
+00:04:06,330 --> 00:04:08,940
+Po prostu bierzesz to, co
+jest dostępne na rynku.
+
+64
+00:04:08,970 --> 00:04:11,180
+Zależy Ci bardziej na czasie.
+
+65
+00:04:11,210 --> 00:04:13,700
+To zlecenie jest składane właśnie wtedy,
+
+66
+00:04:13,730 --> 00:04:19,700
+gdy się spieszysz i chcesz jak najszybciej
+zawrzeć transakcje kupna albo sprzedaży.
+
+67
+00:04:19,720 --> 00:04:23,100
+Zlecenie PKC niesie w sobie pewne ryzyko,
+
+68
+00:04:23,130 --> 00:04:28,360
+a mianowicie gdy akceptujesz każdą cenę,
+to może się okazać, że jednak ta oferta po
+
+69
+00:04:28,390 --> 00:04:31,360
+drugiej stronie arkusza
+nie będzie zbyt atrakcyjna.
+
+70
+00:04:31,390 --> 00:04:35,300
+Czyli kupisz albo sprzedasz
+po dość słabym kursie.
+
+71
+00:04:35,330 --> 00:04:38,420
+Ale ten rodzaj zlecenia
+ma też swoje plusy.
+
+72
+00:04:38,450 --> 00:04:43,520
+Gdy składamy zlecenie PKC to automatycznie
+ustawiamy się jako pierwsze w kolejce do
+
+73
+00:04:43,540 --> 00:04:47,680
+kupna albo do sprzedaży,
+czyli zawrzemy tę transakcję jak
+
+74
+00:04:47,710 --> 00:04:51,700
+najszybciej
+i oczywiście możemy wtedy zaakceptować
+
+75
+00:04:51,720 --> 00:04:55,860
+nieco niższą czy też wyższą cenę
+niż na początku zakładaliśmy.
+
+76
+00:04:55,890 --> 00:04:59,440
+Ale z drugiej strony, gdy mamy do
+czynienia z popularnym instrumentem
+
+77
+00:04:59,470 --> 00:05:03,300
+finansowym, popularną
+akcją czy też popularnym ETF-em,
+
+78
+00:05:03,330 --> 00:05:06,440
+to po drugiej stronie arkusza
+
+79
+00:05:06,470 --> 00:05:10,940
+zazwyczaj te oferty i tak
+nie są bardzo niekorzystne.
+
+80
+00:05:10,970 --> 00:05:13,540
+Spójrzmy jeszcze raz na arkusz zleceń.
+
+81
+00:05:13,570 --> 00:05:19,580
+Powiedzmy, że chcesz kupić 10 akcji spółki
+CD Projekt i ustawiasz zlecenie PKC.
+
+82
+00:05:19,600 --> 00:05:26,160
+Oznacza to, że praktycznie od razu
+zgarniamy 10 akcji po cenie 114,85
+
+83
+00:05:26,190 --> 00:05:31,060
+za akcję,
+czyli po najlepszej cenie sprzedaży.
+
+84
+00:05:31,090 --> 00:05:37,520
+A w arkuszu zleceń po prawej stronie
+wolumen sprzedaży spada automatycznie
+
+85
+00:05:37,540 --> 00:05:46,820
+z 804 akcji do 794 akcji, bo 10 akcji
+zostało już sprzedanych Tobie.
+
+86
+00:05:46,850 --> 00:05:51,360
+Analogicznie jeżeli chcesz sprzedać akcje
+i mieć to jak najszybciej z głowy, 
+
+87
+00:05:51,390 --> 00:05:56,580
+to możesz ustawić zlecenie
+sprzedaży akcji również jako PKC.
+
+88
+00:05:56,600 --> 00:06:01,560
+Wtedy oczywiście musisz iść na pewien
+kompromis pod kątem ceny, ale to zlecenie
+
+89
+00:06:01,590 --> 00:06:07,060
+w przypadku płynnych akcji zostanie
+praktycznie zrealizowane natychmiastowo.
+
+90
+00:06:07,090 --> 00:06:09,220
+I tutaj mała ciekawostka:
+
+91
+00:06:09,250 --> 00:06:15,700
+ponieważ zlecenie PKC jest realizowane
+praktycznie natychmiast, to w zasadzie
+
+92
+00:06:15,730 --> 00:06:18,580
+mało kiedy zobaczysz go
+w ogóle w arkuszu zleceń.
+
+93
+00:06:18,600 --> 00:06:23,980
+Ono nawet nie zdąży się tam pojawić,
+a już zostanie zrealizowane.
+
+94
+00:06:24,010 --> 00:06:26,600
+Wyjątkiem jest sytuacja, w której składasz
+
+95
+00:06:26,630 --> 00:06:32,020
+zlecenie po zamknięciu sesji albo
+przed otwarciem kolejnej sesji.
+
+96
+00:06:32,040 --> 00:06:35,480
+Wtedy handel nie jest zawierany,
+
+97
+00:06:35,510 --> 00:06:40,260
+więc te zlecenia czekają aż do otwarcia
+kolejnej sesji giełdowej.
+
+98
+00:06:40,290 --> 00:06:42,820
+Spójrzcie na ten arkusz zleceń.
+
+99
+00:06:42,850 --> 00:06:46,220
+Pokazuję na nim, jak wyglądała sytuacja 23 lutego
+
+100
+00:06:46,250 --> 00:06:52,660
+około godziny 08:20, czyli ponad
+pół godziny przed otwarciem giełdy.
+
+101
+00:06:52,690 --> 00:06:55,560
+Cena akcji, która jest ujęta w kwadratowy
+
+102
+00:06:55,590 --> 00:07:01,260
+nawias, to tak zwany TKO,
+czyli teoretyczny kurs otwarcia.
+
+103
+00:07:01,290 --> 00:07:08,380
+Pokazuje on, ile wynosiłaby cena akcji,
+gdyby w tym momencie otworzył się handel.
+
+104
+00:07:08,410 --> 00:07:14,080
+Ale te 40 minut do rozpoczęcia sesji, ba,
+nawet 5 minut czy 2 minuty do
+
+105
+00:07:14,100 --> 00:07:17,820
+rozpoczęcia sesji,
+to jest na giełdzie bardzo dużo.
+
+106
+00:07:17,850 --> 00:07:22,680
+W praktyce najwięcej się dzieje w arkuszu
+zleceń właśnie tuż przed otwarciem
+
+107
+00:07:22,710 --> 00:07:28,900
+handlu, czyli tuż przed rozpoczęciem sesji
+i już w pierwszych minutach sesji,
+
+108
+00:07:28,920 --> 00:07:33,020
+później największy ruch widzimy
+już na zakończeniu sesji.
+
+109
+00:07:33,040 --> 00:07:37,740
+Drugim niezwykle popularnym zleceniem
+jest zlecenie z limitem ceny.
+
+110
+00:07:37,760 --> 00:07:39,480
+Dla większości inwestorów jest to 
+
+111
+00:07:39,510 --> 00:07:43,180
+w zasadzie jedyne zlecenie,
+jakiego kiedykolwiek używają.
+
+112
+00:07:43,210 --> 00:07:46,420
+Jest ono zdecydowanie bardzo praktyczne.
+
+113
+00:07:46,450 --> 00:07:49,560
+Zlecenie z limitem ceny to podstawowe
+
+114
+00:07:49,590 --> 00:07:53,260
+narzędzie w rękach każdego
+inwestora czy też inwestora.
+
+115
+00:07:53,290 --> 00:07:58,900
+To zlecenie, jak sama nazwa wskazuje,
+pozwala Ci w dużym stopniu kontrolować to,
+
+116
+00:07:58,920 --> 00:08:03,260
+w jakiej cenie kupisz albo
+sprzedasz dany instrument finansowy.
+
+117
+00:08:03,290 --> 00:08:09,200
+Daje Ci ono więc też dużą kontrolę nad
+tym, ile pieniędzy wydajesz na dane akcje
+
+118
+00:08:09,230 --> 00:08:13,900
+czy też inne instrumenty finansowe
+i ile ostatecznie na nich zarabiasz.
+
+119
+00:08:13,920 --> 00:08:17,740
+Jak dokładnie działa
+zlecenie z limitem ceny?
+
+120
+00:08:17,770 --> 00:08:20,260
+Spójrzmy jeszcze raz na arkusz.
+
+121
+00:08:20,290 --> 00:08:23,620
+Zaczynamy od zlecenia
+kupna z limitem ceny.
+
+122
+00:08:23,650 --> 00:08:26,160
+Gdy składasz takie zlecenie, to ustalasz
+
+123
+00:08:26,190 --> 00:08:30,020
+po jakiej maksymalnie
+cenie chcesz kupić akcje.
+
+124
+00:08:30,040 --> 00:08:36,000
+Na przykład chcesz kupić 10 akcji spółki
+CD Projekt, ale nie chcesz zapłacić za nie
+
+125
+00:08:36,030 --> 00:08:40,060
+więcej niż 114,60 za akcję.
+
+126
+00:08:40,080 --> 00:08:43,000
+Wpisujesz więc w formularz Papier: CD
+
+127
+00:08:43,030 --> 00:08:50,020
+Projekt, kupno, ilość:10,
+limit: 114,60.
+
+128
+00:08:50,050 --> 00:08:54,700
+W arkuszu widać, że są już na rynku osoby,
+które dają maksymalnie taką cenę,
+
+129
+00:08:54,730 --> 00:09:01,380
+a dokładnie są 4 takie osoby,
+które chcą łącznie kupić 254 akcje.
+
+130
+00:09:01,410 --> 00:09:04,840
+Twoje zlecenie wpadnie
+więc w tę samą kategorię do
+
+131
+00:09:04,870 --> 00:09:10,300
+czwartego rzędu i staniesz się
+piątą osobą oferującą taką cenę.
+
+132
+00:09:10,320 --> 00:09:13,200
+Liczba kupujących wzrośnie z 4 do 5,
+
+133
+00:09:13,230 --> 00:09:21,500
+a wolumen kupna dla tej
+ceny podskoczy z 254 do 264.
+
+134
+00:09:21,530 --> 00:09:26,060
+A jak dokładnie działa zlecenie
+sprzedaży z limitem ceny?
+
+135
+00:09:26,080 --> 00:09:32,360
+Gdy składasz zlecenie sprzedaży z limitem
+ceny, to ustalasz jaką minimalnie cenę
+
+136
+00:09:32,390 --> 00:09:35,980
+chcesz otrzymać za sprzedawane
+przez siebie akcje.
+
+137
+00:09:36,010 --> 00:09:40,460
+I tutaj ponownie spójrzmy
+na ten sam arkusz zleceń.
+
+138
+00:09:40,490 --> 00:09:45,560
+Powiedzmy, że chcesz sprzedać 10 akcji
+spółki CD Projekt, ale nie chcesz otrzymać
+
+139
+00:09:45,580 --> 00:09:50,820
+za tę akcję mniej niż 114,80 za akcję.
+
+140
+00:09:50,850 --> 00:09:53,920
+Wpisujesz wtedy w formularz: CD Projekt
+
+141
+00:09:53,940 --> 00:10:02,020
+jako papier; sprzedaż, czyli S;
+ilość: 10 i limit 114,80 / sztukę.
+
+142
+00:10:02,050 --> 00:10:06,900
+W arkuszu widać, że osób, które mają
+takie minimum na razie na rynku nie ma.
+
+143
+00:10:06,930 --> 00:10:10,660
+Twoja cena wskakuje jednak na
+pierwsze miejsce w kolejce.
+
+144
+00:10:10,690 --> 00:10:12,940
+Masz najlepszą ofertę sprzedaży,
+
+145
+00:10:12,970 --> 00:10:15,480
+twoje zlecenie znajdzie się w pierwszej
+
+146
+00:10:15,510 --> 00:10:20,080
+linijce, gdzie pojawi się
+oferta sprzedaży wynosząca 114,80
+
+147
+00:10:20,110 --> 00:10:28,020
+z wolumenem równym
+10 i liczbą sprzedających równą 1.
+
+148
+00:10:28,050 --> 00:10:30,240
+W takim przypadku jest szansa, że Twoje
+
+149
+00:10:30,270 --> 00:10:33,260
+zlecenie zostanie bardzo
+szybko zrealizowane.
+
+150
+00:10:33,290 --> 00:10:36,140
+Przy tak płynnych spółkach jak CD Projekt
+
+151
+00:10:36,170 --> 00:10:39,260
+być może będziesz czekała
+dosłownie kilka sekund.
+
+152
+00:10:39,290 --> 00:10:44,260
+Przy mniej płynnych spółkach sytuacja
+jednak potrafi wyglądać zupełnie inaczej.
+
+153
+00:10:44,290 --> 00:10:46,320
+Czasem możesz czekać na realizację
+
+154
+00:10:46,350 --> 00:10:50,560
+zlecenia kilka godzin, 
+a czasem nawet przez cały dzień
+
+155
+00:10:50,580 --> 00:10:56,160
+nie znajdzie się nikt po drugiej stronie
+arkusza, który będzie skłonny zaoferować
+
+156
+00:10:56,190 --> 00:11:00,020
+cenę kupna, która odpowiada
+Twojej cenie sprzedaży.
+
+157
+00:11:00,050 --> 00:11:01,600
+I właśnie dlatego, gdy jesteśmy
+
+158
+00:11:01,630 --> 00:11:06,260
+początkujące, warto wybierać
+te bardziej płynne instrumenty.
+
+159
+00:11:06,290 --> 00:11:09,160
+Ważne jest także to, że możesz ustalać
+
+160
+00:11:09,190 --> 00:11:13,180
+sobie zakres czasowy
+obowiązywania Twojego zlecenia.
+
+161
+00:11:13,210 --> 00:11:15,220
+Większość inwestorów czy inwestorek
+
+162
+00:11:15,250 --> 00:11:20,420
+stosuje zlecenia ważne do końca
+sesji i taka jest domyślna forma.
+
+163
+00:11:20,450 --> 00:11:25,600
+Natomiast jeżeli na przykład chcesz złożyć
+zlecenie z jakimś bardzo atrakcyjnym
+
+164
+00:11:25,630 --> 00:11:30,280
+limitem ceny i jesteś skłonna poczekać
+trochę dłużej, aż to zlecenie zostanie
+
+165
+00:11:30,310 --> 00:11:36,280
+zrealizowane, to równie dobrze możesz
+ustawić sobie dłuższy limit czasowy, 
+
+166
+00:11:36,310 --> 00:11:42,420
+czyli ustawić sobie ważność Twojego zlecenia nie
+do końca bieżącej sesji, ale na przykład
+
+167
+00:11:42,450 --> 00:11:45,540
+do końca tygodnia czy
+też do końca miesiąca.
+
+168
+00:11:45,560 --> 00:11:47,440
+Dwa zlecenia, o których opowiedziałam Wam
+
+169
+00:11:47,470 --> 00:11:53,960
+dzisiaj, czyli PKC, zlecenie po każdej
+cenie oraz zlecenie z limitem ceny
+
+170
+00:11:53,990 --> 00:11:58,380
+to zdecydowanie najpopularniejsze
+rodzaje zleceń wśród inwestorów.
+
+171
+00:11:58,410 --> 00:12:03,920
+Większość inwestorów przez całe swoje
+giełdowe doświadczenie i całe swoje
+
+172
+00:12:03,950 --> 00:12:08,300
+giełdowe życie nie korzysta
+nawet z innych typów zleceń.
+
+173
+00:12:08,330 --> 00:12:11,140
+Ale oczywiście to nie
+oznacza, że one nie istnieją.
+
+174
+00:12:11,170 --> 00:12:12,800
+Istnieją takie zlecenia jak np.
+
+175
+00:12:12,830 --> 00:12:18,500
+PCR, czyli po cenie rynkowej, czy
+też zlecenie SL, czyli stop loss.
+
+176
+00:12:18,530 --> 00:12:23,920
+Wiele zleceń jest jednak wykorzystywana
+głównie w tradingu, a nie w inwestowaniu
+
+177
+00:12:23,950 --> 00:12:27,760
+długoterminowym,
+a to właśnie portfel długoterminowy
+
+178
+00:12:27,790 --> 00:12:30,520
+tworzymy na kursie
+inwestowania od podstaw.
+

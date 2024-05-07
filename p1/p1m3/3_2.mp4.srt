@@ -1,0 +1,599 @@
+1
+00:00:05,080 --> 00:00:10,000
+Tak jak wspomniałam w poprzedniej lekcji,
+aby rozpocząć swoją przygodę z giełdą,
+
+2
+00:00:10,030 --> 00:00:13,100
+będziesz potrzebowała
+rachunku maklerskiego.
+
+3
+00:00:13,130 --> 00:00:19,720
+Ale w zasadzie świat inwestowania jest
+bardzo szeroki i na swojej drodze ogólnie
+
+4
+00:00:19,740 --> 00:00:25,660
+do zadbanych finansów będziesz mogła
+używać różnego typu kont i rachunków.
+
+5
+00:00:25,690 --> 00:00:28,800
+W tej lekcji dowiesz się więc,
+
+6
+00:00:28,830 --> 00:00:33,920
+jakie rachunki mogą być przydatne dla Ciebie,
+i w ogóle jakie rachunki służące
+
+7
+00:00:33,950 --> 00:00:38,660
+do oszczędzania oraz inwestowania
+są dostępne na rynku.
+
+8
+00:00:38,680 --> 00:00:43,260
+Opowiem oczywiście również o tym,
+które mogą Ci się przydać na start.
+
+9
+00:00:43,290 --> 00:00:47,700
+Zacznijmy od grupy rachunków,
+które przydają się do oszczędzania.
+
+10
+00:00:47,730 --> 00:00:52,900
+O nich opowiem jeszcze nieco więcej w
+kolejnym module, w którym zajmę się
+
+11
+00:00:52,930 --> 00:00:58,260
+tematem poduszki finansowej, tym jak ją
+tworzyć i jak ją odpowiednio ulokować.
+
+12
+00:00:58,290 --> 00:01:01,040
+Ale na ten moment warto wymienić takie
+
+13
+00:01:01,070 --> 00:01:06,640
+trzy główne rachunki, które przydadzą Ci
+się właśnie, gdy chcesz oszczędzać,
+
+14
+00:01:06,670 --> 00:01:09,570
+czy też dobrze ulokować
+swoją poduszkę finansową.
+
+15
+00:01:09,600 --> 00:01:13,100
+Po pierwsze oczywiście
+jest to lokata bankowa.
+
+16
+00:01:13,130 --> 00:01:17,020
+Po drugie konto oszczędnościowe,
+również w banku.
+
+17
+00:01:17,050 --> 00:01:20,840
+No i po trzecie rachunek rejestrowy,
+
+18
+00:01:20,870 --> 00:01:27,320
+czyli taki rachunek, który służy do rozpoczęcia
+inwestowania i ogólnie do inwestowania
+
+19
+00:01:27,350 --> 00:01:33,080
+W obligacje detaliczne Skarbu Państwa,
+czyli także tego typu instrumenty,
+
+20
+00:01:33,110 --> 00:01:36,570
+które warto inwestować w ramach
+poduszki finansowej.
+
+21
+00:01:36,600 --> 00:01:39,560
+Rachunek rejestrowy jest de facto czymś
+
+22
+00:01:39,590 --> 00:01:44,820
+pośrednim między rachunkiem służącym do
+oszczędzania, a rachunkiem inwestycyjnym.
+
+23
+00:01:44,850 --> 00:01:50,160
+Bo tak naprawdę obligacje detaliczne, mimo
+że służą do zbudowania poduszki
+
+24
+00:01:50,190 --> 00:01:54,900
+finansowej, są też potencjalną
+długoterminową inwestycją.
+
+25
+00:01:54,930 --> 00:01:56,960
+Jednak gdy zaczynasz inwestować,
+
+26
+00:01:56,990 --> 00:02:00,740
+to potrzebne Ci są również
+rachunki inwestycyjne.
+
+27
+00:02:00,770 --> 00:02:04,900
+Czasem wystarczy jeden, ale
+czasem przydaje się ich kilka.
+
+28
+00:02:04,930 --> 00:02:09,480
+Teraz opowiem Ci, jakie masz różne
+możliwości, jeżeli chodzi o założenie
+
+29
+00:02:09,510 --> 00:02:14,940
+sobie rachunku inwestycyjnego,
+najczęściej zwanego rachunkiem maklerskim.
+
+30
+00:02:14,970 --> 00:02:20,480
+Gdy chcesz założyć swój pierwszy rachunek
+maklerski, to najprawdopodobniej zostanie
+
+31
+00:02:20,510 --> 00:02:24,700
+Ci zaoferowany tak zwany
+podstawowy rachunek akcyjny.
+
+32
+00:02:24,730 --> 00:02:30,760
+Ten rodzaj rachunku służy do kupowania i
+sprzedawania instrumentów finansowych
+
+33
+00:02:30,790 --> 00:02:35,540
+na polskiej giełdzie, czyli na Giełdzie
+Papierów Wartościowych w Warszawie.
+
+34
+00:02:35,570 --> 00:02:38,240
+Tutaj możesz kupować akcje, możesz kupować
+
+35
+00:02:38,270 --> 00:02:44,100
+ETFy, ale tylko te, które są notowane
+właśnie na polskiej giełdzie.
+
+36
+00:02:44,130 --> 00:02:49,400
+Ten rachunek często się przydaje,
+zwłaszcza jeżeli myślisz o tym,
+
+37
+00:02:49,430 --> 00:02:54,940
+żeby inwestować na lokalnym podwórku.
+Wraz z podstawowym rachunkiem akcyjnym
+
+38
+00:02:54,970 --> 00:02:57,040
+czasem dodatkowo może Ci zostać
+
+39
+00:02:57,070 --> 00:03:01,920
+zaproponowany tak zwany rachunek
+kontraktowy, który służy do kupna
+
+40
+00:03:01,950 --> 00:03:05,320
+I sprzedaży kontraktów
+terminowych tego rachunku.
+
+41
+00:03:05,350 --> 00:03:08,100
+Jednak jako początkująca inwestorka
+
+42
+00:03:08,130 --> 00:03:13,900
+go nie potrzebujesz, bo obrót derywatów,
+w tym kontraktami terminowym,
+
+43
+00:03:13,930 --> 00:03:18,760
+tak jak wspominałam w jednej z poprzednich
+lekcji, raczej nie jest dobrym początkiem
+
+44
+00:03:18,790 --> 00:03:23,260
+inwestowania dla osób, które dopiero
+wchodzą na rynek inwestycyjny.
+
+45
+00:03:23,290 --> 00:03:25,640
+Raczej z kontraktów terminowych korzystają
+
+46
+00:03:25,670 --> 00:03:30,800
+doświadczeni inwestorzy. Za to rachunkiem,
+który bardzo często może się przydać,
+
+47
+00:03:30,830 --> 00:03:36,060
+nawet jeżeli jesteś początkująca w
+inwestowaniu, jest rachunek zagraniczny.
+
+48
+00:03:36,090 --> 00:03:40,800
+Czasem rachunek zagraniczny też jest w
+zasadzie domyślnie dodawany do tego
+
+49
+00:03:40,830 --> 00:03:46,120
+podstawowego rachunku maklerskiego,
+ale często jest to osobny rachunek,
+
+50
+00:03:46,150 --> 00:03:51,480
+O który też musisz poprosić, jeżeli
+oczywiście chcesz inwestować także na
+
+51
+00:03:51,510 --> 00:03:56,680
+rynkach zagranicznych,
+czyli kupować akcje, ETFy na giełdzie
+
+52
+00:03:56,710 --> 00:04:02,580
+amerykańskiej, na giełdach europejskich
+czy też innych giełdach z całego świata.
+
+53
+00:04:02,610 --> 00:04:05,100
+Dlaczego ten rachunek jest przydatny?
+
+54
+00:04:05,130 --> 00:04:07,400
+Dlatego, że nawet jako początkująca
+
+55
+00:04:07,430 --> 00:04:13,800
+inwestorka warto, żebyś miała już swoje
+inwestycje porozkładane geograficznie
+
+56
+00:04:13,830 --> 00:04:19,100
+W różnych miejscach świata, czyli żebyś
+zaczęła od razu inwestować międzynarodowo.
+
+57
+00:04:19,130 --> 00:04:24,020
+W ten sposób zadbasz o wspomnianą już
+przeze mnie wcześniej dywersyfikację,
+
+58
+00:04:24,040 --> 00:04:30,180
+czyli o to, żeby mieć porozkładane swoje
+inwestycje w różnych częściach świata.
+
+59
+00:04:30,210 --> 00:04:34,120
+Kolejnym rachunkiem inwestycyjnym,
+rachunkiem maklerskim, który możesz
+
+60
+00:04:34,150 --> 00:04:38,420
+założyć, jest tak zwany
+rachunek forexowy.
+
+61
+00:04:38,450 --> 00:04:41,900
+On również służy do obrotu tak zwanymi
+
+62
+00:04:41,920 --> 00:04:45,420
+derywatami, czyli
+instrumentami pochodnymi.
+
+63
+00:04:45,450 --> 00:04:48,240
+I właśnie z tej przyczyny na ogół również
+
+64
+00:04:48,270 --> 00:04:52,500
+nie jest polecany dla inwestorów
+czy inwestorek początkujących.
+
+65
+00:04:52,530 --> 00:04:57,440
+Na rachunku forexowym najczęściej
+możemy obracać instrumentami na tzw.
+
+66
+00:04:57,470 --> 00:04:59,960
+platformie forexowej, czyli możemy
+
+67
+00:04:59,980 --> 00:05:04,820
+handlować walutami, często
+surowcami czy też indeksami,
+
+68
+00:05:04,840 --> 00:05:07,820
+W ramach tak zwanych instrumentów CFD,
+
+69
+00:05:07,840 --> 00:05:12,460
+czyli właśnie takich instrumentów
+pochodnych, o których Wam już wspominałam.
+
+70
+00:05:12,480 --> 00:05:16,840
+Rachunek forexowy jest ciekawym miejscem
+na zawieranie transakcji i daje bardzo
+
+71
+00:05:16,860 --> 00:05:21,860
+dużo możliwości, ale on również nie
+jest polecany dla początkujących.
+
+72
+00:05:21,890 --> 00:05:28,020
+Właśnie ze względu na to, że obracamy na
+nim bardziej ryzykownymi instrumentami.
+
+73
+00:05:28,040 --> 00:05:32,600
+No i w końcu ciekawym rodzajem rachunków
+inwestycyjnych, w tym także rachunków
+
+74
+00:05:32,630 --> 00:05:39,540
+maklerskich, są wszelkiego typu rachunki
+emerytalne czy też konta emerytalne.
+
+75
+00:05:39,570 --> 00:05:45,080
+To jest taki specyficzny typ rachunków,
+które służą de facto głównie do
+
+76
+00:05:45,100 --> 00:05:50,220
+długoterminowego oszczędzania
+I inwestowania z myślą o naszej emeryturze,
+
+77
+00:05:50,250 --> 00:05:52,860
+czyli po prostu o
+późniejszych latach życia.
+
+78
+00:05:52,890 --> 00:05:56,940
+Zazwyczaj rachunki emerytalne
+mają podstawowy plus:
+
+79
+00:05:56,970 --> 00:06:02,460
+wiążą się z pewnymi korzyściami,
+najczęściej korzyściami podatkowymi.
+
+80
+00:06:02,480 --> 00:06:04,220
+Tak jest na przykład
+
+81
+00:06:04,250 --> 00:06:07,020
+w przypadku IKE czy IKZE.
+
+82
+00:06:07,040 --> 00:06:08,960
+IKE, czyli Indywidualnego Konta
+
+83
+00:06:08,980 --> 00:06:14,700
+Emerytalnego oraz IKZE- Indywidualnego
+Konta Zabezpieczenia Emerytalnego.
+
+84
+00:06:14,730 --> 00:06:18,420
+Każdy z tych rachunków oferuje
+pewne korzyści podatkowe.
+
+85
+00:06:18,450 --> 00:06:23,900
+W przypadku IKE, IKZE nie musicie
+płacić podatku od zysków kapitałowych.
+
+86
+00:06:23,920 --> 00:06:28,460
+W zasadzie przez cały czas waszego
+oszczędzania czy też inwestowania.
+
+87
+00:06:28,480 --> 00:06:31,480
+Co więcej, gdy macie IKZE, to jednocześnie
+
+88
+00:06:31,510 --> 00:06:37,880
+możecie sobie tę Waszą inwestycję na IKZE
+odpisać od podstawy podatku dochodowego
+
+89
+00:06:37,910 --> 00:06:41,960
+I już w danym roku mieć z
+tego korzyści podatkowe.
+
+90
+00:06:41,980 --> 00:06:44,700
+Po prostu zapłacić
+niższy podatek dochodowy.
+
+91
+00:06:44,730 --> 00:06:50,840
+Dodatkowo na europejskim rynku pojawiła
+się także możliwość założenia tak zwanego
+
+92
+00:06:50,860 --> 00:06:56,940
+rachunku OIPE, czyli Ogólnoeuropejskiego
+Indywidualnego Produktu Emerytalnego.
+
+93
+00:06:56,970 --> 00:07:00,080
+Jest to taki twór podobny trochę w swoim
+
+94
+00:07:00,100 --> 00:07:06,400
+funkcjonowaniu do IKE czy IKZE, czyli
+również dający korzyści podatkowe
+
+95
+00:07:06,420 --> 00:07:10,380
+przez cały czas oszczędzania i
+inwestowania w ramach tego konta.
+
+96
+00:07:10,410 --> 00:07:14,420
+Czym więc te rachunki różnią się od
+tradycyjnego rachunku maklerskiego?
+
+97
+00:07:14,450 --> 00:07:16,760
+Przede wszystkim tym, że właśnie gdy
+
+98
+00:07:16,790 --> 00:07:23,380
+inwestujemy na nich, nie płacimy podatku
+dochodowego przez cały czas inwestowania.
+
+99
+00:07:23,410 --> 00:07:27,220
+No chyba, że będziemy chcieli
+wypłacić swoje pieniądze wcześniej.
+
+100
+00:07:27,250 --> 00:07:30,440
+Wtedy po prostu płacimy normalnie podatek
+
+101
+00:07:30,470 --> 00:07:33,420
+od zysków kapitałowych,
+jeżeli wypracowaliśmy zysk.
+
+102
+00:07:33,450 --> 00:07:36,120
+Natomiast gdy wypłacamy pieniądze już po
+
+103
+00:07:36,150 --> 00:07:42,320
+przejściu na emeryturę,po 60 roku życia,
+to faktycznie możemy wtedy wypłacić te
+
+104
+00:07:42,350 --> 00:07:49,140
+pieniądze bez płacenia podatku albo z
+płaceniem nieco niższej stawki podatkowej.
+
+105
+00:07:49,170 --> 00:07:55,460
+Zresztą o rachunkach IKE, IKZE i OIPE
+będą jeszcze oddzielne moduły.
+
+106
+00:07:55,480 --> 00:08:01,420
+Dodatkowo etatowcy mają jeszcze możliwość
+założenia rachunku PPK,
+
+107
+00:08:01,450 --> 00:08:07,860
+czyli Pracowniczych Planów Kapitałowych,
+które oferuje większość firm w Polsce.
+
+108
+00:08:07,890 --> 00:08:10,520
+Niektóre firmy oferują w zamian
+
+109
+00:08:10,540 --> 00:08:16,500
+Pracownicze Plany Emerytalne, czyli PPE,
+ale zarówno jeden, jak i drugi produkt
+
+110
+00:08:16,530 --> 00:08:22,080
+służy w zasadzie temu samemu. Temu, aby
+regularnie oszczędzać i inwestować
+
+111
+00:08:22,100 --> 00:08:28,660
+na emeryturę, odcinając sobie kawałek
+wypłaty, ale też w zamian otrzymując
+
+112
+00:08:28,690 --> 00:08:35,620
+dodatkowy bonus, czyli dopłaty od naszego
+pracodawcy i od państwa polskiego.
+
+113
+00:08:35,650 --> 00:08:38,760
+Rachunki PPK i PPE również są bardzo
+
+114
+00:08:38,790 --> 00:08:42,140
+korzystnym i ciekawym sposobem
+na oszczędzanie na emeryturę.
+
+115
+00:08:42,170 --> 00:08:44,040
+Ale tak naprawdę o tych wszystkich
+
+116
+00:08:44,060 --> 00:08:49,360
+rachunkach emerytalnych opowiem jeszcze w
+oddzielnych lekcjach, bo będą na tym
+
+117
+00:08:49,390 --> 00:08:54,340
+kursie lekcje dotyczące inwestowania
+z myślą o własnej emeryturze.
+
+118
+00:08:54,370 --> 00:09:00,880
+A więc podsumowując: gdy wchodzimy w świat
+inwestowania, gdy zaczynamy swoją przygodę
+
+119
+00:09:00,910 --> 00:09:06,040
+ogólnie z rynkami finansowymi,
+to przydają nam się nie tylko stricte
+
+120
+00:09:06,060 --> 00:09:10,780
+konta służące do oszczędzania,
+lokaty bankowe czy konta oszczędnościowe.
+
+121
+00:09:10,810 --> 00:09:14,900
+To jest tylko początek, chociaż
+oczywiście zawsze lepsze to niż nic.
+
+122
+00:09:14,930 --> 00:09:19,880
+Później przydaje się nam bardzo często
+rachunek rejestrowy, o którym powiem nieco
+
+123
+00:09:19,910 --> 00:09:24,800
+więcej przy okazji budowania poduszki
+finansowej, a także rachunki maklerskie,
+
+124
+00:09:24,820 --> 00:09:29,320
+rachunki inwestycyjne,
+podstawowy rachunek akcyjny, rachunek
+
+125
+00:09:29,350 --> 00:09:34,760
+zagraniczny oraz całe spektrum
+różnych rachunków emerytalnych.
+

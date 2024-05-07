@@ -1,0 +1,225 @@
+1
+00:00:03,680 --> 00:00:06,200
+Jak już wiesz z poprzednich lekcji 
+
+2
+00:00:06,230 --> 00:00:10,500
+i modułów, sposobów na inwestowanie 
+w obligacje jest bardzo dużo,
+
+3
+00:00:10,530 --> 00:00:15,220
+więc możesz wybrać taki sposób, który
+jest najbardziej odpowiedni dla Ciebie.
+
+4
+00:00:15,250 --> 00:00:20,280
+Twoim pierwszym zetknięciem z rynkiem
+obligacji prawdopodobnie już jest poduszka
+
+5
+00:00:20,310 --> 00:00:26,980
+finansowa, czyli moment, w którym kupujesz
+obligacje detaliczne Skarbu Państwa.
+
+6
+00:00:27,010 --> 00:00:30,120
+O tym, jak nabywać takie obligacje i które
+
+7
+00:00:30,150 --> 00:00:34,060
+obligacje wybierać, mówiłam już
+wiele w poprzednich lekcjach.
+
+8
+00:00:34,090 --> 00:00:40,280
+W części pierwszej naszego kursu, w module
+poświęconym poduszce finansowej możesz
+
+9
+00:00:40,310 --> 00:00:47,040
+obejrzeć filmik pokazujący jak krok po
+kroku założyć rachunek rejestrowy, dzięki
+
+10
+00:00:47,070 --> 00:00:52,440
+któremu możesz kupować obligacje
+detaliczne Skarbu Państwa oraz jak krok po
+
+11
+00:00:52,470 --> 00:00:56,660
+kroku kupić obligacje
+detaliczne Skarbu Państwa.
+
+12
+00:00:56,680 --> 00:01:03,220
+Więc jeżeli jeszcze go nie obejrzałeś,
+to odsyłam Cię właśnie do tamtego modułu.
+
+13
+00:01:03,250 --> 00:01:07,120
+Oczywiście obligacje detaliczne można
+kupować nie tylko z myślą o poduszce
+
+14
+00:01:07,150 --> 00:01:12,260
+finansowej, ale również z myślą o
+długoterminowym portfelu inwestycyjnym.
+
+15
+00:01:12,290 --> 00:01:16,290
+A co jeśli chcesz kupić
+obligacje notowane na rynku?
+
+16
+00:01:16,320 --> 00:01:21,840
+Niezależnie od tego, czy chodzi Ci o kupno
+obligacji skarbowych, czy też obligacji
+
+17
+00:01:21,870 --> 00:01:28,180
+korporacyjnych, masz dwie drogi do
+inwestycji w tego typu obligacje.
+
+18
+00:01:28,210 --> 00:01:33,060
+Pierwszą drogą są obligacje
+notowane na rynku Catalyst.
+
+19
+00:01:33,090 --> 00:01:36,400
+Żeby kupić tego typu obligacje, zarówno
+
+20
+00:01:36,430 --> 00:01:42,290
+obligacje skarbowe, jak i obligacje
+samorządowe czy też korporacyjne,
+
+21
+00:01:42,320 --> 00:01:49,060
+należy wejść na swój rachunek maklerski
+i wybrać tam odpowiedni rynek.
+
+22
+00:01:49,090 --> 00:01:52,570
+Czyli w naszym przypadku
+jest to rynek Catalyst.
+
+23
+00:01:52,600 --> 00:01:57,570
+Teraz na ekranie pokazuję Ci, w
+którym miejscu wybierasz taki rynek 
+
+24
+00:01:57,600 --> 00:02:02,540
+w przypadku domu maklerskiego BOŚ.
+To jest właśnie wnętrze rachunku.
+
+25
+00:02:02,570 --> 00:02:04,560
+Natomiast w przypadku Twojego rachunku
+
+26
+00:02:04,590 --> 00:02:09,060
+maklerskiego oczywiście też
+powinnaś taki wybór mieć.
+
+27
+00:02:09,090 --> 00:02:12,060
+Być może znajdzie się on w innym miejscu.
+
+28
+00:02:12,090 --> 00:02:14,800
+Warto pamiętać, że do kupna obligacji na
+
+29
+00:02:14,830 --> 00:02:19,450
+rynku Catalyst wystarczy Ci
+podstawowy rachunek maklerski.
+
+30
+00:02:19,480 --> 00:02:22,420
+Czyli jeżeli masz rachunek, który opiewa
+
+31
+00:02:22,450 --> 00:02:26,000
+na polską giełdę, na
+którym możesz kupować na przykład
+
+32
+00:02:26,030 --> 00:02:28,170
+akcje polskich spółek,
+
+33
+00:02:28,200 --> 00:02:33,890
+to możesz na nim również kupować obligacje
+czy to skarbowe, czy to korporacyjne,
+
+34
+00:02:33,920 --> 00:02:35,890
+na rynku Catalyst.
+
+35
+00:02:35,920 --> 00:02:42,400
+W materiałach dodatkowych do tej lekcji
+zobaczysz jak krok po kroku kupować np.
+
+36
+00:02:42,430 --> 00:02:45,540
+obligacje korporacyjne na rynku Catalyst.
+
+37
+00:02:45,570 --> 00:02:50,980
+Drugim i bardziej popularnym sposobem na
+inwestowanie w obligacje notowane na rynku
+
+38
+00:02:51,010 --> 00:02:56,380
+jest kupno jednostek funduszy ETF,
+opartych właśnie o te obligacje,
+
+39
+00:02:56,410 --> 00:03:02,340
+zarówno obligacje rządowe, czyli
+skarbowe, jak i obligacje korporacyjne.
+
+40
+00:03:02,370 --> 00:03:07,400
+Aby kupić jednostki takiego funduszu ETF,
+potrzebujesz również rachunku
+
+41
+00:03:07,430 --> 00:03:12,600
+maklerskiego, ale tym razem musisz
+zadbać o to, żeby był to tzw.
+
+42
+00:03:12,630 --> 00:03:17,840
+rachunek na zagranicę,
+czyli żebyś mogła na tym rachunku kupować
+
+43
+00:03:17,870 --> 00:03:24,600
+akcje czy też ETF-y z rynków zagranicznych,
+bo właśnie na tych zagranicznych giełdach
+
+44
+00:03:24,630 --> 00:03:29,380
+notowane są najbardziej popularne
+ETF-y oparte o obligacje,
+
+45
+00:03:29,410 --> 00:03:33,610
+zarówno obligacje rządowe,
+jak i obligacje korporacyjne.
+
+46
+00:03:33,640 --> 00:03:38,860
+W materiałach dodatkowych do tej lekcji
+zobaczysz również, jak wygląda przykład
+
+47
+00:03:38,890 --> 00:03:42,960
+inwestycji w jednostki funduszu
+ETF opartego o obligacje.
+

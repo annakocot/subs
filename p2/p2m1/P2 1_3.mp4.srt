@@ -1,0 +1,470 @@
+1
+00:00:04,600 --> 00:00:07,000
+Skarb Państwa emituje jednak nie tylko
+
+2
+00:00:07,030 --> 00:00:12,520
+obligacje detaliczne, które cechują się
+dużą przewidywalnością i są przeznaczone
+
+3
+00:00:12,550 --> 00:00:15,820
+dla inwestorów detalicznych,
+głównie dla osób fizycznych.
+
+4
+00:00:15,850 --> 00:00:18,720
+Emituje on również obligacje notowane 
+
+5
+00:00:18,740 --> 00:00:23,940
+na rynku, czyli takie obligacje, których
+ceny zmieniają się każdego dnia.
+
+6
+00:00:23,970 --> 00:00:27,880
+Są one przeznaczone do kupna przede
+wszystkim dla inwestorów
+
+7
+00:00:27,900 --> 00:00:33,120
+instytucjonalnych, takich jak na przykład
+fundusze inwestycyjne, natomiast później
+
+8
+00:00:33,140 --> 00:00:37,420
+są również notowane na rynku,
+normalnie są notowane na giełdzie.
+
+9
+00:00:37,450 --> 00:00:40,840
+Sprzedaż tego typu obligacji następuje 
+
+10
+00:00:40,870 --> 00:00:46,100
+w ramach przetargów, które są regularnie
+organizowane przez Ministerstwo Finansów.
+
+11
+00:00:46,130 --> 00:00:48,320
+Natomiast później ten rodzaj obligacji
+
+12
+00:00:48,350 --> 00:00:53,780
+jest notowany na giełdzie, podobnie jak
+obligacje komunalne czy korporacyjne.
+
+13
+00:00:53,810 --> 00:00:56,400
+Handel takimi obligacjami odbywa się na
+
+14
+00:00:56,430 --> 00:01:01,700
+platformie Catalyst wchodzącej w skład
+Giełdy Papierów Wartościowych w Warszawie.
+
+15
+00:01:01,730 --> 00:01:04,440
+I tak każda z nas, czyli również ja czy
+
+16
+00:01:04,470 --> 00:01:09,700
+Ty, możemy wtedy na giełdzie
+takie obligacje kupić.
+
+17
+00:01:09,730 --> 00:01:15,520
+Mimo że zarówno obligacje detaliczne, jak
+i obligacje notowane na giełdzie mają
+
+18
+00:01:15,550 --> 00:01:22,160
+często tego samego emitenta, czyli Skarb
+Państwa, to w praktyce inwestowanie w te
+
+19
+00:01:22,190 --> 00:01:25,820
+dwa rodzaje obligacji to są
+dosłownie dwa różne światy.
+
+20
+00:01:25,850 --> 00:01:28,490
+O ile inwestowanie w obligacje detaliczne
+
+21
+00:01:28,520 --> 00:01:34,960
+jest bardzo przewidywalne i mamy tutaj w
+zasadzie tylko kupno obligacji za ściśle
+
+22
+00:01:34,990 --> 00:01:40,930
+określoną cenę i później doliczanie do tego
+odsetek, to obligacje notowane na rynku
+
+23
+00:01:40,960 --> 00:01:44,660
+mają zmieniające się ceny
+praktycznie każdego dnia.
+
+24
+00:01:44,690 --> 00:01:51,260
+Nie ma tutaj więc tej przewidywalności,
+którą oferowały nam obligacje detaliczne.
+
+25
+00:01:51,290 --> 00:01:56,340
+Inne czynniki także wpływają na ceny
+obligacji notowanych na giełdzie.
+
+26
+00:01:56,370 --> 00:01:58,920
+W przypadku inwestowania w obligacje
+
+27
+00:01:58,950 --> 00:02:03,540
+notowane na giełdzie warto poznać
+kilka podstawowych terminów.
+
+28
+00:02:03,570 --> 00:02:08,060
+Wartość nominalna to tak zwana
+cena wyjściowa obligacji.
+
+29
+00:02:08,090 --> 00:02:10,780
+To właśnie od niej naliczane są odsetki.
+
+30
+00:02:10,810 --> 00:02:17,300
+Kupon to oprocentowanie obligacji
+wyrażone w procentach w skali roku.
+
+31
+00:02:17,330 --> 00:02:20,400
+Czyli na przykład jeżeli mamy obligacje 
+
+32
+00:02:20,430 --> 00:02:27,500
+o wartości nominalnej 1000 złotych
+i kupon wynosi 8% w skali roku,
+
+33
+00:02:27,530 --> 00:02:33,500
+to wtedy otrzymujemy odsetki
+na poziomie 80 złotych co rok.
+
+34
+00:02:33,520 --> 00:02:35,560
+I uwzględnijcie tutaj to, że powiedziałam,
+
+35
+00:02:35,590 --> 00:02:41,260
+że wartość nominalna obligacji,
+a nie jej cena wynosi 1000 złotych.
+
+36
+00:02:41,290 --> 00:02:47,610
+Czyli widzimy tutaj, że odsetki, czyli ten
+kupon naliczane są od wartości nominalnej.
+
+37
+00:02:47,640 --> 00:02:51,900
+Okres odsetkowy pokazuje, jak
+często wypłacane są odsetki.
+
+38
+00:02:51,930 --> 00:02:54,400
+Czyli gdy mamy do czynienia np.
+
+39
+00:02:54,430 --> 00:02:57,360
+z rocznym okresem odsetkowym, to znaczy,
+
+40
+00:02:57,390 --> 00:03:02,180
+że odsetki w przypadku takiej
+obligacji wypłacane są co rok.
+
+41
+00:03:02,210 --> 00:03:04,800
+Termin wykupu obligacji czy też okres do
+
+42
+00:03:04,830 --> 00:03:10,200
+wykupu obligacji to informacja o tym,
+kiedy dokładnie dana obligacja zostanie w
+
+43
+00:03:10,230 --> 00:03:13,980
+pełni spłacona, czyli po
+ilu latach od jej emisji.
+
+44
+00:03:14,010 --> 00:03:14,840
+Gdy na przykład
+
+45
+00:03:14,870 --> 00:03:18,860
+mamy okres do wykupu
+obligacji na poziomie 5 lat,
+
+46
+00:03:18,890 --> 00:03:25,780
+oznacza to, że obligacja zostanie w pełni
+spłacona właśnie po 5 latach od jej emisji.
+
+47
+00:03:25,810 --> 00:03:31,860
+I oczywiście może ona w międzyczasie
+wypłacać nam kupon, czyli należne odsetki.
+
+48
+00:03:31,890 --> 00:03:34,500
+W przypadku obligacji notowanych na rynku
+
+49
+00:03:34,530 --> 00:03:39,500
+pamiętajmy, że nie każda z nich wypłaca
+kupon, czyli nie każda wypłaca odsetki.
+
+50
+00:03:39,530 --> 00:03:42,460
+Istnieją również obligacje zero kuponowe,
+
+51
+00:03:42,490 --> 00:03:48,500
+czyli takie, które nie wypłacają
+tych kuponów aż do momentu wykupu.
+
+52
+00:03:48,530 --> 00:03:51,600
+Obligacje zero kuponowe jednak na ogół mają
+
+53
+00:03:51,630 --> 00:03:56,980
+krótki okres do wykupu i właśnie
+dlatego tych kuponów nie wypłacają.
+
+54
+00:03:57,010 --> 00:03:59,920
+Cena rynkowa obligacji to, jak sama nazwa
+
+55
+00:03:59,950 --> 00:04:04,220
+wskazuje, aktualna cena
+obligacji na giełdzie.
+
+56
+00:04:04,250 --> 00:04:06,560
+Warto pamiętać, że w przypadku obligacji
+
+57
+00:04:06,590 --> 00:04:10,820
+notowanych na giełdzie mamy do
+czynienia ze zmiennością ich cen.
+
+58
+00:04:10,850 --> 00:04:15,740
+Czyli nie ma takiej sytuacji, w której
+mamy przewidywalność notowań,
+
+59
+00:04:15,770 --> 00:04:20,860
+a cena nominalna bardzo często
+jest tylko tą ceną wyjściową.
+
+60
+00:04:20,890 --> 00:04:26,820
+Później, gdy obligacje są notowane
+na giełdzie, ich ceny fluktuują.
+
+61
+00:04:26,840 --> 00:04:27,860
+Na koniec
+
+62
+00:04:27,890 --> 00:04:33,780
+bardzo ważny termin, który warto znać w
+przypadku obligacji, czyli ich rentowność.
+
+63
+00:04:33,800 --> 00:04:38,860
+Rentowność określa po prostu ile
+możemy na danej obligacji zarobić.
+
+64
+00:04:38,890 --> 00:04:44,180
+Jest to pojęcie, które jest
+ściśle powiązane z ceną obligacji.
+
+65
+00:04:44,210 --> 00:04:48,180
+Im niższa cena obligacji,
+tym wyższa jej rentowność.
+
+66
+00:04:48,210 --> 00:04:53,680
+W przypadku cen obligacji notowanych na
+rynku mamy ścisłe uzależnienie
+
+67
+00:04:53,710 --> 00:04:57,060
+od aktualnego poziomu inflacji
+i poziomu stóp procentowych.
+
+68
+00:04:57,090 --> 00:04:59,380
+Działa to w ten sposób:
+
+69
+00:04:59,410 --> 00:05:03,580
+gdy rośnie inflacja i gdy rosną
+stopy procentowe, to rośnie
+
+70
+00:05:03,600 --> 00:05:07,740
+rentowność obligacji i spadają jej ceny.
+
+71
+00:05:07,770 --> 00:05:10,520
+Natomiast gdy spada inflacja i spadają
+
+72
+00:05:10,540 --> 00:05:16,500
+stopy procentowe, to spada również
+rentowność obligacji i rosną jej ceny.
+
+73
+00:05:16,530 --> 00:05:22,000
+Te dwa wymienione czynniki, czyli właśnie
+poziom inflacji i poziom stóp
+
+74
+00:05:22,030 --> 00:05:26,560
+procentowych, to są najważniejsze
+czynniki, na które warto zwracać uwagę,
+
+75
+00:05:26,590 --> 00:05:29,820
+gdy chcemy inwestować w
+obligacje notowane na rynku.
+
+76
+00:05:29,850 --> 00:05:33,260
+To one w największym stopniu
+wpływają na ich ceny.
+
+77
+00:05:33,290 --> 00:05:35,340
+Nie są one jednak jedyne.
+
+78
+00:05:35,360 --> 00:05:38,520
+Pamiętajmy, że ceny obligacji rosną za
+
+79
+00:05:38,540 --> 00:05:45,380
+każdym razem, gdy po prostu spada ryzyko
+związane z inwestowaniem w dane obligacje.
+
+80
+00:05:45,410 --> 00:05:51,060
+I to ryzyko może pochodzić z bardzo
+wielu źródeł, także tych geopolitycznych.
+
+81
+00:05:51,090 --> 00:05:53,460
+Warto też pamiętać, że w przypadku
+
+82
+00:05:53,480 --> 00:05:58,020
+obligacji notowanych na rynku działa
+klasyczne prawo popytu i podaży.
+
+83
+00:05:58,040 --> 00:06:00,120
+Jeżeli więcej osób chce kupić dany
+
+84
+00:06:00,150 --> 00:06:04,920
+obligacje, to po prostu są one droższe,
+a gdy nie ma zbyt wielu chętnych do kupna
+
+85
+00:06:04,950 --> 00:06:08,740
+danych obligacji, to
+dane obligacje tanieją.
+
+86
+00:06:08,770 --> 00:06:14,480
+W obligacje skarbowe notowane na rynku
+inwestują przede wszystkim instytucje, 
+
+87
+00:06:14,510 --> 00:06:16,380
+np.fundusze inwestycyjne.
+
+88
+00:06:16,410 --> 00:06:20,820
+Nie zmienia to faktu, że możemy w
+nie również inwestować samodzielnie.
+
+89
+00:06:20,850 --> 00:06:24,900
+I są dwa najpopularniejsze
+sposoby na taką inwestycję.
+
+90
+00:06:24,920 --> 00:06:30,360
+Po pierwsze, na wspomnianym przeze mnie
+rynku Catalyst możemy inwestować 
+
+91
+00:06:30,390 --> 00:06:32,820
+np. w obligacje skarbowe Polski.
+
+92
+00:06:32,850 --> 00:06:35,900
+W praktyce jest to jednak
+mało popularny sposób.
+
+93
+00:06:35,920 --> 00:06:43,760
+Po drugie, możemy inwestować w ETF-y, czyli
+fundusze ETF oparte o obligacje skarbowe
+
+94
+00:06:43,790 --> 00:06:49,060
+i to już nie tylko te polskie, ale
+obligacje skarbowe z całego świata.
+
+95
+00:06:49,090 --> 00:06:52,860
+I takie ETFy są notowane
+na globalnych giełdach.
+
+96
+00:06:52,890 --> 00:06:58,140
+Ten drugi sposób inwestowania w obligacje,
+czyli kupowanie ETF-ów opartych 
+
+97
+00:06:58,170 --> 00:07:03,300
+o obligacje z całego świata, jest dużo
+bardziej popularne wśród inwestorów.
+
+98
+00:07:03,330 --> 00:07:08,400
+Można bowiem inwestować w ETFy zarówno
+samodzielnie, jak i poprzez fundusze
+
+99
+00:07:08,420 --> 00:07:11,660
+inwestycyjne czy też
+poprzez robodoradców.
+
+100
+00:07:11,690 --> 00:07:16,760
+O sposobach na inwestycje w obligacje
+będziemy mówić więcej w kolejnej lekcji.
+

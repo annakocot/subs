@@ -1,0 +1,442 @@
+1
+00:00:03,880 --> 00:00:06,440
+W książkach dotyczących inwestowania czy
+
+2
+00:00:06,520 --> 00:00:11,760
+też na portalach internetowych możesz
+znaleźć wiele różnych rodzajów wykresów.
+
+3
+00:00:11,840 --> 00:00:13,640
+Jednak najpopularniejsze
+
+4
+00:00:13,720 --> 00:00:19,080
+i najpraktyczniejsze z nich to wykres
+liniowy oraz wykres świecowy.
+
+5
+00:00:19,160 --> 00:00:23,080
+Wykres liniowy to najprawdopodobniej
+najprostszy typ wykresu.
+
+6
+00:00:23,160 --> 00:00:27,120
+Ten wykres, jak sama nazwa
+wskazuje, wygląda jak linia.
+
+7
+00:00:27,200 --> 00:00:30,200
+Każdy punkt na tym wykresie to cena
+
+8
+00:00:30,280 --> 00:00:36,480
+zamknięcia z konkretnego dnia, czyli
+ostatnia cena transakcyjna z danej sesji.
+
+9
+00:00:36,560 --> 00:00:41,480
+Teraz na ekranie możesz zobaczyć
+jak wygląda taki wykres liniowy.
+
+10
+00:00:41,560 --> 00:00:46,600
+O ile wykres liniowy stosowany jest
+na rynkach finansowych bardzo często, 
+
+11
+00:00:46,680 --> 00:00:49,040
+to prawdopodobnie jeszcze popularniejszym
+
+12
+00:00:49,120 --> 00:00:53,080
+rodzajem wykresu jest tak
+zwany wykres świecowy.
+
+13
+00:00:53,160 --> 00:00:58,560
+Na nim, zamiast linii, pojawiają
+się tak zwane świece japońskie.
+
+14
+00:00:58,640 --> 00:01:03,200
+I już pokazuje Ci jak taka
+świeca japońska wygląda.
+
+15
+00:01:03,280 --> 00:01:08,480
+Świeca japońska jest formowana
+przez cztery ważne punkty:
+
+16
+00:01:08,560 --> 00:01:11,280
+cenę otwarcia, czyli pierwszą cenę, po
+
+17
+00:01:11,360 --> 00:01:14,800
+której dokonuje się transakcji
+na giełdzie danego dnia;
+
+18
+00:01:14,880 --> 00:01:19,280
+cenę maksymalną, czyli
+najwyższą cenę z danego dnia;
+
+19
+00:01:19,360 --> 00:01:23,960
+cenę minimalną, czyli analogicznie
+najniższą cenę z danego dnia;
+
+20
+00:01:24,040 --> 00:01:29,760
+i cenę zamknięcia, czyli cenę ostatniej
+transakcji w ciągu danego dnia.
+
+21
+00:01:29,840 --> 00:01:35,120
+Środek świecy, czyli grubsza jej część, to
+tak zwany korpus.
+
+22
+00:01:35,200 --> 00:01:42,840
+Natomiast u góry pojawia się tak zwany
+cień górny, podczas gdy u dołu cień dolny.
+
+23
+00:01:42,920 --> 00:01:48,320
+Jeśli w danym dniu cena akcji czy też
+innego aktywa wzrośnie, to na wykresie
+
+24
+00:01:48,400 --> 00:01:53,160
+pojawia się świeca na ogół
+w kolorze białym albo zielonym,
+
+25
+00:01:53,240 --> 00:01:57,760
+w zależności od typu wykresu albo
+od programu, z którego korzystasz.
+
+26
+00:01:57,840 --> 00:02:03,640
+Jeżeli natomiast cena akcji danego aktywa
+indeksu spadnie w danym dniu,
+
+27
+00:02:03,720 --> 00:02:08,400
+to wtedy pojawia się albo świeca
+czarna, albo świeca czerwona.
+
+28
+00:02:08,480 --> 00:02:12,920
+Oczywiście kolor świec
+japońskich jest czysto umowny.
+
+29
+00:02:13,000 --> 00:02:14,680
+Te kolory, o których wspomniałam,
+
+30
+00:02:14,760 --> 00:02:19,680
+najczęściej pojawiają się w podręcznikach
+czy też na portalach finansowych.
+
+31
+00:02:19,760 --> 00:02:21,920
+Natomiast w Twoim programie do
+
+32
+00:02:22,000 --> 00:02:26,360
+inwestowania czy też w programie do
+analizy technicznej prawdopodobnie
+
+33
+00:02:26,440 --> 00:02:32,120
+będziesz mogła ustawić sobie jakikolwiek
+kolor świec japońskich, jaki tylko chcesz.
+
+34
+00:02:32,200 --> 00:02:37,800
+Zobacz jak wyglądają świece
+japońskie w wersji białej i czarnej.
+
+35
+00:02:37,880 --> 00:02:40,520
+Świeca biała to świeca wzrostowa
+
+36
+00:02:40,600 --> 00:02:46,200
+i cena otwarcia jest w tym przypadku
+niższa od ceny zamknięcia,
+
+37
+00:02:46,280 --> 00:02:51,680
+bo po prostu cena akcji czy też
+innego aktywa w danym dniu wzrosła.
+
+38
+00:02:51,760 --> 00:02:54,240
+Z kolei świeca spadkowa jest czarna.
+
+39
+00:02:54,320 --> 00:02:57,640
+Tutaj cena otwarcia jest wyżej, natomiast
+
+40
+00:02:57,720 --> 00:03:02,960
+ze względu na spadek cen danego
+aktywa cena zamknięcia będzie niżej.
+
+41
+00:03:03,040 --> 00:03:08,880
+Zobacz teraz jak wygląda wykres
+świecowy właśnie w wersji czarno białej.
+
+42
+00:03:08,960 --> 00:03:12,000
+Białe świece pokazują tutaj dni, w których
+
+43
+00:03:12,080 --> 00:03:14,640
+mieliśmy do czynienia
+ze wzrostami notowań.
+
+44
+00:03:14,720 --> 00:03:20,960
+Natomiast czarne świece symbolizują te
+dni, w których doszło do spadku notowań.
+
+45
+00:03:21,040 --> 00:03:23,440
+Tak jak wspomniałam na niektórych
+
+46
+00:03:23,520 --> 00:03:28,040
+portalach, czy też w niektórych programach
+do analizy technicznej, często też można
+
+47
+00:03:28,120 --> 00:03:30,960
+natrafić na świece w wersji
+zielonej i czerwonej.
+
+48
+00:03:31,040 --> 00:03:37,200
+W tym przypadku zielona świeca jest świecą
+wzrostową, czyli symbolizuje te dni, 
+
+49
+00:03:37,280 --> 00:03:41,000
+w których mieliśmy do czynienia
+ze wzrostem notowań.
+
+50
+00:03:41,080 --> 00:03:46,640
+Cena otwarcia znajduje się tutaj
+niżej, a cena zamknięcia wyżej.
+
+51
+00:03:46,720 --> 00:03:49,960
+Z kolei świeca czerwona
+to świeca spadkowa.
+
+52
+00:03:50,040 --> 00:03:54,920
+Ona symbolizuje te dni, w których
+mieliśmy do czynienia ze spadkiem notowań.
+
+53
+00:03:55,000 --> 00:04:00,440
+I tutaj mamy cenę otwarcia wyżej,
+a cenę zamknięcia niżej.
+
+54
+00:04:00,520 --> 00:04:05,480
+Gdy spojrzysz na wykres świecowy w wersji
+zielono czerwonej, to łatwo Ci będzie
+
+55
+00:04:05,560 --> 00:04:08,560
+dostrzec te dni, 
+w których notowania rosły
+
+56
+00:04:08,640 --> 00:04:13,360
+- one są zaznaczone na zielono,
+oraz te dni, w których notowania spadały -
+
+57
+00:04:13,440 --> 00:04:15,360
+te są zaznaczone na czerwono.
+
+58
+00:04:15,440 --> 00:04:17,960
+Warto pamiętać, że zakres czasowy
+
+59
+00:04:18,040 --> 00:04:21,720
+konkretnych świec japońskich
+może być bardzo różny.
+
+60
+00:04:21,800 --> 00:04:26,560
+Ja podałam tutaj przykład najprostszy 
+i najczęściej stosowany przez inwestorów,
+
+61
+00:04:26,640 --> 00:04:32,000
+czyli taki, w którym jedna świeca
+symbolizuje dokładnie jeden dzień czy też
+
+62
+00:04:32,080 --> 00:04:36,280
+jedną sesję giełdową,
+ale w zależności od naszych potrzeb jako
+
+63
+00:04:36,360 --> 00:04:40,840
+inwestora czy inwestorki
+możemy ustawić sobie także inne świece.
+
+64
+00:04:40,920 --> 00:04:43,800
+Traderzy, spekulanci czy też osoby, które
+
+65
+00:04:43,880 --> 00:04:49,200
+stosują krótkoterminowe podejście do
+inwestowania, często korzystają ze świec
+
+66
+00:04:49,280 --> 00:04:55,000
+krótszych, czyli takich, w których
+jedna świeca japońska symbolizuje np.
+
+67
+00:04:55,080 --> 00:04:58,720
+godzinę, 15 minut czy nawet minutę.
+
+68
+00:04:58,800 --> 00:05:03,320
+Są także świece, które są
+dosłownie kilkusekundowe.
+
+69
+00:05:03,400 --> 00:05:05,000
+Natomiast inwestorzy, którzy mają
+
+70
+00:05:05,080 --> 00:05:09,760
+długoterminowe podejście, często
+korzystają ze świec dziennych, o których
+
+71
+00:05:09,840 --> 00:05:16,560
+Wam wspomniałam, ale czasem również, żeby
+zaobserwować te najdłuższe trendy, stosują
+
+72
+00:05:16,640 --> 00:05:20,200
+także świece tygodniowe
+czy też miesięczne.
+
+73
+00:05:20,280 --> 00:05:23,360
+Można więc powiedzieć, że jeżeli stosujemy
+
+74
+00:05:23,440 --> 00:05:28,440
+wykres świecowy, to możemy zarówno
+zobaczyć co się dzieje na wykresie tu
+
+75
+00:05:28,520 --> 00:05:33,680
+i teraz, jak kształtują się nastroje
+inwestorów w ciągu danego dnia i do tego
+
+76
+00:05:33,760 --> 00:05:37,280
+nam mogą posłużyć świece
+krótkoterminowe, np.
+
+77
+00:05:37,360 --> 00:05:38,760
+kilkuminutowe.
+
+78
+00:05:38,840 --> 00:05:41,160
+Natomiast możemy za pomocą wykresu
+
+79
+00:05:41,240 --> 00:05:45,440
+świecowego także obserwować
+bardzo szerokie, globalne trendy.
+
+80
+00:05:45,520 --> 00:05:47,840
+I tutaj nam pomogą właśnie świece
+
+81
+00:05:47,920 --> 00:05:52,880
+tygodniowe czy też miesięczne,
+w zależności od tego jakie jest nasze
+
+82
+00:05:52,960 --> 00:05:57,400
+podejście do inwestowania i jaki
+wykres konkretnie analizujemy.
+
+83
+00:05:57,480 --> 00:06:00,880
+Możemy swobodnie przerzucać się między
+
+84
+00:06:00,960 --> 00:06:07,960
+różnymi długościami świec i możemy zarówno
+patrzeć na te krótko i długoterminowe.
+
+85
+00:06:08,040 --> 00:06:12,200
+Skoro opowiedziałam o dwóch rodzajach
+wykresów, to naturalnie może pojawić się
+
+86
+00:06:12,280 --> 00:06:17,480
+pytanie: czy któryś z nich jest
+lepszy, praktyczniejszy w stosowaniu?
+
+87
+00:06:17,560 --> 00:06:19,840
+Na to pytanie nie ma jednej odpowiedzi.
+
+88
+00:06:19,920 --> 00:06:24,080
+Wielu inwestorów korzysta
+z obu tych typów wykresów.
+
+89
+00:06:24,160 --> 00:06:29,920
+Często wykresy liniowe są stosowane do
+zobaczenia długoterminowych trendów.
+
+90
+00:06:30,000 --> 00:06:34,360
+Pozwalają spojrzeć na wiele
+spraw z szerszej perspektywy.
+
+91
+00:06:34,440 --> 00:06:38,880
+Natomiast wykresy świecowe są
+dużo bardziej wszechstronne.
+
+92
+00:06:38,960 --> 00:06:43,680
+Można z ich pomocą albo skutecznie
+spekulować i zwracać uwagę na
+
+93
+00:06:43,760 --> 00:06:49,480
+krótkoterminowe ruchy cenowe, jak i można
+dostrzegać na nich długoterminowe trendy.
+

@@ -1,0 +1,210 @@
+1
+00:00:04,040 --> 00:00:06,480
+Gdy inwestujemy w obligacje zarówno
+
+2
+00:00:06,510 --> 00:00:10,380
+obligacje detaliczne, jak 
+i obligacje notowane na rynku.
+
+3
+00:00:10,410 --> 00:00:13,460
+Zazwyczaj rozliczenie
+podatkowe jest proste.
+
+4
+00:00:13,490 --> 00:00:15,840
+Zacznijmy od rozliczenia podatków, gdy
+
+5
+00:00:15,870 --> 00:00:18,780
+inwestujemy w obligacje
+detaliczne Skarbu Państwa.
+
+6
+00:00:18,810 --> 00:00:21,720
+W tym przypadku tego rozliczenia nawet nie
+
+7
+00:00:21,740 --> 00:00:27,460
+odczuwamy, gdyż na nasze konto
+wpadają już odsetki netto.
+
+8
+00:00:27,490 --> 00:00:30,880
+Podatek jest od nich wcześniej odcięty 
+
+9
+00:00:30,900 --> 00:00:35,960
+i my nie musimy już składać żadnych
+dodatkowych wniosków ani formularzy, 
+
+10
+00:00:35,990 --> 00:00:40,260
+żeby podatkowo się rozliczyć z
+zysków z obligacji detalicznych.
+
+11
+00:00:40,290 --> 00:00:42,800
+Natomiast jeżeli inwestujemy w obligacje
+
+12
+00:00:42,830 --> 00:00:49,100
+notowane na rynku, zarówno obligacje
+skarbowe, jak i obligacje korporacyjne,
+
+13
+00:00:49,130 --> 00:00:54,100
+to musimy odprowadzić podatek od zysków
+kapitałowych, czyli podatek Belki.
+
+14
+00:00:54,130 --> 00:00:56,600
+W ramach naszego corocznego rozliczenia 
+
+15
+00:00:56,630 --> 00:01:01,060
+z urzędem skarbowym jest to
+jednak relatywnie proste.
+
+16
+00:01:01,090 --> 00:01:04,050
+Po zakończeniu każdego roku kalendarzowego
+
+17
+00:01:04,080 --> 00:01:09,050
+większość domów maklerskich
+wysyła nam formularz PIT 8C.
+
+18
+00:01:09,080 --> 00:01:14,680
+W formularzu tym ujęte jest podsumowanie
+naszych zysków z różnych inwestycji
+
+19
+00:01:14,710 --> 00:01:21,960
+kapitałowych, które wykonaliśmy właśnie w
+tym domu maklerskim, akcji ETF-ów czy też
+
+20
+00:01:21,990 --> 00:01:25,210
+obligacji oraz innych
+papierów wartościowych.
+
+21
+00:01:25,240 --> 00:01:29,360
+Oczywiście jeżeli macie rachunki
+maklerskie w kilku różnych domach
+
+22
+00:01:29,390 --> 00:01:33,850
+maklerskich, to otrzymacie
+kilka takich formularzy 8C.
+
+23
+00:01:33,880 --> 00:01:36,210
+Dlatego, że każdy dom maklerski
+
+24
+00:01:36,240 --> 00:01:40,540
+podsumowuje Wasze inwestycje
+właśnie w tej instytucji.
+
+25
+00:01:40,570 --> 00:01:44,720
+Gdy macie już informacje na
+temat tego, ile zarobiłyście np.
+
+26
+00:01:44,750 --> 00:01:50,520
+na danych ETF-ach na obligacje albo na
+konkretnych obligacjach, to możecie wpisać
+
+27
+00:01:50,550 --> 00:01:57,540
+tę kwotę do formularza PIT-38, który służy
+do rozliczania się z zysków kapitałowych.
+
+28
+00:01:57,570 --> 00:02:03,460
+Pamiętajcie jednak, że musicie rozliczać
+podatek tylko od zrealizowanych zysków.
+
+29
+00:02:03,490 --> 00:02:05,280
+Oznacza to, że jeżeli np.
+
+30
+00:02:05,310 --> 00:02:07,460
+inwestujecie długoterminowo
+
+31
+00:02:07,490 --> 00:02:12,380
+i kupicie jakiś ETF, ale nie sprzedacie go
+w danym roku kalendarzowym,
+
+32
+00:02:12,410 --> 00:02:17,540
+to wtedy nie pojawi się zysk, który
+musicie rozliczyć z urzędem skarbowym.
+
+33
+00:02:17,570 --> 00:02:19,640
+Mimo że widzicie, że na przykład
+
+34
+00:02:19,670 --> 00:02:22,960
+wartość jednostki tego ETF-a zyskała na
+
+35
+00:02:22,990 --> 00:02:28,520
+wartości i jesteście na plusie,
+to dopóki nie sprzedajcie tego ETF-a,
+
+36
+00:02:28,550 --> 00:02:32,500
+nie musicie rozliczać tego w
+podatku od zysków kapitałowych.
+
+37
+00:02:32,530 --> 00:02:34,820
+A co jeśli macie stratę?
+
+38
+00:02:34,850 --> 00:02:39,600
+Jeżeli jest to strata niezrealizowana,
+czyli nie sprzedałyście danej obligacji czy
+
+39
+00:02:39,630 --> 00:02:44,420
+danego ETF-a, to również nie musicie
+rozliczać się z urzędem skarbowym.
+
+40
+00:02:44,450 --> 00:02:46,680
+Natomiast jeżeli zrealizowałyście te
+
+41
+00:02:46,710 --> 00:02:52,920
+straty, czyli sprzedaliście dany
+instrument danego ETF-a czy obligacje, to
+
+42
+00:02:52,950 --> 00:02:58,020
+wtedy jak najbardziej tę stratę
+możecie uwzględnić w PIT-38.
+
+43
+00:02:58,050 --> 00:03:00,640
+Wynika to z faktu, że jeśli w kolejnych
+
+44
+00:03:00,670 --> 00:03:05,880
+latach wypracujcie zyski kapitałowe,
+to będziecie mogły część tej straty
+
+45
+00:03:05,910 --> 00:03:10,800
+odliczyć i dzięki temu w przyszłych
+latach zapłacić niższy podatek.
+

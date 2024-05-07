@@ -1,0 +1,724 @@
+1
+00:00:03,920 --> 00:00:06,040
+Gdy budujemy portfel inwestycyjny,
+
+2
+00:00:06,070 --> 00:00:11,300
+mamy bardzo dużo możliwości lokowania
+swoich pieniędzy w różnych miejscach.
+
+3
+00:00:11,330 --> 00:00:18,160
+Nazwa klasy aktywów oznacza po prostu
+różne możliwości inwestycyjne,
+
+4
+00:00:18,190 --> 00:00:22,740
+różne rodzaje inwestycji, różne
+grupy instrumentów finansowych.
+
+5
+00:00:22,760 --> 00:00:25,120
+W tej lekcji poznasz najważniejsze klasy
+
+6
+00:00:25,150 --> 00:00:30,460
+aktywów, czyli dowiesz się po prostu,
+jakie masz różne możliwości inwestycyjne.
+
+7
+00:00:30,490 --> 00:00:34,360
+Uwaga!
+W tej lekcji pojawi się wiele różnych pojęć
+
+8
+00:00:34,390 --> 00:00:38,260
+i wiele z tych pojęć może
+być dla Was zupełnie nowych.
+
+9
+00:00:38,290 --> 00:00:40,640
+Być może część będzie zupełnie
+
+10
+00:00:40,670 --> 00:00:44,100
+niezrozumiała, ale
+nie przejmujcie się tym na ten moment.
+
+11
+00:00:44,130 --> 00:00:49,740
+W tej lekcji chodzi o to, żeby pokazać Wam
+cały wachlarz inwestycyjnych możliwości.
+
+12
+00:00:49,770 --> 00:00:54,680
+Natomiast większość inwestorów
+i inwestorek lokuje swoje pieniądze
+
+13
+00:00:54,710 --> 00:01:01,720
+w zaledwie 2 3 instrumenty finansowe, a więc
+w zasadzie wystarczy, że na swojej drodze
+
+14
+00:01:01,750 --> 00:01:07,120
+jako inwestor wybierzesz raptem kilka
+takich różnych inwestycji, które dodasz
+
+15
+00:01:07,150 --> 00:01:11,260
+do swojego portfela i to już
+będzie wystarczająco dużo.
+
+16
+00:01:11,290 --> 00:01:18,000
+Ta lekcja jest również stworzona po to,
+aby uświadomić Wam, że nie zawsze musicie
+
+17
+00:01:18,030 --> 00:01:22,210
+czy też powinnyście inwestować w coś
+tylko dlatego, że to jest dostępne.
+
+18
+00:01:22,240 --> 00:01:25,820
+Nie wszystkie okazje
+musicie spróbować złapać.
+
+19
+00:01:25,850 --> 00:01:28,120
+Tak naprawdę wystarczy, że skupicie się na
+
+20
+00:01:28,150 --> 00:01:32,900
+dwóch, trzech rzeczach, które będziecie
+dobrze znać i dobrze rozumieć.
+
+21
+00:01:32,930 --> 00:01:35,800
+Poza tym nie wszystkie inwestycje nadają
+
+22
+00:01:35,830 --> 00:01:38,490
+się dla początkujących
+inwestorów czy inwestorek.
+
+23
+00:01:38,520 --> 00:01:40,600
+Niektóre z nich są wręcz odradzane na start,
+
+24
+00:01:40,630 --> 00:01:47,040
+więc opowiem Wam o tym, które klasy
+aktywów się nadają dla początkujących,
+
+25
+00:01:47,070 --> 00:01:51,980
+a które lepiej zostawić sobie na później,
+albo nawet nie inwestować w nie wcale.
+
+26
+00:01:52,010 --> 00:01:57,640
+Oczywiście pierwszą podstawową klasą
+aktywów jest gotówka i to może być gotówka
+
+27
+00:01:57,670 --> 00:02:02,420
+zarówno w polskich złotych, jak
+jak też gotówka w innych walutach.
+
+28
+00:02:02,450 --> 00:02:05,200
+Pamiętajcie, że jakakolwiek gotówka,
+
+29
+00:02:05,230 --> 00:02:09,890
+która leży na Waszym koncie, jest to
+gotówka, która podlega inflacji.
+
+30
+00:02:09,920 --> 00:02:15,320
+Więc nawet jeżeli macie
+euro czy dolary, ale nie są one ulokowane
+
+31
+00:02:15,350 --> 00:02:19,780
+w odpowiedni sposób, to wciąż
+one tracą na wartości z czasem.
+
+32
+00:02:19,810 --> 00:02:21,380
+Warto mieć to na uwadze.
+
+33
+00:02:21,410 --> 00:02:26,500
+Podobnie też taką podstawową klasą aktywów
+są lokaty czy konta oszczędnościowe.
+
+34
+00:02:26,530 --> 00:02:29,060
+One również nadają się dla początkujących
+
+35
+00:02:29,090 --> 00:02:33,100
+i pracują dla nas lepiej
+niż zwykła gotówka.
+
+36
+00:02:33,130 --> 00:02:35,360
+Taką najważniejszą chyba i podstawową
+
+37
+00:02:35,390 --> 00:02:41,170
+klasą aktywów, o której często się mówi
+na globalnych rynkach finansowych, są akcje.
+
+38
+00:02:41,200 --> 00:02:43,660
+To są po prostu udziały w spółkach.
+
+39
+00:02:43,690 --> 00:02:49,120
+Czyli inwestując w akcje, jednocześnie
+stajemy się współwłaścicielami danej
+
+40
+00:02:49,150 --> 00:02:53,380
+firmy, nawet jeżeli posiadamy
+jej malusieńki ułamek.
+
+41
+00:02:53,410 --> 00:02:56,500
+Można zarabiać na akcjach
+na wiele różnych sposobów.
+
+42
+00:02:56,530 --> 00:03:02,240
+Możemy zainwestować długoterminowo w akcje
+i po prostu liczyć na to, że dana firma
+
+43
+00:03:02,270 --> 00:03:07,660
+z czasem będzie radzić sobie coraz
+lepiej, a cena jej akcji będzie rosnąć.
+
+44
+00:03:07,690 --> 00:03:09,240
+Możemy też zarabiać na tzw. dywidendach,
+
+45
+00:03:09,270 --> 00:03:13,240
+gdy firmy notują zyski i potem
+
+46
+00:03:13,270 --> 00:03:16,940
+tymi zyskami dzielą się
+ze swoimi akcjonariuszami.
+
+47
+00:03:16,970 --> 00:03:20,900
+Możemy też inwestować w
+w akcje poprzez ETFy na akcje.
+
+48
+00:03:20,930 --> 00:03:26,920
+Czyli zamiast wybierać jedną, dwie czy
+trzy spółki, wybierać cały koszyk różnych
+
+49
+00:03:26,950 --> 00:03:30,610
+spółek z całego kraju,
+czy też nawet z całego świata.
+
+50
+00:03:30,640 --> 00:03:35,400
+Możliwości inwestowania w akcje jest
+mnóstwo, a my będziemy mówić dużo zarówno
+
+51
+00:03:35,430 --> 00:03:40,680
+o inwestowaniu pasywnym, o inwestowaniu
+w ETFy, jak i również o inwestowaniu
+
+52
+00:03:40,710 --> 00:03:45,760
+dywidendowym. Akcje to bardzo popularny
+sposób na lokowanie kapitału i można
+
+53
+00:03:45,790 --> 00:03:50,180
+śmiało powiedzieć, że nadaje się on
+praktycznie dla wszystkich inwestorów.
+
+54
+00:03:50,210 --> 00:03:52,600
+Chociaż oczywiście każdy inwestor
+
+55
+00:03:52,630 --> 00:03:56,080
+czy każda inwestorka
+powinni sobie dobrać odpowiednią metodę
+
+56
+00:03:56,110 --> 00:03:59,780
+inwestowania w te akcje,
+ale o tym jeszcze będzie później.
+
+57
+00:03:59,810 --> 00:04:02,300
+Natomiast teraz opowiem Wam o kolejnej
+
+58
+00:04:02,330 --> 00:04:08,060
+bardzo ważnej i też w zasadzie podstawowej
+klasie aktywów, czyli o obligacjach.
+
+59
+00:04:08,090 --> 00:04:12,640
+Słowo obligacje też już się tutaj
+przewinęło kilka razy i o obligacjach
+
+60
+00:04:12,670 --> 00:04:18,500
+jeszcze powiemy sobie więcej przy okazji
+poduszki finansowej i przy okazji
+
+61
+00:04:18,530 --> 00:04:23,060
+ogólnie pokazywania Wam, w jaki sposób
+w ogóle można inwestować w obligacje.
+
+62
+00:04:23,090 --> 00:04:27,440
+Ale na ten moment warto wiedzieć, że
+że inwestowanie w obligacje praktycznie
+
+63
+00:04:27,470 --> 00:04:33,780
+polega na udzielaniu pożyczek
+jakiemuś krajowi albo jakiejś firmie.
+
+64
+00:04:33,800 --> 00:04:36,200
+Gdy inwestujemy w obligacje, to po prostu
+
+65
+00:04:36,220 --> 00:04:41,880
+pożyczamy nasze pieniądze jakiemuś
+podmiotowi, oczywiście licząc na to,
+
+66
+00:04:41,910 --> 00:04:46,240
+że ten podmiot odda nam te
+pieniądze później z odsetkami.
+
+67
+00:04:46,270 --> 00:04:47,880
+Można inwestować w różne rodzaje
+
+68
+00:04:47,910 --> 00:04:52,820
+obligacji, zarówno obligacje detaliczne,
+jak i obligacje notowane na rynku,
+
+69
+00:04:52,840 --> 00:04:56,980
+obligacje skarbu państwa, obligacje
+samorządowe i korporacyjne.
+
+70
+00:04:57,010 --> 00:04:59,560
+Wybór też jest tutaj duży i jeszcze
+
+71
+00:04:59,590 --> 00:05:03,580
+będziemy w drugiej części mówić,
+w jaki sposób odróżnić te
+
+72
+00:05:03,600 --> 00:05:07,060
+rodzaje obligacji i które wybrać na start.
+
+73
+00:05:07,090 --> 00:05:11,900
+Akcje i obligacje bardzo często wymieniane
+są na rynkach finansowych jako
+
+74
+00:05:11,920 --> 00:05:18,500
+dwa bazowe rodzaje aktywów, czyli
+dwie kluczowe klasy aktywów.
+
+75
+00:05:18,530 --> 00:05:21,180
+Ale oczywiście tych klas jest dużo więcej.
+
+76
+00:05:21,210 --> 00:05:26,140
+Mamy również waluty, w które
+można inwestować na różne sposoby.
+
+77
+00:05:26,160 --> 00:05:31,400
+Mamy surowce, które również cechują się
+dużą różnorodnością, bo przecież można
+
+78
+00:05:31,420 --> 00:05:35,920
+inwestować zarówno na rynkach surowców
+energetycznych, na przykład w ropę
+
+79
+00:05:35,950 --> 00:05:41,440
+naftową, jak i w różnego typu metale,
+metale przemysłowe, metale szlachetne,
+
+80
+00:05:41,470 --> 00:05:47,060
+w tym bardzo znane i lubiane złoto, nadające
+się także dla początkujących inwestorów.
+
+81
+00:05:47,090 --> 00:05:51,620
+Można inwestować w towary rolne,
+które cechują się dużą, kapryśnością.
+
+82
+00:05:51,640 --> 00:05:53,680
+Dlatego właśnie bardzo często surowce
+
+83
+00:05:53,710 --> 00:05:58,340
+nie są polecane dla początkujących,
+oprócz właśnie wspomnianego złota.
+
+84
+00:05:58,360 --> 00:06:00,900
+Kolejną grupą aktywów są nieruchomości,
+
+85
+00:06:00,920 --> 00:06:05,160
+które oczywiście możemy przeznaczać
+na wynajem albo kupować je z myślą o
+
+86
+00:06:05,190 --> 00:06:08,540
+późniejszej, nawet dość
+szybkiej odsprzedaży.
+
+87
+00:06:08,570 --> 00:06:13,360
+Tutaj również możliwości inwestycyjne
+są ogromne i nieruchomości mogą nadawać się
+
+88
+00:06:13,390 --> 00:06:18,940
+dla początkujących inwestorów,
+ale głównie tych z nieco większym kapitałem.
+
+89
+00:06:18,970 --> 00:06:21,280
+Kolejną bardzo ciekawą klasą aktywów
+
+90
+00:06:21,300 --> 00:06:24,380
+są tak zwane derywaty, czyli
+instrumenty pochodne.
+
+91
+00:06:24,400 --> 00:06:25,960
+Tutaj mamy do czynienia z takimi
+
+92
+00:06:25,980 --> 00:06:31,840
+instrumentami jak kontrakty terminowe,
+opcje, kontrakty CFD i ogólnie
+
+93
+00:06:31,860 --> 00:06:33,440
+należą do niej wszelkiego typu
+
+94
+00:06:33,470 --> 00:06:38,260
+instrumenty, których ceny
+zależą od innych instrumentów finansowych.
+
+95
+00:06:38,290 --> 00:06:43,260
+Derywaty są bardzo często odradzane
+początkującym inwestorom i inwestorkom.
+
+96
+00:06:43,290 --> 00:06:46,240
+Głównie dlatego, że inwestowanie na tym
+
+97
+00:06:46,270 --> 00:06:50,140
+rynku to w zasadzie bardziej
+spekulacja czy też trading.
+
+98
+00:06:50,170 --> 00:06:54,680
+Wiąże się bowiem z tak zwaną dźwignią
+finansową, czyli z faktem, że nawet
+
+99
+00:06:54,710 --> 00:07:01,220
+wkładając niewielkie kwoty możemy de facto
+inwestować i obracać dużymi pieniędzmi.
+
+100
+00:07:01,250 --> 00:07:03,140
+A to potrafi być ryzykowne.
+
+101
+00:07:03,170 --> 00:07:08,260
+O derywatach mówię Wam głównie dlatego,
+że bardzo często, gdy zaczynacie inwestować i
+
+102
+00:07:08,290 --> 00:07:14,200
+wchodzicie w system transakcyjny w swój
+rachunek inwestycyjny, to widzicie
+
+103
+00:07:14,230 --> 00:07:17,660
+np. obok siebie akcje i CFD na akcje.
+
+104
+00:07:17,690 --> 00:07:19,780
+Pamiętajcie, że to nie jest to samo.
+
+105
+00:07:19,800 --> 00:07:25,420
+Jako początkujący inwestor warto wybierać
+jednak głównie akcje,
+
+106
+00:07:25,450 --> 00:07:31,500
+natomiast instrumenty CFD raczej
+zostawić sobie na później. Albo na nigdy.
+
+107
+00:07:31,530 --> 00:07:36,500
+Bardzo ciekawą klasą aktywów są
+tak zwane inwestycje alternatywne.
+
+108
+00:07:36,530 --> 00:07:40,960
+Czasem do inwestycji alternatywnych nawet
+zalicza się takie instrumenty, o których
+
+109
+00:07:40,980 --> 00:07:44,300
+już wspomniałam, takie jak
+nieruchomości czy surowce.
+
+110
+00:07:44,330 --> 00:07:48,240
+Natomiast w większości mamy
+na myśli inwestycje alternatywne.
+
+111
+00:07:48,270 --> 00:07:53,520
+Gdy myślimy o różnego typu bardziej
+nietypowych inwestycjach albo takich,
+
+112
+00:07:53,540 --> 00:07:59,900
+które są powiązane z wartością
+sentymentalną, emocjonalną, artystyczną.
+
+113
+00:07:59,920 --> 00:08:04,100
+Bardzo często przedmioty kolekcjonerskie
+są taką inwestycją alternatywną.
+
+114
+00:08:04,130 --> 00:08:06,040
+Obrazy wszelkiego typu, inne dzieła
+
+115
+00:08:06,070 --> 00:08:12,960
+sztuki, również numizmatyka,
+stare samochody zabytkowe, biżuteria
+
+116
+00:08:12,980 --> 00:08:18,500
+czy też zegarki, także alkohole.
+To wszystko może być inwestycją.
+
+117
+00:08:18,530 --> 00:08:20,720
+Inwestycje alternatywne to oczywiście
+
+118
+00:08:20,750 --> 00:08:26,180
+też nie jest droga dla wszystkich, ale mówię
+wam o nich dlatego, że być może z czasem
+
+119
+00:08:26,210 --> 00:08:31,260
+będziecie chciały inwestować w coś,
+co się wam autentycznie będzie podobało.
+
+120
+00:08:31,290 --> 00:08:34,020
+I to również jest pewien sposób
+
+121
+00:08:34,050 --> 00:08:39,100
+na zachowywanie wartości swoich pieniędzy
+i na to, żeby wręcz te pieniądze pomnażać.
+
+122
+00:08:39,130 --> 00:08:43,940
+Jeszcze jedną ciekawą klasą aktywów
+są wszelkiego typu fundusze inwestycyjne.
+
+123
+00:08:43,970 --> 00:08:49,280
+I tutaj otwiera się duży świat różnych
+możliwości inwestycyjnych, dlatego że
+
+124
+00:08:49,310 --> 00:08:52,980
+rodzajów funduszy inwestycyjnych
+również jest bardzo wiele.
+
+125
+00:08:53,010 --> 00:08:56,380
+Są fundusze inwestycyjne
+otwarte i zamknięte.
+
+126
+00:08:56,410 --> 00:09:00,500
+Te pierwsze są dostępne dla szerszego
+grona inwestorów i inwestorek.
+
+127
+00:09:00,530 --> 00:09:03,000
+Natomiast te drugie na ogół trudniej nabyć
+
+128
+00:09:03,030 --> 00:09:08,100
+trudniej sprzedać,
+ale często mają też większe możliwości.
+
+129
+00:09:08,130 --> 00:09:13,720
+Są fundusze ukierunkowane, takie, które
+inwestują w określone klasy aktywów,
+
+130
+00:09:13,750 --> 00:09:19,100
+np. fundusze akcji, fundusze obligacji,
+fundusze związane ze złotem.
+
+131
+00:09:19,130 --> 00:09:21,320
+Są też takie fundusze, które są funduszami
+
+132
+00:09:21,350 --> 00:09:25,900
+indeksowymi, inwestujące
+w bardzo szeroki rynek.
+
+133
+00:09:25,930 --> 00:09:28,460
+Są także tak zwane fundusze funduszy.
+
+134
+00:09:28,490 --> 00:09:31,480
+Po angielsku funds of funds, czyli takie
+
+135
+00:09:31,510 --> 00:09:37,280
+fundusze, które inwestują w inne fundusze.
+A do tego można dorzucić znane i coraz
+
+136
+00:09:37,310 --> 00:09:41,720
+bardziej popularne w ostatnich latach
+fundusze ETF, czyli takie fundusze,
+
+137
+00:09:41,750 --> 00:09:46,580
+które są notowane na rynkach i którymi
+można obracać na giełdzie.
+
+138
+00:09:46,610 --> 00:09:52,040
+To jest również bardzo ciekawy sposób
+na lokowanie kapitału i w akcje, i obligacje,
+
+139
+00:09:52,060 --> 00:09:55,820
+i w metale szlachetne
+i wiele innych klas aktywów.
+
+140
+00:09:55,840 --> 00:09:57,760
+Opowiedziałam Wam więc o różnych klasach
+
+141
+00:09:57,790 --> 00:10:03,780
+aktywów, rozpoczynając od gotówki
+czy lokat bankowych, przez akcje i obligacje,
+
+142
+00:10:03,810 --> 00:10:10,380
+aż po surowce, waluty,
+nieruchomości i kończąc na derywatach,
+
+143
+00:10:10,410 --> 00:10:12,440
+inwestycjach alternatywnych czy też
+
+144
+00:10:12,470 --> 00:10:15,700
+różnego typu funduszach,
+w tym o funduszach ETF.
+
+145
+00:10:15,730 --> 00:10:17,960
+I pojawia się naturalne pytanie:
+
+146
+00:10:17,990 --> 00:10:21,940
+W takim razie co można wybrać jako
+początkujący inwestor czy inwestorka?
+
+147
+00:10:21,970 --> 00:10:26,580
+Tak naprawdę bardzo wiele inwestorów
+rozpoczyna przede wszystkim
+
+148
+00:10:26,610 --> 00:10:32,220
+od podstawowych instrumentów, czyli doboru
+sobie w odpowiednich proporcjach akcji,
+
+149
+00:10:32,250 --> 00:10:36,420
+obligacji oraz metali
+szlachetnych, głównie złota.
+
+150
+00:10:36,440 --> 00:10:38,920
+To właśnie te trzy klasy aktywów
+
+151
+00:10:38,940 --> 00:10:43,940
+są podstawą dobrze zbudowanego,
+długoterminowego portfela.
+
+152
+00:10:43,970 --> 00:10:46,660
+I to właśnie najwięcej o tych trzech klasach
+
+153
+00:10:46,690 --> 00:10:50,480
+aktywów będziemy mówić
+w drugiej części naszego kursu.
+

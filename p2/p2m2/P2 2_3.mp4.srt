@@ -1,0 +1,1567 @@
+1
+00:00:03,840 --> 00:00:07,600
+Jak już wiesz, fundusze ETF to specyficzne
+
+2
+00:00:07,680 --> 00:00:12,480
+instrumenty finansowe, które śledzą
+notowania jakiegoś innego aktywa.
+
+3
+00:00:12,560 --> 00:00:15,160
+To może być jakiś indeks akcji, jakaś
+
+4
+00:00:15,240 --> 00:00:19,760
+określona grupa obligacji
+czy też surowców albo walut.
+
+5
+00:00:19,840 --> 00:00:24,200
+W tej lekcji skupimy się jednak
+na ETF-ach opartych o akcje.
+
+6
+00:00:24,280 --> 00:00:27,280
+Zobaczymy, według jakich kryteriów
+
+7
+00:00:27,360 --> 00:00:32,120
+wybierać dany fundusz, żeby jak
+najlepiej pasował do naszej strategii.
+
+8
+00:00:32,200 --> 00:00:37,120
+Dlaczego warto myśleć o funduszu ETF
+w kontekście inwestowania w akcje?
+
+9
+00:00:37,200 --> 00:00:42,960
+Po pierwsze ze względu na dużą prostotę,
+po drugie świetną dywersyfikację, 
+
+10
+00:00:43,040 --> 00:00:46,320
+bo przecież możemy mieć wtedy
+akcje nawet z całego świata.
+
+11
+00:00:46,400 --> 00:00:49,640
+Po trzecie dużą zaletą
+jest wszechstronność.
+
+12
+00:00:49,720 --> 00:00:52,040
+W ETF-y możemy inwestować na wiele różnych
+
+13
+00:00:52,120 --> 00:00:56,200
+sposobów, więc niezależnie od tego, którą
+strategię ostatecznie dla siebie
+
+14
+00:00:56,280 --> 00:01:01,120
+wybierzesz, będziesz mogła naprawdę
+znaleźć ETF, który do niej pasuje.
+
+15
+00:01:01,200 --> 00:01:04,400
+Czwartą zaletą jest dostępność, czyli to,
+
+16
+00:01:04,480 --> 00:01:09,720
+że w tym momencie możemy inwestować
+w fundusze ETF oparte np.
+
+17
+00:01:09,800 --> 00:01:13,160
+o indeksy akcyjne na polskiej giełdzie,
+
+18
+00:01:13,240 --> 00:01:19,280
+jak również możemy inwestować w ogrom
+funduszy ETF na zagranicznych giełdach.
+
+19
+00:01:19,360 --> 00:01:21,800
+No i w końcu jeszcze jednym ważnym plusem,
+
+20
+00:01:21,880 --> 00:01:27,200
+który zresztą będziemy jeszcze podkreślać
+w późniejszych modułach, jest możliwość
+
+21
+00:01:27,280 --> 00:01:31,680
+inwestowania w fundusze ETF
+oparte o szeroki rynek akcji
+
+22
+00:01:31,760 --> 00:01:34,440
+także na naszych rachunkach emerytalnych.
+
+23
+00:01:34,520 --> 00:01:42,120
+Na takich kontach jak IKE czy IKZE możemy
+inwestować w ETF-y i dzięki temu optymalnie
+
+24
+00:01:42,200 --> 00:01:48,040
+dobrać sobie strategię oszczędzania 
+i inwestowania na emeryturę pod siebie.
+
+25
+00:01:48,120 --> 00:01:52,280
+Na co jednak zwrócić uwagę
+wybierając konkretne fundusze ETF?
+
+26
+00:01:52,360 --> 00:01:55,320
+Istnieje kilka kluczowych kryteriów, 
+
+27
+00:01:55,400 --> 00:02:01,400
+które pozwolą Ci jak najlepiej dobrać odpowiedni
+fundusz ETF do Twojego portfela.
+
+28
+00:02:01,480 --> 00:02:07,520
+Pierwszym kryterium są oczywiście aktywa,
+o które oparty jest dany fundusz ETF.
+
+29
+00:02:07,600 --> 00:02:13,920
+To jest najważniejsza sprawa, żeby wybrać
+taki ETF, który jest najlepiej dopasowany
+
+30
+00:02:14,000 --> 00:02:16,760
+do tego, w co konkretnie
+chcemy inwestować.
+
+31
+00:02:16,840 --> 00:02:17,720
+Gdy na przykład
+
+32
+00:02:17,800 --> 00:02:22,800
+chcemy inwestować w akcje i wiemy, 
+że chcemy stworzyć długoterminowy portfel
+
+33
+00:02:22,880 --> 00:02:29,960
+inwestycyjny oparty o szeroki rynek
+globalny, to wtedy warto wybrać ETF, 
+
+34
+00:02:30,040 --> 00:02:34,120
+który będzie oparty o jak
+najszerszy indeks akcji.
+
+35
+00:02:34,200 --> 00:02:37,520
+Zresztą przykład takiego ETF-a,
+a pojawi się już za chwilę.
+
+36
+00:02:37,600 --> 00:02:39,640
+Ale w takim przypadku, gdy tworzymy ten
+
+37
+00:02:39,720 --> 00:02:45,280
+długoterminowy portfel, to wiemy już 
+z góry, że być może nie interesują nas 
+
+38
+00:02:45,360 --> 00:02:51,160
+w takim razie ETF-y branżowe czy też ETF-y
+oparte o surowce w naszym portfelu.
+
+39
+00:02:51,240 --> 00:02:54,480
+W tym momencie może nie być na nie miejsca
+
+40
+00:02:54,560 --> 00:02:57,320
+i mogą one nie być dopasowane
+do naszej strategii.
+
+41
+00:02:57,400 --> 00:03:00,000
+Drugie bardzo ważne kryterium przy wyborze
+
+42
+00:03:00,080 --> 00:03:04,720
+odpowiedniego funduszu ETF
+to poziom rocznych opłat.
+
+43
+00:03:04,800 --> 00:03:11,520
+Tak zwany TER, czyli Total Expanse Ratio
+to liczba, która pokazuje ile konkretnie
+
+44
+00:03:11,600 --> 00:03:17,240
+płacimy za przechowywanie
+danego ETF-a w naszym portfelu.
+
+45
+00:03:17,320 --> 00:03:22,760
+Warto wspomnieć o tym, że ten poziom
+rocznych opłat w przypadku funduszy ETF
+
+46
+00:03:22,840 --> 00:03:28,480
+jest symboliczny w stosunku do tego, jakie
+opłaty pobierają od nas fundusze
+
+47
+00:03:28,560 --> 00:03:33,440
+zarządzane bardziej aktywnie czy
+też klasyczne fundusze inwestycyjne.
+
+48
+00:03:33,520 --> 00:03:39,280
+W tym przypadku poziom opłat potrafi być
+bardzo niski, zwłaszcza w przypadku
+
+49
+00:03:39,360 --> 00:03:45,440
+funduszy ETF, które są oparte o szeroki
+rynek akcyjny i wręcz przeznaczone 
+
+50
+00:03:45,520 --> 00:03:48,080
+do tego, żeby inwestować
+w nie długoterminowo.
+
+51
+00:03:48,160 --> 00:03:55,120
+Taki poziom opłat w przypadku funduszu ETF
+jest uznawany za niski, gdy wynosi on
+
+52
+00:03:55,200 --> 00:04:02,040
+mniej niż 0,5% w skali roku,
+ale zdarzają się ETF, dla których poziom
+
+53
+00:04:02,120 --> 00:04:07,800
+rocznych opłat wynosi nawet 0,03%
+czy 0,05%.
+
+54
+00:04:07,880 --> 00:04:10,240
+Niekoniecznie jednak wysoki poziom opłat
+
+55
+00:04:10,320 --> 00:04:14,680
+oznacza, że dany funduszy
+ETF jest złą inwestycją.
+
+56
+00:04:14,760 --> 00:04:21,120
+Po prostu może on być bardziej dopasowany
+do spekulacyjnego charakteru inwestycji.
+
+57
+00:04:21,200 --> 00:04:27,280
+Być może częściej będą go wykorzystywali
+inwestorzy o nastawieniu aktywnym niż ci,
+
+58
+00:04:27,360 --> 00:04:32,280
+którzy są nastawieni bardziej na
+inwestowanie długoterminowe, pasywne.
+
+59
+00:04:32,360 --> 00:04:34,840
+Natomiast jeżeli Ty myślisz o danym
+
+60
+00:04:34,920 --> 00:04:41,240
+funduszu ETF w kontekście długoterminowego
+portfela, to koniecznie uwzględnij w nim
+
+61
+00:04:41,320 --> 00:04:48,120
+te fundusze ETF, które mają niski
+poziom opłat, czyli właśnie niskie TER.
+
+62
+00:04:48,200 --> 00:04:51,160
+Kolejnym skrótem i też ważnym kryterium,
+
+63
+00:04:51,240 --> 00:04:55,680
+które wiąże się z doborem
+ETF-ów do portfela jest AUM,
+
+64
+00:04:55,760 --> 00:04:59,000
+czyli Assets Under Management.
+
+65
+00:04:59,080 --> 00:05:03,680
+Ten termin oznacza po prostu
+wielkość aktywów danego funduszu.
+
+66
+00:05:03,760 --> 00:05:09,600
+Czyli to ile pieniędzy jest w tym
+momencie zainwestowane w dany fundusz ETF.
+
+67
+00:05:09,680 --> 00:05:15,640
+Jak się pewnie domyślasz, w te największe
+fundusze ETF zainwestowanych jest już
+
+68
+00:05:15,720 --> 00:05:20,320
+wiele setek, milionów czy
+też wręcz miliardy dolarów.
+
+69
+00:05:20,400 --> 00:05:24,200
+I to jest pewna wskazówka dla
+każdego inwestora i inwestorki.
+
+70
+00:05:24,280 --> 00:05:26,960
+Skoro duzi inwestorzy, w tym też fundusze
+
+71
+00:05:27,040 --> 00:05:32,560
+inwestycyjne, inwestują w konkretny
+fundusz ETF, to znaczy, że jest on już
+
+72
+00:05:32,640 --> 00:05:36,840
+przez nich sprawdzony 
+i jest relatywnie popularny.
+
+73
+00:05:36,920 --> 00:05:43,520
+Ogólnie więc warto wybierać do swojego
+portfela te fundusze ETF, które mają duży
+
+74
+00:05:43,600 --> 00:05:47,000
+poziom AUM, czyli po prostu
+wysoki poziom aktywów.
+
+75
+00:05:47,080 --> 00:05:50,160
+Po pierwsze dlatego, że bardzo często są
+
+76
+00:05:50,240 --> 00:05:53,920
+to właśnie takie ETF-y, które
+działają na rynku już bardzo długo.
+
+77
+00:05:54,000 --> 00:05:56,560
+Są sprawdzone przez wielu inwestorów,
+
+78
+00:05:56,640 --> 00:06:00,440
+także przez inwestorów
+instytucjonalnych, czyli fundusze.
+
+79
+00:06:00,520 --> 00:06:07,440
+A po drugie dlatego, że wyższy poziom
+aktywów oznacza też, że po prostu większa
+
+80
+00:06:07,520 --> 00:06:11,920
+będzie płynność w handlu
+jednostkami tego funduszu ETF.
+
+81
+00:06:12,000 --> 00:06:16,160
+Czyli łatwo będzie kupić albo
+sprzedać jednostki tego funduszu.
+
+82
+00:06:16,240 --> 00:06:18,760
+Nie trzeba będzie czekać, aż po drugiej
+
+83
+00:06:18,840 --> 00:06:22,120
+stronie arkusza zleceń
+pojawi się atrakcyjna oferta.
+
+84
+00:06:22,200 --> 00:06:24,240
+Po prostu im bardziej popularny jest
+
+85
+00:06:24,320 --> 00:06:28,760
+fundusz, tym łatwiej i wygodniej
+jest w niego inwestować.
+
+86
+00:06:28,840 --> 00:06:31,040
+A po co utrudniać sobie życie?
+
+87
+00:06:31,120 --> 00:06:36,480
+No i w końcu czwartym bardzo ważnym
+kryterium doboru odpowiedniego dla siebie
+
+88
+00:06:36,560 --> 00:06:40,480
+funduszu ETF jest to, w
+jaki sposób zarządza on 
+
+89
+00:06:40,560 --> 00:06:44,200
+dywidendą. Dywidendy to jeden ze sposobów
+
+90
+00:06:44,280 --> 00:06:47,440
+na zarabianie na swojej
+inwestycji w akcje.
+
+91
+00:06:47,520 --> 00:06:51,640
+Są to po prostu udziały w
+zyskach konkretnych spółek.
+
+92
+00:06:51,720 --> 00:06:55,200
+Po prostu spółki, które
+wypracowują solidne zyski
+
+93
+00:06:55,280 --> 00:07:00,640
+mogą się dzielić tym zyskiem
+z nami jako z akcjonariuszami.
+
+94
+00:07:00,720 --> 00:07:06,600
+Skoro więc inwestujemy w fundusze ETF
+oparte o akcje, zwłaszcza gdy inwestujemy
+
+95
+00:07:06,680 --> 00:07:13,800
+w ETF oparty o bardzo szeroki rynek akcji,
+jest wręcz pewne, że wiele z tych spółek,
+
+96
+00:07:13,880 --> 00:07:19,200
+które wchodzą w skład tego ETF-a,
+będzie wypracowywać zyski i będzie
+
+97
+00:07:19,280 --> 00:07:22,480
+dzieliło się tymi zyskami
+z akcjonariuszami.
+
+98
+00:07:22,560 --> 00:07:25,200
+Te zyski oczywiście są dzielone także na
+
+99
+00:07:25,280 --> 00:07:30,160
+posiadaczy jednostek funduszy
+ETF opierających się o te akcje.
+
+100
+00:07:30,240 --> 00:07:33,720
+I tutaj właśnie pojawia
+się bardzo ważna zasada.
+
+101
+00:07:33,800 --> 00:07:41,120
+Niektóre fundusze ETF są akumulujące,
+czyli wszystkie dywidendy, które otrzymają
+
+102
+00:07:41,200 --> 00:07:49,080
+ze spółek, zatrzymują i reinwestują,
+czyli automatycznie dywidendy są doliczane
+
+103
+00:07:49,160 --> 00:07:55,600
+do naszego kapitału i dalej pracują dla
+nas, śledząc jakiś konkretny indeks.
+
+104
+00:07:55,680 --> 00:07:57,040
+Ale są także fundusze ETF
+
+105
+00:07:57,120 --> 00:08:00,760
+dystrybuujące, czyli takie, które po
+
+106
+00:08:00,840 --> 00:08:06,240
+otrzymaniu dywidend wypłacają
+je na nasze rachunki maklerskie.
+
+107
+00:08:06,320 --> 00:08:10,040
+Nasze, czyli oczywiście posiadaczy
+jednostek takiego funduszu.
+
+108
+00:08:10,120 --> 00:08:15,000
+I na pierwszy rzut oka może się wydawać,
+że to bardzo ciekawe rozwiązanie mieć
+
+109
+00:08:15,080 --> 00:08:20,040
+natychmiastową płatność w postaci tych
+dywidend, ale w praktyce takie rozwiązanie
+
+110
+00:08:20,120 --> 00:08:24,080
+jest niewygodne do rozliczenia
+podatkowego, a dodatkowo jest
+
+111
+00:08:24,160 --> 00:08:27,440
+nieefektywne, jeżeli budujemy
+długoterminowy portfel.
+
+112
+00:08:27,520 --> 00:08:30,880
+Warto pamiętać, że im więcej kumuluje się
+
+113
+00:08:30,960 --> 00:08:37,280
+kapitału, więc im więcej też wykorzystamy
+tej mocy spływających dywidend i będziemy
+
+114
+00:08:37,360 --> 00:08:43,280
+je inwestować, tym szybciej dotrzemy do
+większych kwot dzięki procentowi składanemu.
+
+115
+00:08:43,360 --> 00:08:45,360
+O tym, o co chodzi w dywidendy,
+
+116
+00:08:45,440 --> 00:08:50,560
+jak inwestować w spółki dywidendowe czy
+też ETF-y oparte o takie spółki, jak
+
+117
+00:08:50,640 --> 00:08:55,960
+również o tym, o co chodzi z tymi niuansami
+podatkowymi w przypadku dywidend
+
+118
+00:08:56,040 --> 00:09:02,080
+opowiem w kolejnym module, który będzie
+poświęcony inwestowaniu dywidendowemu.
+
+119
+00:09:02,160 --> 00:09:07,600
+Natomiast na ten moment ważne, abyś
+pamiętała, że dużo wygodniej na wiele
+
+120
+00:09:07,680 --> 00:09:13,160
+sposobów jest wybierać ETF-y
+w wersji akumulującej.
+
+121
+00:09:13,240 --> 00:09:15,640
+Te cztery kryteria, o których wspomniałam,
+
+122
+00:09:15,720 --> 00:09:20,440
+czyli aktywa, o które oparty jest fundusz,
+poziom rocznych opłat,
+
+123
+00:09:20,520 --> 00:09:27,680
+wielkość aktywów danego funduszu oraz to,
+w jaki sposób fundusz wypłaca dywidendy,
+
+124
+00:09:27,760 --> 00:09:30,680
+to są zdecydowanie najważniejsze kryteria
+
+125
+00:09:30,760 --> 00:09:33,880
+doboru odpowiedniego
+funduszu ETF dla siebie.
+
+126
+00:09:33,960 --> 00:09:38,480
+Jest jeszcze oczywiście wiele innych
+charakterystyk, które są związane 
+
+127
+00:09:38,560 --> 00:09:43,080
+z wyborem funduszy ETF, ale w praktyce
+są one już dużo mniej ważne.
+
+128
+00:09:43,160 --> 00:09:48,480
+Dla przykładu czasem będziecie mogły się
+spotkać z informacjami o danym funduszu,
+
+129
+00:09:48,560 --> 00:09:52,800
+że ma on replikację
+fizyczną albo syntetyczną.
+
+130
+00:09:52,880 --> 00:09:55,040
+W praktyce nie ma znaczenia, jaki rodzaj
+
+131
+00:09:55,120 --> 00:10:00,520
+replikacji wybierzesz, dlatego że chodzi
+tu bardziej o księgowe niuanse niż o to,
+
+132
+00:10:00,600 --> 00:10:03,240
+ile faktycznie możesz
+na danym funduszu ETF 
+
+133
+00:10:03,320 --> 00:10:04,240
+zarobić.
+
+134
+00:10:04,320 --> 00:10:09,040
+Drugim kryterium, które nie ma większego
+znaczenia przy wyborze funduszu ETF,
+
+135
+00:10:09,120 --> 00:10:11,200
+chociaż mogłoby się wydawać inaczej na
+
+136
+00:10:11,280 --> 00:10:16,000
+pierwszy rzut oka, to waluta, w
+której kupujesz jednostki funduszu.
+
+137
+00:10:16,080 --> 00:10:19,040
+Często widzimy, że dany fundusz jest
+
+138
+00:10:19,120 --> 00:10:22,800
+wyceniany w euro, w
+dolarach czy też w funtach.
+
+139
+00:10:22,880 --> 00:10:24,840
+Ale w praktyce już tak czysto
+
+140
+00:10:24,920 --> 00:10:30,120
+matematycznie nie ma większego znaczenia
+dla Twoich wyników inwestycyjnych,
+
+141
+00:10:30,200 --> 00:10:32,440
+jaką walutę wybierzesz.
+
+142
+00:10:32,520 --> 00:10:33,760
+Dlaczego?
+
+143
+00:10:33,840 --> 00:10:39,360
+Dlatego, że ostatecznie liczy się
+to, w co konkretny fundusz inwestuje.
+
+144
+00:10:39,440 --> 00:10:42,280
+Na przykład, gdy kupujesz jednostki
+
+145
+00:10:42,360 --> 00:10:49,720
+funduszy ETF opartego o amerykańskie
+akcje, to de facto inwestujesz w aktywa 
+
+146
+00:10:49,800 --> 00:10:54,560
+w amerykańskich dolarach,
+dlatego, że ten fundusz ostatecznie kupi
+
+147
+00:10:54,640 --> 00:10:58,360
+akcje, które są wyceniane
+w amerykańskich dolarach.
+
+148
+00:10:58,440 --> 00:11:03,440
+I nawet jeżeli kupisz fundusz, który jest
+wyceniany w euro,
+
+149
+00:11:03,520 --> 00:11:10,560
+czyli jednostkę tego funduszu kupisz za
+euro, to i tak, jeżeli on będzie oparty 
+
+150
+00:11:10,640 --> 00:11:16,600
+o amerykańskie akcje, wciąż będzie
+kupował aktywa wyceniane w dolarach.
+
+151
+00:11:16,680 --> 00:11:18,800
+W praktyce więc nie ma większego
+
+152
+00:11:18,880 --> 00:11:24,440
+znaczenia, czy kupisz jednostki
+funduszu ETF za dolary, czy za euro.
+
+153
+00:11:24,640 --> 00:11:29,960
+Ważne jest dużo bardziej to, w co
+konkretnie inwestuje dany fundusz i to tam
+
+154
+00:11:30,040 --> 00:11:35,440
+poszukuj różnych sposobów na
+dywersyfikację walutową swoich inwestycji.
+
+155
+00:11:35,520 --> 00:11:37,680
+Skoro już wiemy, jakimi kryteriami się
+
+156
+00:11:37,760 --> 00:11:43,120
+kierować przy wyborze funduszu ETF oraz
+jakimi kryteriami się nie kierować,
+
+157
+00:11:43,200 --> 00:11:49,160
+przejdźmy do procesu wyboru i oceny
+konkretnego funduszu ETF dla siebie.
+
+158
+00:11:49,240 --> 00:11:55,080
+Gdy masz już utworzony rachunek maklerski,
+to możesz zobaczyć jakie fundusze ETF
+
+159
+00:11:55,160 --> 00:11:58,840
+dokładnie ma w ofercie
+właśnie Twój dom maklerski.
+
+160
+00:11:58,920 --> 00:12:01,800
+W materiałach do tej lekcji zamieszczę
+
+161
+00:12:01,880 --> 00:12:06,960
+kilka linków, na których możesz sprawdzić
+jakie ETF-y są w ofercie tych
+
+162
+00:12:07,040 --> 00:12:11,560
+najpopularniejszych domów maklerskich i
+sprawdzić czy jest tam jakiś ETF, 
+
+163
+00:12:11,640 --> 00:12:16,720
+który Cię interesuje, ale do zestawienia
+konkretnych ETF-ów jeszcze przejdziemy.
+
+164
+00:12:16,800 --> 00:12:22,000
+W praktyce jednak podstawowa zasada
+wybierania ETF-u do swojego
+
+165
+00:12:22,080 --> 00:12:25,560
+długoterminowego portfela
+jest bardzo prosta.
+
+166
+00:12:25,640 --> 00:12:30,600
+Im mniej masz czasu, im mniej masz
+możliwości, żeby na co dzień śledzić
+
+167
+00:12:30,680 --> 00:12:35,160
+notowania giełdowe,
+w tym bardziej ogólny instrument celujesz.
+
+168
+00:12:35,240 --> 00:12:41,840
+Czyli w tym przypadku stawiasz na fundusz
+ETF oparty o globalne akcje,
+
+169
+00:12:41,920 --> 00:12:46,560
+o akcje spółek notowanych na rynkach
+praktycznie na całym świecie, 
+
+170
+00:12:46,640 --> 00:12:49,000
+a przynajmniej na większości
+rynków rozwiniętych.
+
+171
+00:12:49,080 --> 00:12:50,880
+W tym momencie do takich najbardziej
+
+172
+00:12:50,960 --> 00:12:58,000
+szerokich, akcyjnych funduszy ETF należą
+fundusze oparte o dwa indeksy:
+
+173
+00:12:58,080 --> 00:13:05,520
+o indeks MSCI All Countries World Index
+i o indeks FTSE World.
+
+174
+00:13:05,600 --> 00:13:10,960
+W tej lekcji, aby pokazać Ci jak wygląda
+dobór takiego funduszu do portfela, skupię
+
+175
+00:13:11,040 --> 00:13:15,760
+się na funduszach opartych o
+MSCI All Countries World Index.
+
+176
+00:13:15,840 --> 00:13:18,680
+Ten wyjątkowo szeroki indeks dzieli się
+
+177
+00:13:18,760 --> 00:13:24,160
+jeszcze na dwa, nieco mniejsze, ale
+wciąż również bardzo szerokie indeksy.
+
+178
+00:13:24,240 --> 00:13:27,680
+Pierwszym z nich jest MSCI World Index,
+
+179
+00:13:27,760 --> 00:13:33,360
+czyli indeks obejmujący akcje
+spółek z krajów rozwiniętych.
+
+180
+00:13:33,440 --> 00:13:38,680
+Tutaj mam na myśli takie kraje jak Stany
+Zjednoczone, Niemcy czy Wielka Brytania.
+
+181
+00:13:38,760 --> 00:13:42,120
+Drugim z nich jest natomiast MSCI Emerging
+
+182
+00:13:42,200 --> 00:13:48,520
+Markets Index, czyli indeks oparty o
+akcje spółek z krajów rozwijających się.
+
+183
+00:13:48,600 --> 00:13:53,920
+Tutaj w jego skład wchodzą na przykład
+takie kraje jak Brazylia czy Chiny.
+
+184
+00:13:54,000 --> 00:13:58,720
+Uproszczony podział tych indeksów
+widzicie właśnie na grafice na ekranie.
+
+185
+00:13:58,800 --> 00:14:04,400
+Jak widzicie, każdy z tych indeksów, nawet
+te mniejsze, oparte o rynki rozwijające
+
+186
+00:14:04,480 --> 00:14:09,000
+się, czy też rynki rozwinięte,
+jest relatywnie szeroki.
+
+187
+00:14:09,080 --> 00:14:14,840
+Każdy z tych indeksów opiera się
+o akcje z ponad 20 krajów świata.
+
+188
+00:14:14,920 --> 00:14:17,400
+Jeśli więc chcemy sobie dobrać jakiś ETF
+
+189
+00:14:17,480 --> 00:14:22,600
+do portfela długoterminowego, to
+mamy tutaj parę różnych możliwości.
+
+190
+00:14:22,680 --> 00:14:28,840
+Po pierwsze możemy dobrać sobie po prostu
+ETF oparty o bardzo szeroki indeks właśnie
+
+191
+00:14:28,920 --> 00:14:34,720
+wspomniany MSCI All Countries World Index,
+ale nie jest to jedyne rozwiązanie.
+
+192
+00:14:34,800 --> 00:14:40,200
+Możemy na przykład większość swojego
+kapitału przeznaczonego na inwestycje
+
+193
+00:14:40,280 --> 00:14:45,040
+długoterminowe w akcje
+przeznaczyć na kupno jednostek ETF
+
+194
+00:14:45,120 --> 00:14:51,640
+opartych o indeks MSCI World, czyli
+tego dotyczącego rynków rozwiniętych.
+
+195
+00:14:51,720 --> 00:14:53,920
+To może być nasz wybór głównie wtedy,
+
+196
+00:14:54,000 --> 00:14:59,000
+kiedy po prostu nie jesteśmy bardzo
+tolerancyjne wobec ryzyka i nie chcemy
+
+197
+00:14:59,080 --> 00:15:03,000
+mieć w swoim portfelu
+zbyt wielu akcji z krajów
+
+198
+00:15:03,080 --> 00:15:04,280
+rozwijających się.
+
+199
+00:15:04,360 --> 00:15:07,520
+Ale jeśli twierdzimy, że właśnie w krajach
+
+200
+00:15:07,600 --> 00:15:15,040
+rozwijających się mamy większe możliwości
+zarobienia, to zawsze możemy dorzucić też
+
+201
+00:15:15,120 --> 00:15:19,160
+trochę ETF-ów opartych
+właśnie o ten indeks.
+
+202
+00:15:19,240 --> 00:15:21,680
+Dużo więc zależy tutaj od naszych
+
+203
+00:15:21,760 --> 00:15:25,160
+preferencji i od naszego
+podejścia do ryzyka.
+
+204
+00:15:25,240 --> 00:15:30,160
+W praktyce jednak wielu pasywnych
+inwestorów stara się inwestować jak
+
+205
+00:15:30,240 --> 00:15:36,360
+najszerzej, czyli zamiast kupować
+jednostki mniejszych funduszy, stawia na
+
+206
+00:15:36,440 --> 00:15:39,640
+ten, który jest oparty
+na akcje z całego świata.
+
+207
+00:15:39,720 --> 00:15:41,600
+To jest po prostu praktyczniejsze
+
+208
+00:15:41,680 --> 00:15:46,320
+rozwiązanie i często mniej
+czasochłonne i bardziej wygodne.
+
+209
+00:15:46,400 --> 00:15:48,920
+Czasem wręcz inwestorzy decydują się wręcz
+
+210
+00:15:49,000 --> 00:15:53,560
+na kupno jednostek funduszu
+inwestycyjnego, który jest oparty nie
+
+211
+00:15:53,640 --> 00:15:58,360
+tylko o akcje, ale o
+zestaw akcji i obligacji.
+
+212
+00:15:58,440 --> 00:16:03,080
+Ale o takim funduszu ETF jeszcze
+się dowiemy na kolejnych lekcjach.
+
+213
+00:16:03,160 --> 00:16:06,440
+Powiedzmy więc, że dany ETF wpadł nam 
+
+214
+00:16:06,520 --> 00:16:12,480
+w oko i rozważamy inwestycję swojego
+kapitału właśnie w konkretne fundusze ETF.
+
+215
+00:16:12,560 --> 00:16:16,960
+Zanim to zrobimy,
+warto przeczytać najważniejsze fakty,
+
+216
+00:16:17,040 --> 00:16:20,360
+kluczowe informacje na
+temat konkretnego ETF-a.
+
+217
+00:16:20,440 --> 00:16:25,360
+Służy do tego tak zwany KID,
+czyli Key Information Document.
+
+218
+00:16:25,440 --> 00:16:27,200
+Jest to dokument, który pokazuje
+
+219
+00:16:27,280 --> 00:16:31,160
+szczegółowe informacje na
+temat konkretnego funduszu ETF.
+
+220
+00:16:31,240 --> 00:16:34,960
+Możemy z niego wyczytać
+bardzo wiele rzeczy, w tym np.
+
+221
+00:16:35,040 --> 00:16:37,120
+to, jaki poziom ryzyka wiąże się z
+
+222
+00:16:37,200 --> 00:16:41,840
+inwestycją w dany ETF, czy też
+w co konkretnie on inwestuje.
+
+223
+00:16:41,920 --> 00:16:46,160
+Wspomniany przeze mnie KID, czyli Key
+Information Document
+
+224
+00:16:46,240 --> 00:16:52,720
+to obowiązkowa pozycja, którą musi
+przedstawić każdy emitent funduszu ETF.
+
+225
+00:16:52,800 --> 00:16:57,000
+KID-y wyglądają do siebie bardzo podobnie,
+dlatego, że sposób tworzenia tych
+
+226
+00:16:57,080 --> 00:17:00,960
+dokumentów jest bardzo
+mocno standaryzowany.
+
+227
+00:17:01,040 --> 00:17:03,440
+Jednak oprócz tego sformalizowanego
+
+228
+00:17:03,520 --> 00:17:08,800
+dokumentu KID wielu emitentów
+publikuje tak zwany Fact sheet.
+
+229
+00:17:08,880 --> 00:17:14,720
+Jest to już bardzo prosty dokument, który
+w przejrzysty sposób pokazuje
+
+230
+00:17:14,800 --> 00:17:18,040
+najważniejsze informacje
+na temat danego ETF-a.
+
+231
+00:17:18,120 --> 00:17:23,720
+Wielu emitentów jednak wychodzi naprzeciw
+potrzebom inwestorów i publikuje dużo
+
+232
+00:17:23,800 --> 00:17:27,400
+informacji w prosty sposób na
+swoich stronach internetowych.
+
+233
+00:17:27,480 --> 00:17:32,320
+Spójrzmy na fragment takiej strony
+internetowej, opisujący charakterystykę
+
+234
+00:17:32,400 --> 00:17:37,240
+jednego z najpopularniejszych funduszy
+ETF opartych o szeroki rynek akcji.
+
+235
+00:17:37,320 --> 00:17:40,920
+Jest to fundusz ETF Ishares Core MSCI
+
+236
+00:17:41,000 --> 00:17:46,520
+World, którego emitentem jest
+właśnie wspomniane IShares.
+
+237
+00:17:46,600 --> 00:17:54,080
+Na ekranie widzicie właśnie najważniejsze
+informacje dotyczące tego funduszu ETF.
+
+238
+00:17:54,160 --> 00:17:57,800
+Oczywiście nie każda z tych informacji
+jest tak samo istotna,
+
+239
+00:17:57,880 --> 00:18:02,400
+ale opowiem Ci, na które z nich 
+w szczególny sposób warto zwrócić uwagę,
+
+240
+00:18:02,480 --> 00:18:07,560
+żeby ocenić, czy inwestycja w dany
+fundusz nadal jest dla Ciebie.
+
+241
+00:18:07,640 --> 00:18:11,200
+Po lewej stronie tabeli warto zobaczyć na
+
+242
+00:18:11,280 --> 00:18:16,680
+Share class Launch Date albo ewentualnie
+po prawej stronie na Fund Launch Date.
+
+243
+00:18:16,760 --> 00:18:19,760
+Chodzi tutaj o datę powstania funduszu.
+
+244
+00:18:19,840 --> 00:18:21,840
+Nie ma lepszej czy też gorszej daty
+
+245
+00:18:21,920 --> 00:18:27,120
+powstania funduszu, ale bardzo wielu
+inwestorów czy też inwestorek decyduje się
+
+246
+00:18:27,200 --> 00:18:32,600
+na inwestowanie tylko w ETF-y, które
+mają już za sobą jakąś historię.
+
+247
+00:18:32,680 --> 00:18:35,480
+Część osób może mieć zasadę, że np.
+
+248
+00:18:35,560 --> 00:18:40,320
+nie inwestuje w ETF-y, które mają
+mniej niż 3 lata, czy też 5 lat.
+
+249
+00:18:40,400 --> 00:18:42,680
+Oczywiście data powstania to nie musi być
+
+250
+00:18:42,760 --> 00:18:48,480
+wyznacznik dobrego czy też gorszego
+funduszu, ale zawsze nieco raźniej jest
+
+251
+00:18:48,560 --> 00:18:52,680
+inwestować w fundusz, który
+istnieje na rynku przez wiele lat.
+
+252
+00:18:52,760 --> 00:18:57,480
+Druga informacja, na którą warto
+zwrócić uwagę to Asset Class.
+
+253
+00:18:57,560 --> 00:19:01,960
+Mówi ona o tym, jaki jest rodzaj
+aktywów, w które inwestuje fundusz.
+
+254
+00:19:02,040 --> 00:19:08,440
+Tutaj mamy nazwę equity, co oznacza,
+że fundusz inwestuje w akcje.
+
+255
+00:19:08,520 --> 00:19:14,480
+Kolejną ważną informacją jest Total
+Expense Ratio, czyli tak zwany TER, 
+
+256
+00:19:14,560 --> 00:19:17,640
+poziom opłat związanych z funduszem.
+
+257
+00:19:17,720 --> 00:19:22,520
+Oczywiście im mniejsze opłaty, tym lepiej
+i w tym przypadku faktycznie są one
+
+258
+00:19:22,600 --> 00:19:27,840
+niewielkie wynoszą
+jedynie 0,2% w skali roku.
+
+259
+00:19:27,920 --> 00:19:34,120
+Kolejne kryterium, według którego
+warto patrzeć na fundusz to Use of Income.
+
+260
+00:19:34,200 --> 00:19:37,800
+Oznacza to to, co fundusz
+robi z dywidendą sami.
+
+261
+00:19:37,880 --> 00:19:41,000
+Słowo accumulating oznacza, że w tym
+
+262
+00:19:41,080 --> 00:19:45,800
+przypadku dywidendy są
+inwestowane, a nie wypłacane.
+
+263
+00:19:45,880 --> 00:19:51,480
+Ważny jest także Fund Manager, czyli
+instytucja, która zarządza funduszem.
+
+264
+00:19:51,560 --> 00:19:54,760
+Tutaj jest to BlackRock, czyli jedna z
+
+265
+00:19:54,840 --> 00:19:59,280
+najsłynniejszych na świecie
+firm zarządzających aktywami.
+
+266
+00:19:59,360 --> 00:20:02,480
+Spójrzmy teraz na prawą stronę tabeli.
+
+267
+00:20:02,560 --> 00:20:04,040
+Znajdziemy tam np.
+
+268
+00:20:04,120 --> 00:20:09,720
+NET Assets of Fund, czyli łączną
+wielkość aktywów w posiadaniu funduszu.
+
+269
+00:20:09,800 --> 00:20:13,480
+Jest to główna miara wielkości
+i stabilności funduszu.
+
+270
+00:20:13,560 --> 00:20:18,120
+W tym przypadku jest to
+ponad 70 miliardów dolarów.
+
+271
+00:20:18,200 --> 00:20:24,360
+Mamy tu także Benchmark Index, czyli
+indeks, o który oparty jest dany fundusz.
+
+272
+00:20:24,440 --> 00:20:29,640
+Tutaj oczywiście jest to
+MSCI World Index.
+
+273
+00:20:29,720 --> 00:20:31,240
+ISIN to bardzo ważny numer.
+
+274
+00:20:31,320 --> 00:20:35,000
+Jest to tak zwany numer
+identyfikacyjny funduszu.
+
+275
+00:20:35,080 --> 00:20:37,520
+Czasem w wyszukiwarkach łatwiej jest
+
+276
+00:20:37,600 --> 00:20:42,440
+znaleźć fundusz właśnie po
+tym numerze, zamiast po TERze.
+
+277
+00:20:42,520 --> 00:20:46,560
+Shares Outstanding to
+liczba jednostek funduszu.
+
+278
+00:20:46,640 --> 00:20:52,520
+Z kolei poniżej warto zwrócić uwagę
+jeszcze na parę ciekawych informacji.
+
+279
+00:20:52,600 --> 00:20:57,000
+Number of Holdings to liczba
+spółek w posiadaniu funduszu.
+
+280
+00:20:57,080 --> 00:21:01,960
+W tym przypadku jest to aż 1480.
+
+281
+00:21:02,040 --> 00:21:06,040
+A więc zobacz jak wiele
+akcji posiada ten fundusz.
+
+282
+00:21:06,120 --> 00:21:08,560
+Tak duża dywersyfikacja byłaby praktycznie
+
+283
+00:21:08,640 --> 00:21:12,280
+niemożliwa dla przeciętnego
+inwestora indywidualnego.
+
+284
+00:21:12,360 --> 00:21:17,240
+Bo czy wyobrażacie sobie kupić akcje
+prawie tysiąca pięciuset spółek?
+
+285
+00:21:17,320 --> 00:21:21,800
+P/E i P/B Ratio to są wskaźniki fundamentalne,
+
+286
+00:21:21,880 --> 00:21:24,920
+które jeszcze poznamy
+w kolejnych modułach.
+
+287
+00:21:25,000 --> 00:21:29,840
+W dużym uproszczeniu pokazują one, czy
+spółki zawarte w indeksie są drogie
+
+288
+00:21:29,920 --> 00:21:35,240
+czy tanie w stosunku do swojej wartości
+księgowej i do swoich przychodów.
+
+289
+00:21:35,320 --> 00:21:40,440
+Natomiast Beta i Standard Deviation
+to wskaźniki statystyczne.
+
+290
+00:21:40,520 --> 00:21:43,320
+Pokazują one ryzyko, czyli zmienność
+
+291
+00:21:43,400 --> 00:21:48,520
+notowań funduszu w przypadku chęci
+zainwestowania w jakiś fundusz.
+
+292
+00:21:48,600 --> 00:21:51,840
+Warto też spojrzeć na poziom jego ryzyka,
+
+293
+00:21:51,920 --> 00:21:57,960
+który zazwyczaj możemy znaleźć na 7
+stopniowej skali albo w dokumencie KID,
+
+294
+00:21:58,040 --> 00:22:02,960
+albo na stronie informacyjnej funduszu,
+czy też w tak zwanym fact sheet.
+
+295
+00:22:03,040 --> 00:22:08,160
+Warto pamiętać jednak o tym, że
+fundusze oparte o rynki akcji
+
+296
+00:22:08,240 --> 00:22:11,240
+z zasady będą należały do funduszy, które są
+
+297
+00:22:11,320 --> 00:22:15,560
+nieco bardziej ryzykowne
+na skali od 1 do 7.
+
+298
+00:22:15,640 --> 00:22:22,280
+Zazwyczaj fundusze ETF oparte o akcje
+zaczynają się gdzieś w okolicach czwórki,
+
+299
+00:22:22,360 --> 00:22:26,840
+natomiast te o obligacje znajdują się
+niżej, w okolicach jedynki czy dwójki.
+
+300
+00:22:26,920 --> 00:22:33,280
+Pamiętaj więc, że nawet jeżeli ryzyko
+danego funduszu jest pokazane jako 4 czy
+
+301
+00:22:33,360 --> 00:22:40,800
+5, to wciąż jest to klasyczny wynik
+dla tej klasy aktywów, jaką są akcje.
+
+302
+00:22:40,880 --> 00:22:46,240
+Jeśli szukasz konkretnych nazw funduszy
+ETF, które najlepiej nadają się do
+
+303
+00:22:46,320 --> 00:22:50,320
+długoterminowego portfela, to
+mam dla Ciebie dobrą informację.
+
+304
+00:22:50,400 --> 00:22:57,800
+W materiałach do tej lekcji znajdziesz
+plik PDF, w którym opisałam i wyodrębniłam
+
+305
+00:22:57,880 --> 00:23:02,800
+najciekawsze fundusze, które nadają się
+do budowy długoterminowego portfela.
+
+306
+00:23:02,880 --> 00:23:05,760
+Niezależnie więc od tego, w jaki typ
+
+307
+00:23:05,840 --> 00:23:10,800
+funduszu ETF będziesz chciała zainwestować
+w kontekście akcji czy w te najbardziej
+
+308
+00:23:10,880 --> 00:23:16,280
+szerokie, czy w te nieco węższe, 
+a może nawet te powiązane z obligacjami,
+
+309
+00:23:16,360 --> 00:23:22,240
+W pliku tym znajdziesz informacje dla
+siebie i dowiesz się, na co warto zwracać
+
+310
+00:23:22,320 --> 00:23:26,560
+uwagę i które ETF-y są
+najciekawsze na dany moment.
+
+311
+00:23:26,640 --> 00:23:33,360
+A teraz podsumowując: jak w takim razie
+mądrze inwestować pasywnie w ETF?
+
+312
+00:23:33,440 --> 00:23:38,840
+Po pierwsze jeżeli dobierasz ETF do
+długoterminowego portfela, to stawiaj na
+
+313
+00:23:38,920 --> 00:23:43,240
+takie o horyzoncie inwestycyjnym
+na co najmniej 5 lat.
+
+314
+00:23:43,320 --> 00:23:46,640
+Nie kupuj ETF-ów krótkoterminowo, jeżeli
+
+315
+00:23:46,720 --> 00:23:50,640
+nie masz podejścia
+spekulacyjnego, aktywnego.
+
+316
+00:23:50,720 --> 00:23:53,160
+Takie krótkoterminowe inwestowanie zostaw
+
+317
+00:23:53,240 --> 00:23:57,800
+sobie do tego trzeciego portfela- 
+portfela inwestycyjnych okazji.
+
+318
+00:23:57,880 --> 00:24:02,400
+Po drugie postaw na ETF-y
+oparte o szeroki rynek akcji.
+
+319
+00:24:02,480 --> 00:24:07,120
+Pamiętaj, że są one najlepszym
+sposobem na dywersyfikację.
+
+320
+00:24:07,200 --> 00:24:11,880
+Po trzecie, jeżeli inwestujesz
+długoterminowo, to zwracaj uwagę przede
+
+321
+00:24:11,960 --> 00:24:17,280
+wszystkim na jak najniższe opłaty
+roczne, czyli jak najniższy TER.
+
+322
+00:24:17,360 --> 00:24:22,960
+Zbyt wysoki poziom opłat po prostu
+obniży stopę zwrotu z inwestycji.
+
+323
+00:24:23,040 --> 00:24:26,120
+Po czwarte, nie bój się wiedzieć więcej.
+
+324
+00:24:26,200 --> 00:24:29,520
+Zanim zainwestujesz w
+konkretne fundusze ETF
+
+325
+00:24:29,600 --> 00:24:35,240
+przeczytaj jego Fact Sheet albo dokument
+KID i poznaj jego charakterystykę.
+
+326
+00:24:35,320 --> 00:24:38,720
+Po piąte, nie bój się także eksplorować.
+
+327
+00:24:38,800 --> 00:24:44,760
+Przejrzyj dostępne bazy ETF-ów, zarówno
+te polskie, jak i te międzynarodowe.
+
+328
+00:24:44,840 --> 00:24:47,800
+Pamiętaj, że z czasem możesz znaleźć
+
+329
+00:24:47,880 --> 00:24:52,600
+ciekawe fundusze ETF, które są
+najbardziej dopasowane do Ciebie i np.
+
+330
+00:24:52,680 --> 00:24:54,160
+do Twoich zainteresowań.
+

@@ -1,0 +1,397 @@
+1
+00:00:04,680 --> 00:00:06,920
+W poprzednich modułach dowiedziałaś się,
+
+2
+00:00:06,950 --> 00:00:10,260
+czym jest tak zwana
+teoria trzech portfeli.
+
+3
+00:00:10,290 --> 00:00:15,300
+Mówi ona, że pierwszym portfelem, który
+warto zbudować jest poduszka finansowa,
+
+4
+00:00:15,330 --> 00:00:19,420
+która jest ulokowana
+bezpiecznie, wręcz zachowawczo.
+
+5
+00:00:19,450 --> 00:00:25,080
+Drugim portfelem jest długoterminowy
+portfel inwestycyjny, czyli taki portfel,
+
+6
+00:00:25,100 --> 00:00:31,000
+w którym już inwestujemy nieco odważniej i
+który umożliwia nam wzrost wartości
+
+7
+00:00:31,030 --> 00:00:36,020
+naszych pieniędzy i ich ochronę
+przed inflacją przez długie lata.
+
+8
+00:00:36,050 --> 00:00:38,240
+Zarówno poduszkę finansową, 
+
+9
+00:00:38,270 --> 00:00:43,700
+jak i długoterminowy portfel inwestycyjny
+powinna mieć każda osoba bez wyjątku.
+
+10
+00:00:43,730 --> 00:00:48,360
+To właśnie te dwa portfele odpowiadają za
+to, żeby nasze pieniądze z czasem nie
+
+11
+00:00:48,390 --> 00:00:52,300
+traciły na inflacji,
+a wręcz dla nas zarabiały.
+
+12
+00:00:52,330 --> 00:00:54,720
+Natomiast trzecim portfelem, który jest
+
+13
+00:00:54,750 --> 00:01:00,420
+już absolutnie opcjonalny, jest tak
+zwany portfel inwestycyjnych okazji.
+
+14
+00:01:00,450 --> 00:01:02,520
+O nim nie będziemy się uczyć za bardzo
+
+15
+00:01:02,550 --> 00:01:06,770
+W tym kursie, chociaż pojawią się
+elementy aktywnych inwestycji.
+
+16
+00:01:06,800 --> 00:01:11,400
+Natomiast warto, żebyś wiedziała, czym ten
+portfel jest, żeby bardziej świadomie
+
+17
+00:01:11,430 --> 00:01:15,700
+budować swoje inwestycje
+i swoje portfele inwestycyjne.
+
+18
+00:01:15,730 --> 00:01:18,930
+Czym więc jest ten portfel
+inwestycyjnych okazji?
+
+19
+00:01:18,960 --> 00:01:24,560
+Jak sama nazwa wskazuje, ten portfel jest
+taką częścią Twoich oszczędności, którą
+
+20
+00:01:24,590 --> 00:01:29,420
+przeznaczasz na inwestycje, które
+mają największy potencjał zysku.
+
+21
+00:01:29,450 --> 00:01:33,460
+Ale co się z tym wiąże, są
+również najbardziej ryzykowne.
+
+22
+00:01:33,490 --> 00:01:38,680
+To w nim jest miejsce na poszukiwanie
+rynkowych okazji, na poszukiwanie takich
+
+23
+00:01:38,710 --> 00:01:42,780
+inwestycji, które po prostu
+dadzą najwyższe stopy zwrotu.
+
+24
+00:01:42,810 --> 00:01:46,100
+Co więc może się znaleźć w takim portfelu?
+
+25
+00:01:46,130 --> 00:01:49,340
+Tutaj w zasadzie ogranicza
+Cię tylko Twoja wyobraźnia.
+
+26
+00:01:49,370 --> 00:01:52,080
+Możesz w tym portfelu mieć np.
+
+27
+00:01:52,110 --> 00:01:55,850
+akcje, ale mieć akcje pojedynczych spółek
+
+28
+00:01:55,880 --> 00:01:59,620
+albo po prostu ETF-ów, które
+są nieco bardziej ryzykowne.
+
+29
+00:01:59,650 --> 00:02:02,520
+Możesz mieć również akcje czy też udziały
+
+30
+00:02:02,550 --> 00:02:06,420
+spółek niepublicznych, czyli takich,
+które nie są notowane na giełdzie.
+
+31
+00:02:06,450 --> 00:02:11,880
+W portfelu inwestycyjnych okazji możesz
+także stawiać na obligacje, 
+
+32
+00:02:11,910 --> 00:02:15,560
+ale np. próbować tych obligacji, 
+które są nieco bardziej ryzykowne, 
+
+33
+00:02:15,590 --> 00:02:17,380
+na przykład obligacji korporacyjnych.
+
+34
+00:02:17,410 --> 00:02:21,860
+Tutaj nie musisz już stawiać tylko
+i wyłącznie na ETF-y, które są oparte
+
+35
+00:02:21,890 --> 00:02:24,820
+o szeroki globalny rynek
+akcji czy obligacji.
+
+36
+00:02:24,850 --> 00:02:27,200
+Możesz tu stawiać także na ETFy, 
+
+37
+00:02:27,230 --> 00:02:32,280
+które są oparte o akcje spółek z konkretnej branży,
+także z tych perspektywicznych, 
+
+38
+00:02:32,310 --> 00:02:37,300
+ale nieco bardziej niepewnych branż,
+jak również ETF-y oparte o surowce.
+
+39
+00:02:37,330 --> 00:02:42,780
+I co ważne, w tym portfelu możesz
+traktować ETF-y bardziej spekulacyjnie,
+
+40
+00:02:42,810 --> 00:02:47,240
+czyli nie kupować ich już na
+długie lata, ale czasem np.
+
+41
+00:02:47,270 --> 00:02:50,860
+na miesiąc, kilka dni
+czy nawet kilka godzin.
+
+42
+00:02:50,890 --> 00:02:55,220
+W tym portfelu jest miejsce także na
+wszelkiego typu inwestycje alternatywne.
+
+43
+00:02:55,250 --> 00:02:58,860
+Tutaj możesz kupować
+surowce, już nie tylko złoto.
+
+44
+00:02:58,890 --> 00:03:01,420
+Możesz także kupować wszelkiego typu
+
+45
+00:03:01,450 --> 00:03:09,820
+inwestycje emocjonalne, takie jak właśnie
+zabytkowe samochody, zegarki.
+
+46
+00:03:09,850 --> 00:03:14,040
+To jest też miejsce na wszelkiego typu
+innowacyjne technologie, czyli np.
+
+47
+00:03:14,070 --> 00:03:15,720
+np. inwestycje oparte o technologię
+
+48
+00:03:15,750 --> 00:03:20,340
+blockchain, wszelkiego
+rodzaju kryptowaluty itd.
+
+49
+00:03:20,370 --> 00:03:25,200
+No i w końcu w tym portfelu także możesz
+stawiać na kupowanie certyfikatów
+
+50
+00:03:25,230 --> 00:03:30,640
+inwestycyjnych, funduszy zamkniętych,
+czyli takich funduszy, które są nieco
+
+51
+00:03:30,670 --> 00:03:33,610
+bardziej ryzykowne niż
+fundusze inwestycyjne otwarte,
+
+52
+00:03:33,640 --> 00:03:35,700
+o czym jeszcze wspomnę później,
+
+53
+00:03:35,730 --> 00:03:39,100
+ale takich, które dają
+większe możliwości zarabiania.
+
+54
+00:03:39,130 --> 00:03:41,400
+Jak więc widzisz możliwości lokowania
+
+55
+00:03:41,400 --> 00:03:43,800
+swoich pieniędzy w ramach
+portfela inwestycyjnych
+
+56
+00:03:43,830 --> 00:03:46,420
+okazji są przeogromne,
+
+57
+00:03:46,450 --> 00:03:52,220
+ale warto, żebyś pamiętała o takich
+głównych regułach tworzenia tego portfela.
+
+58
+00:03:52,250 --> 00:03:57,520
+Po pierwsze warto go tworzyć dopiero
+wtedy, kiedy masz już zbudowaną poduszkę
+
+59
+00:03:57,550 --> 00:04:02,180
+finansową i gdy już masz jakiś
+długoterminowy portfel inwestycyjny.
+
+60
+00:04:02,200 --> 00:04:04,200
+Bo te wcześniejsze dwa portfele stanowią
+
+61
+00:04:04,230 --> 00:04:08,700
+Twoją bazę, są taką trochę ochroną
+dla tych Twoich inwestycji.
+
+62
+00:04:08,730 --> 00:04:13,440
+Natomiast w portfelu inwestycyjnych okazji
+możesz bardziej zaszaleć, ale jednak
+
+63
+00:04:13,470 --> 00:04:18,320
+wystawiasz się na większe ryzyko, więc
+warto, abyś była go świadoma i żebyś nie
+
+64
+00:04:18,340 --> 00:04:22,540
+ryzykowała wszystkich swoich pieniędzy
+albo większości swoich pieniędzy,
+
+65
+00:04:22,570 --> 00:04:25,540
+zaczynając właśnie od tego
+spekulacyjnego portfela.
+
+66
+00:04:25,570 --> 00:04:31,280
+Po drugie, w portfelu inwestycyjnych
+okazji warto z czasem nabrać jakiejś
+
+67
+00:04:31,300 --> 00:04:36,780
+specjalizacji, czyli zacząć specjalizować
+się w konkretnym typie inwestycji.
+
+68
+00:04:36,800 --> 00:04:37,580
+Dlaczego?
+
+69
+00:04:37,600 --> 00:04:41,900
+Właśnie dlatego, że tych możliwości
+inwestowania jest bardzo dużo.
+
+70
+00:04:41,920 --> 00:04:44,920
+Nie jesteśmy w stanie być specjalistami
+
+71
+00:04:44,950 --> 00:04:49,300
+czy specjalistkami w każdej
+z tych możliwości inwestycyjnych.
+
+72
+00:04:49,330 --> 00:04:53,800
+Bardzo wiele osób, które inwestują już
+swoje pieniądze od dłuższego czasu,
+
+73
+00:04:53,830 --> 00:05:00,880
+czyli mają doświadczenie w inwestowaniu, 
+wybiera więc sobie jakąś specjalizację, 
+
+74
+00:05:00,910 --> 00:05:03,820
+jakiś typ inwestycji, w której po
+prostu czują się najlepiej.
+
+75
+00:05:03,840 --> 00:05:06,180
+Czasem jest to 
+spekulacja na walutach.
+
+76
+00:05:06,210 --> 00:05:10,740
+Czasem jest to inwestowanie w dzieła
+sztuki, czasem w kryptowaluty.
+
+77
+00:05:10,770 --> 00:05:15,260
+To co będzie Twoją zajawką, pewnie
+będzie zależało już od Ciebie.
+
+78
+00:05:15,280 --> 00:05:20,160
+Ale też pamiętaj o tym, że ten portfel
+właśnie ze względu na specjalizację
+
+79
+00:05:20,190 --> 00:05:24,500
+i konieczność posiadania większej
+wiedzy zajmuje też więcej czasu.
+
+80
+00:05:24,530 --> 00:05:29,060
+On nie jest obowiązkowy i jeżeli nie
+będziesz miała czasu na jego stworzenie,
+
+81
+00:05:29,090 --> 00:05:32,220
+to absolutnie nie musisz
+się tym przejmować.
+
+82
+00:05:32,250 --> 00:05:37,280
+Wystarczy, że będziesz miała dobrze
+ułożoną poduszkę finansową i odpowiednio
+
+83
+00:05:37,300 --> 00:05:40,240
+ulokowany długoterminowy
+portfel inwestycyjny.
+

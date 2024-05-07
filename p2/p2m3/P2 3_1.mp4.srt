@@ -1,0 +1,354 @@
+1
+00:00:05,520 --> 00:00:08,360
+Na akcjach można zarabiać na dwa sposoby.
+
+2
+00:00:08,440 --> 00:00:13,720
+Po pierwsze cena akcji danej spółki
+może wzrosnąć i to jest nasz zysk.
+
+3
+00:00:13,800 --> 00:00:19,080
+Po drugie, jako posiadacze akcji danej
+spółki możemy otrzymać tak zwane prawo
+
+4
+00:00:19,160 --> 00:00:23,960
+do dywidendy, czyli do części zysku,
+który wypracowała dana spółka.
+
+5
+00:00:24,040 --> 00:00:29,120
+Inwestowanie dywidendowe to więc ciekawa
+strategia dla inwestorów początkujących,
+
+6
+00:00:29,200 --> 00:00:35,520
+ponieważ nie szukamy wtedy koniecznie tych
+spółek, których akcje mogą zyskiwać 
+
+7
+00:00:35,600 --> 00:00:40,640
+na wartości, ale szukamy tych spółek,
+które mogą podzielić się z nami zyskiem.
+
+8
+00:00:40,720 --> 00:00:46,280
+Dla wielu osób dywidendy to ciekawy sposób
+na to, żeby uzyskiwać pasywne przychody.
+
+9
+00:00:46,360 --> 00:00:49,480
+I najciekawsze jest to, że można zacząć
+
+10
+00:00:49,560 --> 00:00:53,480
+inwestować dywidendowo
+nawet posiadając niewielki kapitał.
+
+11
+00:00:53,560 --> 00:00:56,560
+Zacznijmy od tego, czym
+w ogóle jest dywidenda.
+
+12
+00:00:56,640 --> 00:01:02,120
+Dywidenda to po prostu część zysku
+danej spółki z konkretnego roku.
+
+13
+00:01:02,200 --> 00:01:04,640
+Jeśli jakaś firma w danym roku wypracowuje
+
+14
+00:01:04,720 --> 00:01:10,800
+zysk, to może zdecydować co z tym zyskiem
+zrobi, czy zatrzyma go w firmie i np.
+
+15
+00:01:10,880 --> 00:01:15,640
+przeznaczy te pieniądze na jakieś
+inwestycje albo na spłatę części swoich
+
+16
+00:01:15,720 --> 00:01:22,000
+długów, czy też może wykorzysta część tego
+zysku po to, żeby podzielić się nim ze
+
+17
+00:01:22,080 --> 00:01:28,200
+swoimi akcjonariuszami, czyli z każdą
+osobą, która posiada akcje danej spółki.
+
+18
+00:01:28,280 --> 00:01:34,480
+I tutaj spółka może wybrać czy podzieli
+się częścią tego zysku, czy może cały
+
+19
+00:01:34,560 --> 00:01:39,480
+wypracowany za dany rok zysk
+rozdysponować między akcjonariuszy.
+
+20
+00:01:39,560 --> 00:01:42,680
+Wypłacanie dywidendy jest
+całkowicie opcjonalne.
+
+21
+00:01:42,760 --> 00:01:46,040
+Nie jest to w żadnym
+wypadku obowiązek spółki.
+
+22
+00:01:46,120 --> 00:01:49,640
+Jeśli jednak dana spółka regularnie dzieli
+
+23
+00:01:49,720 --> 00:01:55,320
+się swoim zyskiem z akcjonariuszami, to
+jest to uznawane za pozytywny sygnał.
+
+24
+00:01:55,400 --> 00:01:58,520
+No bo to przecież oznacza, że po pierwsze
+
+25
+00:01:58,600 --> 00:02:05,440
+jakaś spółka z roku na rok regularnie
+wypracowuje zyski, a po drugie ma na tyle
+
+26
+00:02:05,520 --> 00:02:11,080
+zdrową sytuację finansową, że może sobie
+pozwolić na to, żeby częścią przynajmniej
+
+27
+00:02:11,160 --> 00:02:13,520
+tego zysku podzielić
+się z akcjonariuszami.
+
+28
+00:02:13,600 --> 00:02:20,360
+Jeśli jakieś spółki regularnie mają zyski
+i równie regularnie przynajmniej przez
+
+29
+00:02:20,440 --> 00:02:26,720
+kilka lat z rzędu wypłacają dywidendy,
+to nazywa się je spółkami dywidendowymi.
+
+30
+00:02:26,800 --> 00:02:29,600
+Jak w ogóle otrzymać dywidendę?
+
+31
+00:02:29,680 --> 00:02:32,000
+Zazwyczaj inwestorzy z dużym wyprzedzeniem
+
+32
+00:02:32,080 --> 00:02:37,160
+wiedzą, czy dana spółka wypłaci
+dywidendę i kiedy ją wypłaci.
+
+33
+00:02:37,240 --> 00:02:43,680
+Cały proces zazwyczaj rozpoczyna się od
+tak zwanej rekomendacji zarządu dotyczącej
+
+34
+00:02:43,760 --> 00:02:49,560
+tego, żeby daną dywidendę wypłacić 
+i później na daną rekomendację musi
+
+35
+00:02:49,640 --> 00:02:55,880
+zareagować WZA, czyli walne
+zgromadzenie akcjonariuszy danej spółki.
+
+36
+00:02:55,960 --> 00:03:02,000
+To właśnie podczas WZA ustala
+się także dwie bardzo ważne daty.
+
+37
+00:03:02,080 --> 00:03:07,760
+Po pierwsze dzień dywidendy,
+czyli konkretny dzień, w którym trzeba
+
+38
+00:03:07,840 --> 00:03:13,320
+posiadać akcje danej spółki,
+żeby uzyskać prawo do dywidendy.
+
+39
+00:03:13,400 --> 00:03:16,920
+I po drugie dzień wypłaty dywidendy, 
+
+40
+00:03:17,000 --> 00:03:21,640
+czyli konkretny dzień, w którym dana
+dywidenda zostanie wypłacona.
+
+41
+00:03:21,720 --> 00:03:27,080
+Jak więc kupić akcje spółki dywidendowej
+i zapewnić sobie taki dodatkowy przychód?
+
+42
+00:03:27,160 --> 00:03:28,920
+Jest to bardzo proste.
+
+43
+00:03:29,000 --> 00:03:35,200
+Wystarczy na swoim rachunku maklerskim
+kupić tyle akcji danej spółki, która ma
+
+44
+00:03:35,280 --> 00:03:42,480
+zamiar wypłacić dywidendę ile chcesz,i ile
+możesz i dalej nie musisz już nic robić.
+
+45
+00:03:42,560 --> 00:03:47,600
+Jeżeli posiadasz akcje tej konkretnej
+spółki w dniu dywidendy
+
+46
+00:03:47,680 --> 00:03:53,320
+to ta dywidenda naliczy się sama 
+i trafi na Twój rachunek maklerski.
+
+47
+00:03:53,400 --> 00:03:56,960
+Bardzo ważne jest to, żeby pamiętać o
+
+48
+00:03:57,040 --> 00:04:02,000
+o cyklu rachunkowym T+2, który
+obowiązuje w przypadku akcji.
+
+49
+00:04:02,080 --> 00:04:09,040
+Oznacza on, że gdy kupujemy jakieś papiery
+wartościowe to wtedy one rozliczają się w
+
+50
+00:04:09,120 --> 00:04:14,560
+w KDPW, czyli Krajowym Depozycie Papierów
+Wartościowych przez dwa dni robocze.
+
+51
+00:04:14,640 --> 00:04:20,040
+A więc jeśli na przykład dzień dywidendy
+wypada w środę,
+
+52
+00:04:20,120 --> 00:04:26,600
+to musimy najpóźniej w poniedziałek przed
+zamknięciem sesji nabyć konkretne akcje,
+
+53
+00:04:26,680 --> 00:04:32,280
+żeby właśnie w środę posiadać je
+na swoim rachunku, już rozliczone.
+
+54
+00:04:32,360 --> 00:04:37,760
+Gdybyśmy na przykład kupiły takie akcje we
+wtorek, no to niestety na środowy dzień
+
+55
+00:04:37,840 --> 00:04:43,960
+dywidendy już się nie załapiemy, dlatego
+że te akcje kupione we wtorek w KDPW
+
+56
+00:04:44,040 --> 00:04:48,760
+rozliczą się dopiero, według
+zasady T+2, w czwartek.
+
+57
+00:04:48,840 --> 00:04:51,440
+Co ciekawe, posiadanie akcji w dniu
+
+58
+00:04:51,520 --> 00:04:57,000
+dywidendy to jest jedyny warunek konieczny
+do tego, żeby tę dywidendę otrzymać.
+
+59
+00:04:57,080 --> 00:04:59,800
+Czyli jeżeli np.
+
+60
+00:04:59,880 --> 00:05:04,640
+będziesz posiadać te akcje dosłownie
+tylko przez jeden dzień właśnie 
+
+61
+00:05:04,720 --> 00:05:10,960
+w dniu dywidendy i sprzedasz je następnego
+dnia, to nawet jeśli dzień wypłaty
+
+62
+00:05:11,040 --> 00:05:17,360
+dywidendy przypada dużo później, 
+to i tak otrzymasz dywidendę z tej spółki.
+
+63
+00:05:17,440 --> 00:05:19,080
+I jeszcze jedna sprawa.
+
+64
+00:05:19,160 --> 00:05:24,360
+Niektóre spółki decydują się na
+podzielenie wypłaty dywidendy 
+
+65
+00:05:24,440 --> 00:05:27,600
+i np. wcześniejszą wypłatę
+części z niej jako tzw.
+
+66
+00:05:27,680 --> 00:05:28,880
+zaliczki.
+
+67
+00:05:28,960 --> 00:05:31,960
+Gdy więc mamy do czynienia z podzieloną
+
+68
+00:05:32,040 --> 00:05:39,080
+wypłatą dywidendy, to każda z tych wypłat:
+i zaliczka i późniejsza wypłata reszty
+
+69
+00:05:39,160 --> 00:05:45,240
+dywidendy mają swój dzień dywidendy
+i dzień wypłaty dywidendy.
+
+70
+00:05:45,320 --> 00:05:48,840
+A więc podsumowując żeby inwestować
+
+71
+00:05:48,920 --> 00:05:55,760
+dywidendowo i żeby otrzymać taką dywidendę z
+jakiejś spółki na swój rachunek maklerski
+
+72
+00:05:55,840 --> 00:06:02,560
+po prostu musimy w dniu dywidendy posiadać
+akcje jakiejś spółki albo posiadać
+
+73
+00:06:02,640 --> 00:06:08,080
+jednostki funduszy ETF opartych
+o akcje spółek dywidendowych.
+
+74
+00:06:08,160 --> 00:06:11,200
+I o tym wszystkim będziemy
+uczyć się w kolejnych lekcjach.
+

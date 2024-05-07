@@ -1,0 +1,287 @@
+1
+00:00:05,480 --> 00:00:07,440
+Tak jak wspominałam w wielu poprzednich
+
+2
+00:00:07,520 --> 00:00:13,760
+modułach, inwestowanie pasywne polega
+przede wszystkim na regularnym kupowaniu
+
+3
+00:00:13,840 --> 00:00:20,800
+jakiś aktywów, nawet bez względu na
+konkretne ceny w danym dniu czy tygodniu.
+
+4
+00:00:20,880 --> 00:00:24,040
+Po prostu kupujemy dane aktywa z myślą 
+
+5
+00:00:24,120 --> 00:00:28,360
+o trzymaniu ich w długoterminowym
+portfelu przez wiele lat.
+
+6
+00:00:28,440 --> 00:00:33,280
+Natomiast gra z trendem opiera
+się już o nieco inne założenia.
+
+7
+00:00:33,360 --> 00:00:36,400
+Mamy tutaj podejście
+nieco bardziej aktywne.
+
+8
+00:00:36,480 --> 00:00:42,120
+Możemy zarówno wykorzystywać poziomy
+wsparcia i oporu do wybierania najlepszych
+
+9
+00:00:42,200 --> 00:00:47,120
+momentów na zawieranie transakcji,
+jak również możemy dzięki liniom trendu
+
+10
+00:00:47,200 --> 00:00:54,480
+wyodrębnić konkretny trend i później, tak
+jak to bywa w surfingu, płynąć na jego
+
+11
+00:00:54,560 --> 00:00:58,120
+fali, czyli w jak największym
+stopniu go wykorzystać.
+
+12
+00:00:58,200 --> 00:01:03,240
+W przypadku większości aktywów, w tym 
+w przypadku inwestowania w bardzo popularne
+
+13
+00:01:03,320 --> 00:01:07,560
+akcje, mam tutaj na myśli przede
+wszystkim trend wzrostowy.
+
+14
+00:01:07,640 --> 00:01:11,200
+To na nim największe
+zastosowanie ma gra z trendem.
+
+15
+00:01:11,280 --> 00:01:16,680
+O ile oczywiście można jej techniki
+wykorzystywać także w trendzie spadkowym,
+
+16
+00:01:16,760 --> 00:01:22,240
+to jest to dużo trudniejsze i nie jest
+to polecane inwestorom początkującym.
+
+17
+00:01:22,320 --> 00:01:25,640
+Jak więc w praktyce wygląda gra z trendem?
+
+18
+00:01:25,720 --> 00:01:28,440
+Mówiąc najprościej, polega ona na tym,
+
+19
+00:01:28,520 --> 00:01:34,360
+żeby znaleźć jakieś akcje albo indeksy,
+które znajdują się w trendzie wzrostowym, 
+
+20
+00:01:34,440 --> 00:01:37,320
+później nabyć odpowiednie akcje czy też
+
+21
+00:01:37,400 --> 00:01:42,720
+ETF-y i cierpliwie poczekać,
+aż trend się skończy.
+
+22
+00:01:42,800 --> 00:01:48,920
+Gdy trend wzrostowy się kończy, wtedy
+sprzedajemy dane akcje czy też ETF-y.
+
+23
+00:01:49,000 --> 00:01:51,800
+Można więc powiedzieć, że gra z trendem
+
+24
+00:01:51,880 --> 00:01:55,600
+to takie połączenie podejścia
+aktywnego i pasywnego.
+
+25
+00:01:55,680 --> 00:02:01,880
+Jest w tym część aktywna, ponieważ
+wyszukujemy trend wzrostowy i później
+
+26
+00:02:01,960 --> 00:02:06,160
+wyszukujemy odpowiedni moment
+na wyjście z danej transakcji, 
+
+27
+00:02:06,240 --> 00:02:12,280
+ale z drugiej strony to podejście wymaga
+także pewnej cierpliwości, czyli pasywnego
+
+28
+00:02:12,360 --> 00:02:16,840
+przetrzymywania danego aktywa w
+swoim portfelu, dopóki trwa trend.
+
+29
+00:02:16,920 --> 00:02:21,720
+Oczywiście aktywa w postaci akcji
+czy też jednostek funduszy ETF.
+
+30
+00:02:21,800 --> 00:02:26,360
+W przypadku gry z trendem mamy do
+czynienia z klarownymi regułami dotyczącymi
+
+31
+00:02:26,440 --> 00:02:30,440
+momentów wejścia czy też
+wyjścia z danej inwestycji.
+
+32
+00:02:30,520 --> 00:02:34,480
+Kiedy najlepiej kupować
+akcje czy też fundusze ETF?
+
+33
+00:02:34,560 --> 00:02:39,880
+Według analizy technicznej
+przy potwierdzonej linii trendu.
+
+34
+00:02:39,960 --> 00:02:43,000
+Natomiast kiedy najlepiej jest sprzedawać?
+
+35
+00:02:43,080 --> 00:02:47,080
+W momencie, kiedy linia trendu
+zostanie przełamana w dół.
+
+36
+00:02:47,160 --> 00:02:48,600
+Spójrz na ten wykres.
+
+37
+00:02:48,680 --> 00:02:50,360
+Mamy tutaj do czynienia z trendem
+
+38
+00:02:50,440 --> 00:02:57,840
+wzrostowym oraz z zaznaczonymi poziomami
+wsparcia takimi miejscami, w których cena
+
+39
+00:02:57,920 --> 00:03:02,280
+tego konkretnego aktywa
+zbliżyła się do linii wsparcia.
+
+40
+00:03:02,360 --> 00:03:05,760
+To właśnie te momenty są najtrafniejsze,
+
+41
+00:03:05,840 --> 00:03:09,560
+jeżeli chodzi o kupno
+tego konkretnego aktywa.
+
+42
+00:03:09,640 --> 00:03:12,440
+Kiedy natomiast według analizy technicznej
+
+43
+00:03:12,520 --> 00:03:18,800
+najlepiej zamknąć daną transakcję, czyli
+wyjść z danej transakcji i sprzedać dane
+
+44
+00:03:18,880 --> 00:03:23,920
+aktywo? W momencie, kiedy linia
+wsparcia zostaje przełamana.
+
+45
+00:03:24,000 --> 00:03:27,840
+Oczywiście wspomniane zasady
+to jednak duże uproszczenie.
+
+46
+00:03:27,920 --> 00:03:33,400
+O ile gra z trendem sama w sobie nie jest
+skomplikowana, to jednak istnieje wiele
+
+47
+00:03:33,480 --> 00:03:39,760
+niuansów dotyczących idealnych momentów na
+zawieranie transakcji kupna czy sprzedaży.
+
+48
+00:03:39,840 --> 00:03:45,640
+Doświadczeni inwestorzy potrafią z dużą
+dozą prawdopodobieństwa dostrzec symptomy
+
+49
+00:03:45,720 --> 00:03:50,560
+zbliżającej się zmiany trendu,
+ale także oni popełniają błędy.
+
+50
+00:03:50,640 --> 00:03:53,120
+Zawsze w przypadku analizy technicznej
+
+51
+00:03:53,200 --> 00:03:59,320
+warto pamiętać, że za wszystkimi liczbami
+i liniami, które znajdują się na wykresie
+
+52
+00:03:59,400 --> 00:04:04,600
+i za każdą kolejną świecą stoją
+jednak nieracjonalni ludzie.
+
+53
+00:04:04,680 --> 00:04:09,480
+Ogólnie analiza techniczna to szerokie
+zagadnienie, zawierające w sobie wiele
+
+54
+00:04:09,560 --> 00:04:13,120
+metod, technik, strategii
+czy też wskaźników.
+
+55
+00:04:13,200 --> 00:04:17,720
+Każdy inwestor czy inwestorka
+może tam znaleźć coś dla siebie i
+
+56
+00:04:17,800 --> 00:04:22,280
+oczywiście uzależnić swój wybór od tego,
+czy ma długo, czy krótkoterminowe
+
+57
+00:04:22,360 --> 00:04:26,400
+podejście i jaką ma wiedzę,
+czy też doświadczenie.
+
+58
+00:04:26,480 --> 00:04:29,040
+Na tym kursie nie będziemy zgłębiać
+
+59
+00:04:29,120 --> 00:04:34,920
+technik analizy technicznej, natomiast w
+dodatkowych materiałach w Girls Money Club
+
+60
+00:04:35,000 --> 00:04:39,840
+możecie dowiedzieć się więcej na
+temat właśnie czytania wykresów.
+

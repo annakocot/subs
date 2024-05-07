@@ -1,0 +1,578 @@
+1
+00:00:04,280 --> 00:00:09,000
+Gdy dopiero zaczynasz swoją przygodę 
+z rynkami finansowymi, składanie pierwszych
+
+2
+00:00:09,030 --> 00:00:11,660
+zleceń może być dla
+Ciebie pewnym wyzwaniem.
+
+3
+00:00:11,690 --> 00:00:15,620
+Na pewno dużo większym niż w
+przypadku doświadczonych inwestorów.
+
+4
+00:00:15,650 --> 00:00:18,000
+W tej lekcji opowiem więc o kilku
+
+5
+00:00:18,030 --> 00:00:24,160
+technicznych pułapkach, na które warto
+zwrócić uwagę i na które możesz natrafić,
+
+6
+00:00:24,190 --> 00:00:26,780
+gdy będziesz składała
+swoje pierwsze zlecenia.
+
+7
+00:00:26,810 --> 00:00:32,380
+Pierwszy rodzaj wyzwań wiąże się z wyborem
+odpowiedniego instrumentu finansowego.
+
+8
+00:00:32,410 --> 00:00:35,960
+Pamiętaj, że oprócz tickerów, czyli skrótów
+
+9
+00:00:35,990 --> 00:00:41,840
+od nazw różnych instrumentów finansowych,
+każdy instrument finansowy ma tak zwany
+
+10
+00:00:41,870 --> 00:00:46,940
+kod ISIN, czyli dosłownie taki
+numer seryjny, który go dotyczy.
+
+11
+00:00:46,970 --> 00:00:49,440
+Gdy więc masz jakiekolwiek wątpliwości co
+
+12
+00:00:49,470 --> 00:00:55,640
+do tego, czy w swoim formularzu zlecenia
+wybrałaś odpowiedni instrument, to sprawdź
+
+13
+00:00:55,670 --> 00:00:59,180
+nie tylko ticker, ale
+właśnie także kod ISIN.
+
+14
+00:00:59,210 --> 00:01:03,000
+Będzie Ci prościej, przynajmniej
+na samym początku. Kodu ISIN
+
+15
+00:01:03,030 --> 00:01:05,640
+możesz także użyć, jeżeli chcesz się
+
+16
+00:01:05,670 --> 00:01:09,400
+upewnić, czy składasz
+odpowiednie zlecenie i na przykład
+
+17
+00:01:09,430 --> 00:01:13,050
+zadzwonisz na obsługę klienta
+w Twoim domu maklerskim.
+
+18
+00:01:13,080 --> 00:01:15,290
+Wtedy faktycznie możesz mieć sprawę
+
+19
+00:01:15,320 --> 00:01:19,460
+sprawdzoną już całkowicie
+od początku do końca.
+
+20
+00:01:19,490 --> 00:01:25,900
+W przypadku kupowania ETF-ów zwróć też
+uwagę na to, jaki jest to rodzaj ETF-u.
+
+21
+00:01:25,930 --> 00:01:28,560
+Czasem jest tak, że nazwy ETF-ów są do
+
+22
+00:01:28,590 --> 00:01:34,700
+siebie bardzo podobne, ale w praktyce
+różnią się dosłownie niuansami.
+
+23
+00:01:34,730 --> 00:01:38,020
+Na przykład fundusze ETF oparte o akcje
+
+24
+00:01:38,050 --> 00:01:43,180
+mogą występować w wersji akumulującej
+i dystrybuującej.
+
+25
+00:01:43,200 --> 00:01:45,000
+O tym będziemy się jeszcze uczyć w drugiej
+
+26
+00:01:45,030 --> 00:01:48,680
+części naszego kursu,
+ale w zależności od tego, którą wersję
+
+27
+00:01:48,710 --> 00:01:53,740
+wybierzesz, nie tylko możesz inwestować 
+w nieco inny sposób 
+
+28
+00:01:53,770 --> 00:01:59,100
+i lepiej wykorzystać procent składany, jak
+i możesz się łatwiej rozliczyć podatkowo.
+
+29
+00:01:59,130 --> 00:02:01,680
+Częstą pułapką przy składaniu zleceń 
+
+30
+00:02:01,710 --> 00:02:07,240
+i wyboru konkretnego instrumentu
+finansowego jest także mylenie 
+
+31
+00:02:07,270 --> 00:02:10,820
+np. jakichś akcji z CFD na akcje.
+
+32
+00:02:10,850 --> 00:02:14,960
+CFD to instrument pochodny,
+którym często handluje się na przykład
+
+33
+00:02:14,990 --> 00:02:21,580
+na platformach forexowych i możliwe, że
+na tej samej platformie znajdziesz np.
+
+34
+00:02:21,610 --> 00:02:26,380
+akcje spółki CD Projekt 
+i CFD na akcje spółki CD Projekt.
+
+35
+00:02:26,410 --> 00:02:31,520
+Nie będę tutaj wchodzić w budowę każdego 
+z tych instrumentów, ale zapamiętaj na ten
+
+36
+00:02:31,550 --> 00:02:34,780
+moment, żeby zawsze wybierać
+coś, co jest prostsze.
+
+37
+00:02:34,810 --> 00:02:36,940
+I jeżeli chcesz kupić akcje,
+
+38
+00:02:36,970 --> 00:02:41,100
+to skupić się właśnie na tym,
+żeby wybrać konkretne akcje.
+
+39
+00:02:41,130 --> 00:02:44,920
+Kolejny rodzaj wyzwań, który się często
+pojawia, gdy składamy swoje pierwsze
+
+40
+00:02:44,950 --> 00:02:49,300
+zlecenia na giełdzie,
+jest związany z wyborem właściwej ceny.
+
+41
+00:02:49,330 --> 00:02:51,840
+Przede wszystkim wiele początkujących
+
+42
+00:02:51,870 --> 00:02:56,740
+inwestorów czy inwestorek
+niewłaściwie wykorzystuje limity cenowe
+
+43
+00:02:56,770 --> 00:03:02,540
+i na przykład, gdy chcemy sprzedać jakieś
+akcje, ustawiamy sobie te limity
+
+44
+00:03:02,570 --> 00:03:09,980
+nierealistycznie wysoko, licząc na to,
+że ktoś za tę naszą cenę dane akcje kupi.
+
+45
+00:03:10,010 --> 00:03:14,920
+Bardzo często takie nierealistyczne limity
+spotykają się tylko i wyłącznie 
+
+46
+00:03:14,950 --> 00:03:18,610
+z rozczarowaniem, a nie z
+kupującym po drugiej stronie.
+
+47
+00:03:18,640 --> 00:03:23,040
+Drugą pułapką, na którą często wpadają
+niedoświadczeni inwestorzy czy inwestorki
+
+48
+00:03:23,070 --> 00:03:27,220
+jest błąd w postaci
+robienia wszystkich zleceń tzw.
+
+49
+00:03:27,250 --> 00:03:32,780
+"PeKaCem", czyli po prostu ustawianie
+wszystkich zleceń po każdej cenie.
+
+50
+00:03:32,810 --> 00:03:37,600
+Chcemy mieć wszystkie zlecenia
+zrealizowane praktycznie od razu, 
+
+51
+00:03:37,630 --> 00:03:42,140
+a to często wiąże się z tym,
+że akceptujemy gorsze ceny.
+
+52
+00:03:42,170 --> 00:03:46,420
+Czasem więc warto uzbroić się
+chociażby w odrobinę cierpliwości.
+
+53
+00:03:46,450 --> 00:03:51,400
+Pamiętajmy również, że pod kątem wyboru
+właściwej ceny nie do końca możemy wierzyć
+
+54
+00:03:51,430 --> 00:03:54,900
+tylko i wyłącznie temu,
+co widzimy na stronach internetowych.
+
+55
+00:03:54,930 --> 00:03:57,320
+Pamiętaj o tym, że większość stron
+
+56
+00:03:57,350 --> 00:04:00,220
+internetowych publikuje
+ceny z opóźnieniem.
+
+57
+00:04:00,250 --> 00:04:05,600
+To może być pewna pułapka, gdy składasz
+zlecenie z limitem ceny, ale na stronie
+
+58
+00:04:05,630 --> 00:04:09,300
+internetowej pojawia się
+cena sprzed 15 minut.
+
+59
+00:04:09,330 --> 00:04:11,320
+W danym momencie sytuacja może być już
+
+60
+00:04:11,350 --> 00:04:16,740
+zupełnie inna, więc wiarygodnym
+źródłem jest właśnie arkusz zleceń.
+
+61
+00:04:16,770 --> 00:04:21,720
+No i w końcu przy wyborze właściwej ceny
+warto pamiętać o tym, że wiele
+
+62
+00:04:21,750 --> 00:04:25,500
+instrumentów finansowych jest
+notowanych w różnych walutach.
+
+63
+00:04:25,530 --> 00:04:30,020
+Być może zainteresuje Cię jakiś ciekawy
+fundusz ETF oparty o akcje
+
+64
+00:04:30,040 --> 00:04:35,400
+i ten fundusz, jak się okazuje jest
+notowany zarówno w Europie, 
+
+65
+00:04:35,420 --> 00:04:39,300
+jak i w brytyjskich funtach, 
+jak i w amerykańskich dolarach.
+
+66
+00:04:39,330 --> 00:04:42,240
+Czasem łatwo się zagapić i wpisać jako
+
+67
+00:04:42,270 --> 00:04:48,300
+limit cenowy cenę w euro, podczas gdy
+cena w dolarach jest troszkę inna.
+
+68
+00:04:48,330 --> 00:04:51,360
+Zwracaj uwagę na to, na jaką giełdę
+
+69
+00:04:51,390 --> 00:04:56,260
+patrzysz i w jakiej walucie
+wyceniany jest też dany ETF.
+
+70
+00:04:56,280 --> 00:04:58,920
+Pewną blokadą, na którą często natrafiają
+
+71
+00:04:58,950 --> 00:05:03,860
+osoby składające zlecenia po raz pierwszy,
+zwłaszcza na rynkach międzynarodowych,
+
+72
+00:05:03,890 --> 00:05:06,620
+jest problem z wyborem właściwej giełdy.
+
+73
+00:05:06,650 --> 00:05:09,260
+Czasem w naszym systemie transakcyjnym
+
+74
+00:05:09,280 --> 00:05:14,180
+trzeba najpierw wybrać giełdę, zanim
+wybierze się konkretny instrument,
+
+75
+00:05:14,210 --> 00:05:18,660
+a wtedy warto sprawdzić, na jakiej
+giełdzie dany instrument jest notowany.
+
+76
+00:05:18,690 --> 00:05:21,380
+Na przykład, jeżeli chcemy kupić
+
+77
+00:05:21,410 --> 00:05:26,760
+jakiś ETF oparty o złoto
+i widzimy, że jest on dostępny tylko na
+
+78
+00:05:26,780 --> 00:05:31,440
+giełdzie we Frankfurcie,
+no to wtedy najczęściej w naszym systemie
+
+79
+00:05:31,470 --> 00:05:36,440
+transakcyjnym najpierw musimy wybrać tę
+giełdę we Frankfurcie, żeby później 
+
+80
+00:05:36,470 --> 00:05:42,620
+w wyszukiwarce już dotyczącej tej giełdy
+móc znaleźć interesujący nas ETF.
+
+81
+00:05:42,650 --> 00:05:46,720
+Jeżeli więc nie możesz w wyszukiwarce
+czasem znaleźć jakiegoś instrumentu
+
+82
+00:05:46,750 --> 00:05:50,820
+finansowego, to zobacz, czy
+dobrze patrzysz na giełdę.
+
+83
+00:05:50,850 --> 00:05:54,220
+Kolejną dość popularną pułapką na starcie,
+
+84
+00:05:54,250 --> 00:06:00,260
+gdy dopiero uczymy się składania zleceń,
+jest składanie zbyt wielu zleceń.
+
+85
+00:06:00,290 --> 00:06:02,480
+Początkujący inwestorzy czy inwestorki
+
+86
+00:06:02,510 --> 00:06:06,980
+cechują się często niecierpliwością,
+o czym zresztą już wspomniałam.
+
+87
+00:06:07,010 --> 00:06:09,560
+Dotyczy to często sytuacji, w której nie
+
+88
+00:06:09,590 --> 00:06:14,060
+jesteśmy w stanie złożyć zlecenia,
+które wytrzyma przez dłuższy czas.
+
+89
+00:06:14,090 --> 00:06:17,840
+I mimo, że składamy zlecenie
+długoterminowo, to gdy widzimy pierwsze
+
+90
+00:06:17,860 --> 00:06:22,560
+zyski, od razu je zamykamy
+i zachęceni czy też zachęcone tym
+
+91
+00:06:22,590 --> 00:06:26,700
+wcześniejszym zyskiem
+od razu składamy kolejne zlecenie.
+
+92
+00:06:26,730 --> 00:06:29,320
+Pamiętajcie, że w ten sposób możecie
+
+93
+00:06:29,350 --> 00:06:33,700
+zapłacić dość duże prowizje,
+zamiast tak naprawdę zyskać.
+
+94
+00:06:33,730 --> 00:06:35,880
+Więc jeśli macie strategię dotyczącą
+
+95
+00:06:35,910 --> 00:06:40,800
+długoterminowego inwestowania, to warto
+wybierać instrumenty, które do tego
+
+96
+00:06:40,830 --> 00:06:45,740
+długoterminowego inwestowania pasują
+i po prostu raz je kupić,
+
+97
+00:06:45,770 --> 00:06:49,140
+i można powiedzieć, że
+wręcz o nich zapomnieć.
+
+98
+00:06:49,170 --> 00:06:52,160
+Natomiast jeżeli kusi Was spekulacja czy
+
+99
+00:06:52,190 --> 00:06:57,980
+trading, to pamiętajcie
+to jest ten portfel inwestycyjnych okazji.
+
+100
+00:06:58,010 --> 00:07:02,360
+Czyli to jest takie zajęcie, którym warto
+się zająć dopiero, gdy macie poduszkę
+
+101
+00:07:02,390 --> 00:07:05,980
+finansową i długoterminowy
+portfel inwestycyjny.
+
+102
+00:07:06,010 --> 00:07:12,280
+I wtedy faktycznie możecie stworzyć sobie
+w swojej giełdowej przygodzie także pewną
+
+103
+00:07:12,300 --> 00:07:17,780
+przestrzeń do tego, żeby spekulować, czy
+trade'ować na niektórych instrumentach.
+
+104
+00:07:17,800 --> 00:07:19,260
+Wszystko jest dla ludzi.
+
+105
+00:07:19,290 --> 00:07:22,240
+No i w końcu kolejną grupą wyzwań, na
+
+106
+00:07:22,270 --> 00:07:27,620
+które często natrafiają inwestorzy 
+i inwestorki, nie tylko te początkujące,
+
+107
+00:07:27,650 --> 00:07:32,020
+to są wszelkiego typu wyzwania
+psychologiczne i emocjonalne.
+
+108
+00:07:32,040 --> 00:07:34,240
+Możemy do nich zaliczyć np.
+
+109
+00:07:34,270 --> 00:07:37,060
+słynne łapanie spadającego noża.
+
+110
+00:07:37,090 --> 00:07:39,760
+Gdy widzimy, że coś mocno potaniało,
+
+111
+00:07:39,790 --> 00:07:45,540
+to sądzimy, że trafiłyśmy na świetną okazję,
+żeby coś kupić w tak zwanej promocji,
+
+112
+00:07:45,570 --> 00:07:50,440
+ale często uczestniczymy po prostu w
+dalszych spadkach notowań, zwłaszcza
+
+113
+00:07:50,470 --> 00:07:53,180
+jeżeli ten trend spadkowy
+jest bardzo silny.
+
+114
+00:07:53,210 --> 00:07:56,100
+O trendach sobie zresztą
+jeszcze trochę powiemy.
+
+115
+00:07:56,120 --> 00:07:57,600
+Oczywiście też wszelkiego typu
+
+116
+00:07:57,630 --> 00:08:03,320
+przywiązanie się do jakiejś ceny,
+uzależnianie tego, czy zamykamy pozycję od
+
+117
+00:08:03,350 --> 00:08:09,500
+tego, po ile kupiłyśmy dane akcje,
+czy też ETF, to też popularny błąd.
+
+118
+00:08:09,530 --> 00:08:13,020
+Ogólnie najważniejszym psychologicznym
+błędem jest to,
+
+119
+00:08:13,040 --> 00:08:18,580
+że właśnie często nie doceniamy roli
+naszej psychiki, podczas gdy bardzo często
+
+120
+00:08:18,600 --> 00:08:24,500
+to właśnie od niej zależą nasze sukcesy
+lub porażki inwestycyjne.
+
+121
+00:08:24,530 --> 00:08:30,140
+Zresztą do roli emocji i do roli psychiki
+w naszej przygodzie z inwestowaniem
+
+122
+00:08:30,170 --> 00:08:33,200
+jeszcze będę wracać w
+trzeciej części naszego kursu.
+

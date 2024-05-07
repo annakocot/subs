@@ -1,0 +1,558 @@
+1
+00:00:04,680 --> 00:00:09,680
+Fundusze inwestycyjne to tak zwane
+formy zbiorowego inwestowania.
+
+2
+00:00:09,760 --> 00:00:12,560
+Polegają one na tym, że powierzamy nasze
+
+3
+00:00:12,640 --> 00:00:18,200
+środki w zarządzanie specjalistom, czyli
+zarządzającym w danym funduszu
+
+4
+00:00:18,280 --> 00:00:23,920
+i oni wtedy za te środki kupują
+określone w statucie aktywa.
+
+5
+00:00:24,000 --> 00:00:30,320
+To mogą być akcje, obligacje, ETF-y
+czy też inne instrumenty finansowe.
+
+6
+00:00:30,400 --> 00:00:37,040
+Fundusze inwestycyjne, w które możemy
+inwestować, są oferowane przez instytucje
+
+7
+00:00:37,120 --> 00:00:42,400
+zwane Towarzystwami Funduszy
+Inwestycyjnych, czyli w skrócie TFI.
+
+8
+00:00:42,480 --> 00:00:47,360
+Istnieje wiele różnych podziałów funduszy
+inwestycyjnych, ale ja opowiem o
+
+9
+00:00:47,440 --> 00:00:51,560
+podstawowym, najprostszym
+i najważniejszym z nich.
+
+10
+00:00:51,640 --> 00:00:54,360
+Otóż fundusze inwestycyjne dzielą się na
+
+11
+00:00:54,440 --> 00:01:00,280
+fundusze inwestycyjne otwarte i fundusze
+inwestycyjne zamknięte, fundusze
+
+12
+00:01:00,360 --> 00:01:04,680
+inwestycyjne otwarte, czyli
+w skrócie F I O, czyli FIO.
+
+13
+00:01:04,760 --> 00:01:06,880
+Na ogół są bardziej konserwatywne i
+
+14
+00:01:06,960 --> 00:01:11,720
+zdywersyfikowane, mają mniejszy wachlarz
+możliwych inwestycji niż fundusze
+
+15
+00:01:11,800 --> 00:01:16,680
+inwestycyjne zamknięte
+i można wejść w taką inwestycję albo 
+
+16
+00:01:16,760 --> 00:01:19,880
+z niej wyjść, czyli kupić
+albo sprzedać jednostki
+
+17
+00:01:19,960 --> 00:01:22,320
+praktycznie w każdej chwili w fundusze
+
+18
+00:01:22,400 --> 00:01:28,480
+inwestycyjne otwarte możemy inwestować
+kupując jednostkę uczestnictwa.
+
+19
+00:01:28,560 --> 00:01:32,840
+W przypadku tego typu funduszy
+jest ona relatywnie tania.
+
+20
+00:01:32,920 --> 00:01:35,960
+Warto pamiętać, że jednostka uczestnictwa
+
+21
+00:01:36,040 --> 00:01:42,680
+nie jest papierem wartościowym i nie można
+jej odsprzedać, ale jest dziedziczona.
+
+22
+00:01:42,760 --> 00:01:45,560
+Z kolei fundusze inwestycyjne zamknięte
+
+23
+00:01:45,640 --> 00:01:49,040
+mają znacznie większe
+możliwości inwestycyjne.
+
+24
+00:01:49,120 --> 00:01:54,360
+Oprócz inwestowania tradycyjnie w akcje
+czy fundusze ETF mogą na przykład
+
+25
+00:01:54,440 --> 00:01:57,400
+inwestować w spółki nie
+notowane na giełdzie.
+
+26
+00:01:57,480 --> 00:02:03,080
+W przypadku FIZ-ów mamy do czynienia
+z wyższym progiem wejścia inwestora.
+
+27
+00:02:03,160 --> 00:02:07,160
+Chodzi tutaj zarówno o próg
+kwotowy, jak i czasowy.
+
+28
+00:02:07,240 --> 00:02:09,720
+Próg kwotowy oznacza, że aby zainwestować
+
+29
+00:02:09,800 --> 00:02:13,800
+w dany FIZ po prostu potrzeba
+nam większej ilości pieniędzy.
+
+30
+00:02:13,880 --> 00:02:20,960
+Natomiast próg czasowy polega na tym, że
+po prostu rzadziej możemy handlować takimi
+
+31
+00:02:21,040 --> 00:02:25,040
+certyfikatami inwestycyjnymi
+konkretnego wpisu.
+
+32
+00:02:25,120 --> 00:02:26,240
+Co to oznacza?
+
+33
+00:02:26,320 --> 00:02:31,800
+Fundusze inwestycyjne zamknięte na ogół
+rzadziej robią wyceny i mają mniejszą
+
+34
+00:02:31,880 --> 00:02:36,160
+elastyczność związaną z kupnem 
+i sprzedażą certyfikatów inwestycyjnych.
+
+35
+00:02:36,240 --> 00:02:39,320
+W praktyce to oznacza, że możemy kupić
+
+36
+00:02:39,400 --> 00:02:44,360
+albo sprzedać dane certyfikaty
+tylko raz na jakiś czas.
+
+37
+00:02:44,440 --> 00:02:46,240
+Zauważ, że wspomniałam tutaj o
+
+38
+00:02:46,320 --> 00:02:51,040
+certyfikatach inwestycyjnych,
+a nie jednostkach uczestnictwa.
+
+39
+00:02:51,120 --> 00:02:55,320
+O ile jednostki uczestnictwa, które były
+dostępne w przypadku funduszy
+
+40
+00:02:55,400 --> 00:03:00,160
+inwestycyjnych otwartych nie były
+papierami wartościowymi, to certyfikaty
+
+41
+00:03:00,240 --> 00:03:04,040
+inwestycyjne w przypadku
+FIZ-ów już nimi są.
+
+42
+00:03:04,120 --> 00:03:06,280
+Jakie są więc największe plusy i minusy
+
+43
+00:03:06,360 --> 00:03:10,080
+inwestowania w ETF-y,
+czy też ogólnie inwestowania 
+
+44
+00:03:10,160 --> 00:03:15,520
+w jakiekolwiek instrumenty finansowe
+za pomocą funduszy inwestycyjnych?
+
+45
+00:03:15,600 --> 00:03:18,160
+Największym plusem jest oczywiście to, 
+
+46
+00:03:18,240 --> 00:03:21,440
+że powierzamy nasze środki 
+w zarządzanie specjalistom.
+
+47
+00:03:21,520 --> 00:03:24,680
+Aby być zarządzającym w
+funduszu inwestycyjnym,
+
+48
+00:03:24,760 --> 00:03:27,720
+trzeba mieć zdane odpowiednie certyfikaty.
+
+49
+00:03:27,800 --> 00:03:31,520
+To też oznacza dla nas po
+prostu oszczędność czasu.
+
+50
+00:03:31,600 --> 00:03:34,120
+W przypadku inwestowania za pośrednictwem
+
+51
+00:03:34,200 --> 00:03:39,960
+funduszy inwestycyjnych mamy także z góry
+określony benchmark, czyli wiemy do mniej
+
+52
+00:03:40,040 --> 00:03:44,240
+więcej, jakiej stopy zwrotu
+aspiruje dany fundusz.
+
+53
+00:03:44,320 --> 00:03:46,400
+Przy funduszach inwestycyjnych mamy także
+
+54
+00:03:46,480 --> 00:03:51,880
+duże zróżnicowanie inwestycji, czyli
+całkiem dobrą dywersyfikację, dlatego 
+
+55
+00:03:51,960 --> 00:03:57,320
+że te fundusze, które są oparte o rynek
+akcji, zazwyczaj inwestują bardzo szeroko
+
+56
+00:03:57,400 --> 00:04:01,680
+w całe spektrum różnego
+typu akcji albo ETF-ów.
+
+57
+00:04:01,760 --> 00:04:06,440
+No i w końcu warto też jako plusy wymienić
+fakt, że gdy inwestujemy w fundusze
+
+58
+00:04:06,520 --> 00:04:11,000
+inwestycyjne otwarte, to możemy to
+robić także niewielkimi kwotami.
+
+59
+00:04:11,080 --> 00:04:13,680
+Przejdźmy jednak do minusów, 
+
+60
+00:04:13,760 --> 00:04:17,600
+ponieważ niestety wad takiego rozwiązania, 
+czyli wad inwestowania
+
+61
+00:04:17,680 --> 00:04:22,760
+w akcje za pomocą funduszy inwestycyjnych
+jest również całkiem sporo.
+
+62
+00:04:22,840 --> 00:04:26,040
+Podstawową z nich są wysokie koszty.
+
+63
+00:04:26,120 --> 00:04:31,760
+Zazwyczaj fundusze inwestycyjne pobierają
+konkretną opłatę za zarządzanie,
+
+64
+00:04:31,840 --> 00:04:36,360
+a czasem również opłatę za
+wejście i wyjście z inwestycji.
+
+65
+00:04:36,440 --> 00:04:41,600
+Nierzadko opłaty te bywają
+wysokie, znacznie wyższe niż np.
+
+66
+00:04:41,680 --> 00:04:47,240
+prowizje czy też poziom rocznych
+opłat, które dotyczą funduszy ETF.
+
+67
+00:04:47,320 --> 00:04:52,040
+W rezultacie pod względem kosztowym
+inwestowanie za pomocą funduszy
+
+68
+00:04:52,120 --> 00:04:55,560
+inwestycyjnych nie jest
+optymalnym rozwiązaniem.
+
+69
+00:04:55,640 --> 00:05:03,120
+Drugim, nie mniej ważnym minusem jest mała
+skuteczność większości zarządzających.
+
+70
+00:05:03,200 --> 00:05:04,560
+Wielu zarządzających
+
+71
+00:05:04,640 --> 00:05:11,680
+niestety ma krótkoterminowe spojrzenie
+i bardzo liczy się dla nich bieżący wynik,
+
+72
+00:05:11,760 --> 00:05:17,360
+czyli po prostu to, jak wypadają oni na
+tle innych, porównywalnych funduszy,
+
+73
+00:05:17,440 --> 00:05:23,120
+niż to, żeby inwestycja była optymalna
+w długoterminowej perspektywie.
+
+74
+00:05:23,200 --> 00:05:28,880
+W rezultacie to prowadzi do wielu
+nieefektywności i często jest tak, 
+
+75
+00:05:28,960 --> 00:05:33,600
+że fundusze inwestycyjne nie są w stanie
+istotnie pobić swojego benchmarku,
+
+76
+00:05:33,680 --> 00:05:40,040
+czyli po prostu nie są w stanie wypracować
+dużo większych stóp zwrotu niż te, 
+
+77
+00:05:40,120 --> 00:05:45,560
+które moglibyśmy zyskać, gdybyśmy inwestowali
+po prostu w zwykły fundusz ETF.
+
+78
+00:05:45,640 --> 00:05:50,000
+Minusem jest także to, że mamy do
+czynienia z niewielką przejrzystością
+
+79
+00:05:50,080 --> 00:05:54,120
+tego, w co dokładnie
+lokowane są nasze pieniądze.
+
+80
+00:05:54,200 --> 00:05:57,720
+Oczywiście każdy fundusz inwestycyjny ma
+
+81
+00:05:57,800 --> 00:06:03,000
+określony statut, w którym konkretnie
+pisze, w co może lokować pieniądze
+
+82
+00:06:03,080 --> 00:06:10,040
+i oczywiście każdy fundusz inwestycyjny
+podlega bardzo ścisłe nadzorowi Komisji
+
+83
+00:06:10,120 --> 00:06:14,600
+Nadzoru Finansowego,
+ale nie zmienia to faktu, że bardzo często
+
+84
+00:06:14,680 --> 00:06:20,040
+ten zakres możliwych inwestycji jest
+całkiem spory i w rezultacie nie wiemy, 
+
+85
+00:06:20,120 --> 00:06:24,600
+w co konkretnie w danym momencie
+zainwestowane są nasze pieniądze.
+
+86
+00:06:24,680 --> 00:06:28,800
+No i na koniec warto powiedzieć
+o jeszcze jednym minusie.
+
+87
+00:06:28,880 --> 00:06:34,400
+O ile w przypadku funduszy inwestycyjnych
+otwartych ta minimalna kwota inwestycji
+
+88
+00:06:34,480 --> 00:06:39,000
+mogła być niewielka,
+to prawda jest taka, że dużo ciekawsze
+
+89
+00:06:39,080 --> 00:06:43,200
+jako forma inwestycji są
+fundusze inwestycyjne zamknięte.
+
+90
+00:06:43,280 --> 00:06:48,960
+To właśnie tam najczęściej spotyka się
+najbardziej efektywnych zarządzających.
+
+91
+00:06:49,040 --> 00:06:54,720
+Niestety próg wejścia w te najciekawsze
+fundusze inwestycyjne zamknięte na ogół
+
+92
+00:06:54,800 --> 00:06:59,360
+jest bardzo wysoki,
+więc to od razu ogranicza możliwości
+
+93
+00:06:59,440 --> 00:07:03,040
+inwestycyjne tych osób, które
+posiadają mniejszy kapitał.
+
+94
+00:07:03,120 --> 00:07:08,520
+Jak widzisz, inwestowanie w akcje czy też
+ETF-y akcyjne za pośrednictwem funduszy
+
+95
+00:07:08,600 --> 00:07:13,680
+inwestycyjnych ma równie długą
+listę plusów, jak i listę minusów.
+
+96
+00:07:13,760 --> 00:07:16,360
+W rezultacie tak naprawdę do Ciebie należy
+
+97
+00:07:16,440 --> 00:07:21,320
+decyzja, czy taka forma inwestowania
+w ogóle Tobie odpowiada.
+
+98
+00:07:21,400 --> 00:07:25,800
+Na końcu chciałabym jednak uczulić
+Cię na jeszcze jedną rzecz.
+
+99
+00:07:25,880 --> 00:07:29,000
+Bardzo często mamy do czynienia na rynku 
+
+100
+00:07:29,080 --> 00:07:33,680
+z funduszami inwestycyjnymi
+połączonymi z ubezpieczeniem.
+
+101
+00:07:33,760 --> 00:07:36,040
+Czy jest to ciekawe rozwiązanie?
+
+102
+00:07:36,120 --> 00:07:38,720
+O ile takie produkty wydają się
+
+103
+00:07:38,800 --> 00:07:43,320
+wszechstronne, to w praktyce
+mają one bardzo wiele minusów.
+
+104
+00:07:43,400 --> 00:07:45,480
+Największymi minusami tej formy
+
+105
+00:07:45,560 --> 00:07:51,680
+inwestowania są wysoki poziom
+opłat oraz niewielka elastyczność.
+
+106
+00:07:51,760 --> 00:07:54,880
+Zazwyczaj w przypadku tego typu produktów
+
+107
+00:07:54,960 --> 00:08:00,560
+mamy do czynienia, po pierwsze, z wysokimi
+kosztami samej inwestycji w skali roku,
+
+108
+00:08:00,640 --> 00:08:03,120
+na to warto zwrócić uwagę,
+
+109
+00:08:03,200 --> 00:08:09,200
+jak również mamy de facto zamrożone
+pieniądze na wiele lat, bo często
+
+110
+00:08:09,280 --> 00:08:15,000
+podpisujemy umowę inwestycyjno-
+ubezpieczeniową na naprawdę długie lata.
+
+111
+00:08:15,080 --> 00:08:17,760
+W praktyce więc fundusze inwestycyjne
+
+112
+00:08:17,840 --> 00:08:23,840
+połączone z ubezpieczeniem bardzo rzadko
+sprawdzają się jako dobre rozwiązanie.
+
+113
+00:08:23,920 --> 00:08:29,720
+Dużo tańszym, wygodniejszym i elastycznie
+sposobem na to, żeby zadbać o swoje
+
+114
+00:08:29,800 --> 00:08:35,080
+pieniądze, jednocześnie dbając o
+ubezpieczenie, jest to, żeby każdy z tych
+
+115
+00:08:35,160 --> 00:08:40,400
+produktów kupić osobno,
+czyli osobno zainwestować np.
+
+116
+00:08:40,480 --> 00:08:45,920
+fundusz ETF oparty o szeroki rynek akcji
+albo rynek akcji i obligacji
+
+117
+00:08:46,000 --> 00:08:50,280
+i osobno wykupić optymalne
+dla siebie ubezpieczenie.
+

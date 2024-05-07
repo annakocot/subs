@@ -1,0 +1,566 @@
+1
+00:00:03,400 --> 00:00:08,380
+Jednym z kluczowych pojęć dotyczących
+inwestowania jest dywersyfikacja,
+
+2
+00:00:08,410 --> 00:00:14,340
+o której już wspominałam Ci w kontekście
+minimalizowania ryzyka inwestycyjnego.
+
+3
+00:00:14,370 --> 00:00:16,120
+Teraz opowiem dokładnie,
+
+4
+00:00:16,150 --> 00:00:20,660
+czym dywersyfikacja jest i jak ją
+stosować, żeby była ona skuteczna.
+
+5
+00:00:20,690 --> 00:00:24,040
+Według oficjalnej definicji dywersyfikacja
+
+6
+00:00:24,070 --> 00:00:29,480
+to: strategia inwestycyjna polegająca
+na rozproszeniu i ograniczeniu ryzyka
+
+7
+00:00:29,510 --> 00:00:34,820
+inwestycji, a tym samym zminimalizowaniu
+ryzyka potencjalnych strat,
+
+8
+00:00:34,850 --> 00:00:40,380
+poprzez inwestowanie w różnego
+rodzaju instrumenty finansowe.
+
+9
+00:00:40,410 --> 00:00:46,080
+Taka prostsza definicja mówi,
+że dywersyfikacja to po prostu lokowanie
+
+10
+00:00:46,110 --> 00:00:51,980
+swoich pieniędzy w różnego typu klasy
+aktywów po to, żeby ograniczyć ryzyko.
+
+11
+00:00:52,010 --> 00:00:56,080
+A jeszcze prostsza, wręcz kolokwialna
+definicja mówi po prostu,
+
+12
+00:00:56,110 --> 00:01:00,020
+że dywersyfikacja to niewkładanie
+wszystkich jajek do jednego koszyka.
+
+13
+00:01:00,050 --> 00:01:05,680
+Właśnie po to wkładamy swoje pieniądze
+w różne miejsca, żeby nie być uzależnionym
+
+14
+00:01:05,710 --> 00:01:10,380
+tylko i wyłącznie od tego, jak poradzi
+sobie jeden typ naszych inwestycji.
+
+15
+00:01:10,410 --> 00:01:14,820
+Do dywersyfikacji można podejść
+na wiele różnych sposobów.
+
+16
+00:01:14,850 --> 00:01:19,920
+Na przykład można inwestować
+w różne klasy aktywów, czyli np.
+
+17
+00:01:19,950 --> 00:01:24,700
+łączyć ze sobą akcje,
+obligacje, metale szlachetne.
+
+18
+00:01:24,730 --> 00:01:28,140
+Dodać do tego nieruchomości czy
+jakieś inwestycje alternatywne.
+
+19
+00:01:28,170 --> 00:01:32,760
+Można także stosować dywersyfikację,
+jeżeli inwestujemy w różnego rodzaju
+
+20
+00:01:32,790 --> 00:01:37,460
+aktywa, ale w ramach jednej
+klasy aktywów.
+
+21
+00:01:37,490 --> 00:01:42,920
+Czyli np. nie kupujemy akcji tylko i wyłącznie
+jednej spółki, tylko kupujemy akcje pięciu
+
+22
+00:01:42,950 --> 00:01:47,100
+różnych spółek. Zamiast kupować akcje
+pojedynczych spółek,
+
+23
+00:01:47,130 --> 00:01:53,260
+kupujemy na przykład fundusz ETF oparty
+o akcje na szeroki globalny rynek.
+
+24
+00:01:53,290 --> 00:01:57,930
+Dywersyfikacja może także polegać
+na zróżnicowaniu geograficznym i walutowym.
+
+25
+00:01:57,960 --> 00:02:02,200
+Można inwestować w akcje
+z całego świata
+
+26
+00:02:02,230 --> 00:02:05,180
+albo np. kupować nieruchomości
+w różnych krajach.
+
+27
+00:02:05,210 --> 00:02:09,500
+No i w końcu do dywersyfikacji też można
+podejść pod kątem czasu,
+
+28
+00:02:09,530 --> 00:02:14,700
+czyli może ona polegać na zróżnicowaniu
+czasowym naszych inwestycji.
+
+29
+00:02:14,730 --> 00:02:16,840
+Możemy wybierać zarówno te inwestycje,
+
+30
+00:02:16,870 --> 00:02:20,920
+które mają dłuższy
+horyzont czasowy,
+
+31
+00:02:20,950 --> 00:02:23,840
+czyli np. stosować długoterminowe inwestycje w akcje
+
+32
+00:02:23,870 --> 00:02:29,820
+czy w obligacje, a jednocześnie połączyć
+to z inwestowaniem krótkoterminowym.
+
+33
+00:02:29,850 --> 00:02:35,540
+I tutaj warto przytoczyć jeden bardzo
+popularny mit dotyczący dywersyfikacji.
+
+34
+00:02:35,570 --> 00:02:38,580
+Ten mit mówi, że im więcej rzeczy kupimy,
+
+35
+00:02:38,610 --> 00:02:42,760
+czyli im bardziej zróżnicujemy nasze
+inwestycje, tym większa będzie nasza
+
+36
+00:02:42,790 --> 00:02:47,380
+dywersyfikacja i tym samym tym
+mniejsze będzie ryzyko inwestycji.
+
+37
+00:02:47,410 --> 00:02:50,640
+Fakty są takie, że w dywersyfikacji
+
+38
+00:02:50,670 --> 00:02:55,680
+nie chodzi o kupowanie jak największej liczby
+aktywów, lecz o to, żeby te zakupione
+
+39
+00:02:55,710 --> 00:02:59,660
+aktywa dobrać w świadomy
+i umiejętny sposób.
+
+40
+00:02:59,690 --> 00:03:03,610
+Jak więc ocenić, czy dobrze
+dywersyfikujemy swoje inwestycje?
+
+41
+00:03:03,640 --> 00:03:05,840
+Jak dokonać tej dywersyfikacji,
+
+42
+00:03:05,870 --> 00:03:07,900
+ale właśnie mądrze i świadomie.
+
+43
+00:03:07,930 --> 00:03:14,340
+Kluczem do dobrej dywersyfikacji
+jest jedno ważne słowo. Korelacja.
+
+44
+00:03:14,370 --> 00:03:19,340
+Korelacja to słowo, które być może znacie
+już z lekcji statystyki na studiach.
+
+45
+00:03:19,370 --> 00:03:24,580
+Korelacja to nic innego jak powiązanie
+między sobą dwóch różnych czynników.
+
+46
+00:03:24,610 --> 00:03:30,780
+W świecie inwestycji chodzi o powiązanie
+różnych aktywów między sobą, czyli
+
+47
+00:03:30,810 --> 00:03:35,300
+powiązanie ruchów cenowych
+aktywów między sobą.
+
+48
+00:03:35,330 --> 00:03:37,940
+Najczęściej stosowaną miarą korelacji,
+
+49
+00:03:37,970 --> 00:03:44,740
+także w świecie inwestycyjnym jest
+współczynnik korelacji liniowej Pearsona.
+
+50
+00:03:44,770 --> 00:03:47,660
+Ale my na tej lekcji
+nie będziemy go liczyć.
+
+51
+00:03:47,690 --> 00:03:52,940
+Tak naprawdę, nawet patrząc na to,
+jak zachowywały się wykresy
+
+52
+00:03:52,970 --> 00:03:58,480
+inwestycji, w które chcemy ulokować swoje
+pieniądze w ostatnich latach, jesteście
+
+53
+00:03:58,510 --> 00:04:04,060
+w stanie już dość intuicyjnie ocenić,
+czy są one między sobą powiązane
+
+54
+00:04:04,090 --> 00:04:09,940
+i czy zachowują się w ten sam albo różny
+sposób w określonych momentach rynkowych.
+
+55
+00:04:09,970 --> 00:04:12,740
+I tutaj podam Ci kilka przykładów,
+
+56
+00:04:12,770 --> 00:04:15,980
+które dobrze obrazują jak
+korelacja działa w praktyce.
+
+57
+00:04:16,010 --> 00:04:21,400
+Powiedzmy, że chcemy zainwestować
+w dwie różne klasy aktywów
+
+58
+00:04:21,420 --> 00:04:27,140
+i np. chcemy wybrać inwestowanie w akcje
+i dodać do tego jakiś surowiec.
+
+59
+00:04:27,160 --> 00:04:30,980
+Rozważamy dwa surowce:
+złoto i ropę naftową.
+
+60
+00:04:31,010 --> 00:04:35,440
+Teoretycznie, gdy dobieramy sobie drugi
+instrument do naszego portfela
+
+61
+00:04:35,470 --> 00:04:40,040
+inwestycyjnego, czyli do akcji, dobieramy
+sobie jakiś surowiec, bardziej
+
+62
+00:04:40,070 --> 00:04:43,420
+dywersyfikujemy nasz portfel,
+bardziej go różnicujemy.
+
+63
+00:04:43,450 --> 00:04:46,000
+Czyli teoretycznie nie wkładamy tych
+
+64
+00:04:46,030 --> 00:04:49,020
+przysłowiowych wszystkich
+jajek do jednego koszyka.
+
+65
+00:04:49,040 --> 00:04:51,120
+Ale w praktyce nie zawsze
+
+66
+00:04:51,150 --> 00:04:55,820
+dobierając coś dodatkowego do naszych
+inwestycji, zmniejszamy ryzyko.
+
+67
+00:04:55,840 --> 00:04:58,040
+Spójrzmy na przykład,
+jak zachowywały się ceny akcji
+
+68
+00:04:58,070 --> 00:05:02,900
+i ceny dwóch
+wspomnianych surowców, gdy np.
+
+69
+00:05:02,920 --> 00:05:06,140
+wybuchła ogólnoświatowa pandemia.
+
+70
+00:05:06,160 --> 00:05:08,860
+Ceny akcji w tym momencie spadły.
+
+71
+00:05:08,890 --> 00:05:13,960
+Tuż po tym, jak zaczął się lock down,
+notowania bardzo wielu akcji różnych
+
+72
+00:05:13,980 --> 00:05:18,540
+spółek z całego świata
+spadały w tym samym czasie.
+
+73
+00:05:18,570 --> 00:05:21,620
+Równie mocno spadały
+notowania ropy naftowej.
+
+74
+00:05:21,650 --> 00:05:24,320
+Czyli tak naprawdę, gdybyśmy miały w swoim
+
+75
+00:05:24,340 --> 00:05:30,140
+portfelu akcje i ropę naftową,
+to w najbardziej newralgicznym momencie
+
+76
+00:05:30,170 --> 00:05:33,700
+okazałoby się, że wcale
+nie zminimalizowałyśmy ryzyka.
+
+77
+00:05:33,730 --> 00:05:37,740
+Ale zobacz, co wtedy
+wydarzyło się na rynku złota.
+
+78
+00:05:37,770 --> 00:05:40,340
+Tuż po ogłoszeniu globalnych lock downów
+
+79
+00:05:40,360 --> 00:05:43,340
+notowania złota wystrzeliły w górę!
+
+80
+00:05:43,360 --> 00:05:50,100
+Więc posiadając akcje w swoim portfelu i
+dodatek złota również do tego portfela,
+
+81
+00:05:50,130 --> 00:05:53,460
+my tak naprawdę zminimalizowałyśmy
+swoje ryzyko.
+
+82
+00:05:53,480 --> 00:05:59,740
+A więc zobacz, że w zależności od tego,
+co konkretnie dobierzesz do swojego portfela,
+
+83
+00:05:59,770 --> 00:06:05,780
+możesz w okresach kryzysów czy krachów
+czuć się albo bezpieczniej,
+
+84
+00:06:05,800 --> 00:06:10,940
+albo tak naprawdę niewiele zmienić,
+dodając nowe rzeczy do swojego portfela.
+
+85
+00:06:10,970 --> 00:06:13,340
+Weźmy pod uwagę inne przykłady.
+
+86
+00:06:13,360 --> 00:06:19,680
+Powiedzmy, że inwestujesz w konkretną
+klasę aktywów, ale dobierasz sobie
+
+87
+00:06:19,710 --> 00:06:22,760
+np. różne aktywa wewnątrz tej klasy.
+
+88
+00:06:22,790 --> 00:06:24,940
+Niekoniecznie wtedy też stosujesz dywersyfikację.
+
+89
+00:06:24,970 --> 00:06:27,040
+Gdy wybierasz
+
+90
+00:06:27,070 --> 00:06:30,300
+np. akcje tylko spółek z polskiej giełdy,
+
+91
+00:06:30,330 --> 00:06:34,860
+to zawsze jesteś w pewnym stopniu narażona
+na to, co się dzieje w naszym kraju,
+
+92
+00:06:34,890 --> 00:06:39,660
+a więc nie dywersyfikujesz
+swojego portfela geograficznie.
+
+93
+00:06:39,680 --> 00:06:41,640
+Dlatego właśnie my na tym kursie będziemy
+
+94
+00:06:41,670 --> 00:06:46,240
+się uczyć tego, jak inwestować
+międzynarodowo i nasz portfel mieć
+
+95
+00:06:46,270 --> 00:06:50,140
+zabezpieczony właśnie,
+zdywersyfikowany geograficznie.
+
+96
+00:06:50,170 --> 00:06:51,520
+Podobnie jest jak na przykład
+
+97
+00:06:51,540 --> 00:06:54,420
+inwestujesz w kilka różnych kryptowalut.
+
+98
+00:06:54,450 --> 00:06:59,000
+Jeżeli obserwujesz ten rynek od dłuższego
+czasu, to prawdopodobnie widzisz,
+
+99
+00:06:59,030 --> 00:07:04,680
+że bardzo często, gdy rosną ceny
+najpopularniejszych kryptowalut, to często
+
+100
+00:07:04,710 --> 00:07:08,620
+te mniej popularne
+również podążają cenowo za nimi.
+
+101
+00:07:08,650 --> 00:07:13,740
+A więc dobierając sobie dodatkowe
+kryptowaluty do swojego portfela
+
+102
+00:07:13,770 --> 00:07:17,500
+tak naprawdę nie zwiększasz aż
+tak bardzo swojego bezpieczeństwa.
+
+103
+00:07:17,530 --> 00:07:20,200
+Podobnie nie dywersyfikujesz
+swojego portfela,
+
+104
+00:07:20,230 --> 00:07:21,000
+jeżeli na przykład
+
+105
+00:07:21,030 --> 00:07:24,420
+kupujesz nieruchomości, ale tylko w jednym
+kraju.
+
+106
+00:07:24,450 --> 00:07:30,480
+Gdy masz powiedzmy kilka nieruchomości
+tylko w jednym polskim mieście,
+
+107
+00:07:30,510 --> 00:07:36,400
+albo właśnie tylko w jednym kraju,
+to wtedy wciąż jesteś narażona na to,
+
+108
+00:07:36,420 --> 00:07:40,940
+co się dzieje pod kątem
+geopolitycznym na danym terenie.
+
+109
+00:07:40,970 --> 00:07:44,360
+A więc podsumowując: zawsze jeżeli chcesz
+
+110
+00:07:44,390 --> 00:07:50,460
+różnicować swoje inwestycje, zobacz jak
+te inwestycje zachowywały się w przeszłości.
+
+111
+00:07:50,480 --> 00:07:53,600
+Oczywiście możesz to sobie policzyć,
+
+112
+00:07:53,630 --> 00:07:58,140
+ale nawet jeżeli zerkniesz na to,
+jak zachowywały się różne inwestycje
+
+113
+00:07:58,170 --> 00:08:03,360
+w konkretnych momentach, zazwyczaj tych
+przełomowych momentach w historii, to już
+
+114
+00:08:03,390 --> 00:08:09,340
+będziesz miała dużą wiedzę na temat tego,
+jak zachowują się konkretne instrumenty
+
+115
+00:08:09,360 --> 00:08:13,060
+i czy faktycznie one
+dywersyfikują Twój portfel.
+
+116
+00:08:13,090 --> 00:08:15,040
+Zwracaj szczególną uwagę na to,
+
+117
+00:08:15,070 --> 00:08:19,860
+co się działo w momentach krachów i kryzysów,
+dlatego, że to przecież właśnie wtedy
+
+118
+00:08:19,890 --> 00:08:23,100
+chcesz mieć największe
+bezpieczeństwo swoich inwestycji.
+
+119
+00:08:23,130 --> 00:08:29,120
+To właśnie wtedy chcesz wiedzieć, że Twoje
+pieniądze są jak najbardziej bezpieczne.
+

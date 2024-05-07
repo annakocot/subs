@@ -1,0 +1,733 @@
+1
+00:00:05,040 --> 00:00:08,840
+Akcje są tak zwanym
+instrumentem udziałowym.
+
+2
+00:00:08,920 --> 00:00:11,960
+Oznacza to, że kupując akcje kupujemy 
+
+3
+00:00:12,040 --> 00:00:16,040
+de facto udziały w jakimś przedsiębiorstwie,
+w jakiejś firmie
+
+4
+00:00:16,120 --> 00:00:20,880
+i stajemy się jego współwłaścicielami
+czy też współwłaścicielkami.
+
+5
+00:00:20,960 --> 00:00:22,480
+Oczywiście nie wszystkie spółki
+
+6
+00:00:22,560 --> 00:00:29,200
+udostępniają swoje akcje każdej osobie,
+która ma środki, żeby te akcje kupić.
+
+7
+00:00:29,280 --> 00:00:34,680
+Spółki, które to robią, nazywamy spółkami
+notowanymi publicznie, czyli właśnie
+
+8
+00:00:34,760 --> 00:00:40,160
+takimi spółkami, które są notowane na
+giełdzie i których akcje może kupić każda
+
+9
+00:00:40,240 --> 00:00:45,920
+osoba, która po prostu otworzyła
+rachunek maklerski i przelała tam środki.
+
+10
+00:00:46,000 --> 00:00:51,240
+Akcje to prosty instrument, który jest
+zrozumiały praktycznie dla każdego
+
+11
+00:00:51,320 --> 00:00:55,560
+inwestora, inwestorki,
+nawet tych początkujących.
+
+12
+00:00:55,640 --> 00:00:59,280
+Dodatkowo akcje są praktycznie bazą
+
+13
+00:00:59,360 --> 00:01:03,160
+budowania każdego długoterminowego
+portfela inwestycyjnego.
+
+14
+00:01:03,240 --> 00:01:07,680
+Wynika to z faktu, że przecież rozwój
+globalnych spółek, globalnych
+
+15
+00:01:07,760 --> 00:01:12,440
+przedsiębiorstw sprawia, że mamy do
+czynienia ze wzrostem gospodarczym,
+
+16
+00:01:12,520 --> 00:01:17,720
+a więc to właśnie rozwój różnych firm,
+różnych przedsiębiorstw generuje wzrost
+
+17
+00:01:17,800 --> 00:01:24,240
+gospodarczy, a my kupując akcje, stajemy
+się częścią tego wzrostu gospodarczego
+
+18
+00:01:24,320 --> 00:01:30,320
+i możemy również wykorzystać jego potencjał
+ze względu na wahania koniunktury.
+
+19
+00:01:30,400 --> 00:01:36,120
+Notowania akcji potrafią się wahać
+dużo bardziej niż ceny obligacji.
+
+20
+00:01:36,200 --> 00:01:38,680
+W przypadku obligacji bardzo często mamy
+
+21
+00:01:38,760 --> 00:01:43,320
+do czynienia z powolnym, 
+ale systematycznym wzrostem notowań.
+
+22
+00:01:43,400 --> 00:01:46,720
+Dla akcji sytuacja wygląda nieco inaczej.
+
+23
+00:01:46,800 --> 00:01:52,560
+O ile wzrost notowań potrafi być duży,
+to zazwyczaj wygląda on skokowo,
+
+24
+00:01:52,640 --> 00:01:57,800
+czyli mamy do czynienia z okresami lepszej
+i gorszej koniunktury, z okresami
+
+25
+00:01:57,880 --> 00:02:02,480
+dynamicznych wzrostów i równie
+czasem dotkliwych spadków.
+
+26
+00:02:02,560 --> 00:02:05,440
+Warto jednak pamiętać o tym, że właśnie ze
+
+27
+00:02:05,520 --> 00:02:10,840
+względu na nieco większą zmienność i nieco
+większe ryzyko powiązane z inwestowaniem 
+
+28
+00:02:10,920 --> 00:02:16,640
+w akcje w porównaniu z inwestowaniem 
+w obligacje, to właśnie inwestycje w akcje
+
+29
+00:02:16,720 --> 00:02:23,680
+długoterminowo potrafią wypracować wyższe
+stopy zwrotu niż inwestycje w obligacje.
+
+30
+00:02:23,760 --> 00:02:27,160
+Tak jak wspomniałam, akcje powinny być, 
+
+31
+00:02:27,240 --> 00:02:33,960
+i najczęściej są, podstawą długoterminowych
+portfeli wielu inwestorów i inwestorek.
+
+32
+00:02:34,040 --> 00:02:37,000
+Jak w takim razie zainwestować w akcje,
+
+33
+00:02:37,080 --> 00:02:40,600
+gdy chcemy zbudować nasz
+długoterminowy portfel?
+
+34
+00:02:40,680 --> 00:02:42,920
+Można to zrobić na dwa sposoby.
+
+35
+00:02:43,000 --> 00:02:48,000
+Po pierwsze możemy kupować akcje
+bezpośrednio, czyli po prostu na giełdzie
+
+36
+00:02:48,080 --> 00:02:52,080
+kupować akcje konkretnych,
+wybranych przez nas spółek.
+
+37
+00:02:52,160 --> 00:02:56,120
+Po drugie możemy inwestować w fundusze ETF
+
+38
+00:02:56,200 --> 00:03:00,240
+oparte o akcje
+i możemy ich jednostki kupować albo
+
+39
+00:03:00,320 --> 00:03:05,400
+samodzielnie, albo poprzez fundusze
+inwestycyjne, albo poprzez robodoradców.
+
+40
+00:03:05,480 --> 00:03:10,680
+Każdy z tych sposobów ma swoje plusy i
+minusy, dlatego teraz opowiem Wam o tym,
+
+41
+00:03:10,760 --> 00:03:15,760
+jak w praktyce wygląda inwestowanie
+w akcje w długoterminowym portfelu.
+
+42
+00:03:15,840 --> 00:03:19,960
+Zacznijmy od bezpośredniego
+kupowania akcji spółek.
+
+43
+00:03:20,040 --> 00:03:25,760
+Ten sposób na inwestowanie jest bardzo
+intuicyjny i prosty, ale ma pewne wady.
+
+44
+00:03:25,840 --> 00:03:29,040
+Największą z nich jest konieczność wyboru
+
+45
+00:03:29,120 --> 00:03:33,640
+najlepszych i najbardziej
+perspektywicznych akcji spośród setek
+
+46
+00:03:33,720 --> 00:03:40,240
+akcji w Polsce, czy też dziesiątek, 
+a wręcz setek tysięcy akcji za granicą.
+
+47
+00:03:40,320 --> 00:03:46,320
+Tak duży wybór przyprawia o zawrót głowy,
+zwłaszcza, że wybór konkretnych akcji do
+
+48
+00:03:46,400 --> 00:03:51,360
+naszego portfela jest trudny
+także pod kątem merytorycznym.
+
+49
+00:03:51,440 --> 00:03:54,400
+Bo przecież żeby wybrać odpowiednie akcje,
+
+50
+00:03:54,480 --> 00:04:00,160
+to musimy dokładnie przebadać sytuację
+danej spółki, jej otoczenie
+
+51
+00:04:00,240 --> 00:04:05,680
+makroekonomiczne i wiele innych czynników,
+które składają się na to, czy akcje tej
+
+52
+00:04:05,760 --> 00:04:09,280
+spółki faktycznie będą miały
+perspektywy, żeby rosnąć.
+
+53
+00:04:09,360 --> 00:04:14,440
+To jest zadanie, które jest nie tylko
+pracochłonne, ale też bardzo czasochłonne.
+
+54
+00:04:14,520 --> 00:04:17,920
+Wymaga często wiedzy i doświadczenia.
+
+55
+00:04:18,000 --> 00:04:20,480
+Takich podstaw selekcji spółek będziemy
+
+56
+00:04:20,560 --> 00:04:24,000
+się jeszcze uczyć w module
+o inwestowaniu w wartość.
+
+57
+00:04:24,080 --> 00:04:26,000
+Natomiast większość inwestorów czy
+
+58
+00:04:26,080 --> 00:04:30,720
+inwestorek nie zajmuje się raczej
+bezpośrednim inwestowaniem w akcje,
+
+59
+00:04:30,800 --> 00:04:34,000
+zwłaszcza na początku
+swojej drogi inwestycyjnej.
+
+60
+00:04:34,080 --> 00:04:36,880
+Zamiast tego mają lepszy sposób.
+
+61
+00:04:36,960 --> 00:04:39,920
+W ostatnich latach ogromną popularnością
+
+62
+00:04:40,000 --> 00:04:43,120
+zaczęły cieszyć się
+tak zwane fundusze ETF,
+
+63
+00:04:43,200 --> 00:04:47,040
+przede wszystkim fundusze
+ETF oparte o akcje.
+
+64
+00:04:47,120 --> 00:04:53,480
+Ich działanie polega na tym, że zamiast
+wybierać, selekcjonować konkretne spółki,
+
+65
+00:04:53,560 --> 00:05:00,200
+które mogą, ale nie muszą, poradzić sobie
+najlepiej, wybieramy szeroki koszyk bardzo
+
+66
+00:05:00,280 --> 00:05:03,920
+wielu instrumentów finansowych,
+wielu spółek z konkretnego
+
+67
+00:05:04,000 --> 00:05:07,880
+kraju, regionu czy nawet całego świata.
+
+68
+00:05:07,960 --> 00:05:11,240
+Dzięki temu mamy ogromną dywersyfikację 
+
+69
+00:05:11,320 --> 00:05:14,880
+i nie musimy martwić się
+tym, żeby dobrze wybrać.
+
+70
+00:05:14,960 --> 00:05:20,160
+Przejdźmy więc teraz do tego drugiego
+sposobu na inwestowanie w akcje. Tego,
+
+71
+00:05:20,240 --> 00:05:24,920
+który bardzo dobrze się nada do
+długoterminowego portfela inwestycyjnego.
+
+72
+00:05:25,000 --> 00:05:27,440
+A chodzi o inwestowanie w fundusze ETF
+
+73
+00:05:27,520 --> 00:05:34,240
+oparte o akcje. Fundusz ETF, czyli
+tak zwany Exchange Trade Fund, 
+
+74
+00:05:34,320 --> 00:05:40,920
+to po prostu, w tłumaczeniu z angielskiego,
+fundusz inwestycyjny notowany na giełdzie.
+
+75
+00:05:41,000 --> 00:05:46,520
+Jego działanie polega na tym, że fundusz
+ETF po prostu śledzi jakiś tak zwany
+
+76
+00:05:46,600 --> 00:05:51,160
+instrument bazowy i tym instrumentem
+bazowym może być bardzo wiele rzeczy.
+
+77
+00:05:51,240 --> 00:05:55,360
+To mogą być akcje,
+na przykład jakiś indeks akcyjny, indeks
+
+78
+00:05:55,440 --> 00:06:01,440
+giełdowy, ale to mogą być też waluty,
+surowce czy też inne instrumenty.
+
+79
+00:06:01,520 --> 00:06:06,120
+Nas w tym momencie interesują przede
+wszystkim akcje,
+
+80
+00:06:06,200 --> 00:06:12,360
+i w przypadku akcji fundusze ETF
+faktycznie przydają się najbardziej.
+
+81
+00:06:12,440 --> 00:06:17,080
+Bardzo często śledzą one
+konkretne indeksy giełdowe.
+
+82
+00:06:17,160 --> 00:06:21,200
+Na przykład fundusz ETF oparty o indeks
+
+83
+00:06:21,280 --> 00:06:27,120
+S&P 500, czyli indeks pięciuset
+największych amerykańskich spółek,
+
+84
+00:06:27,200 --> 00:06:32,520
+po prostu śledzi to, co dzieje się z
+wartością tego indeksu na giełdzie
+
+85
+00:06:32,600 --> 00:06:37,160
+i to jest odzwierciedlone
+w jednostce tego funduszu.
+
+86
+00:06:37,240 --> 00:06:44,760
+No właśnie, jednostce, bo ten fundusz ETF,
+który jest takim koszykiem wielu akcji 
+
+87
+00:06:44,840 --> 00:06:50,840
+z danego kraju czy też z całego świata, jest
+dzielony właśnie na jednostki funduszu.
+
+88
+00:06:50,920 --> 00:06:55,400
+I każdą z tych jednostek możemy kupić
+jako inwestorzy czy inwestorki.
+
+89
+00:06:55,480 --> 00:06:58,880
+Fundusze ETF oparte o jakiś indeks akcji
+
+90
+00:06:58,960 --> 00:07:04,760
+mają za zadanie po prostu śledzić ten
+konkretny indeks, czyli rosnąć i spadać 
+
+91
+00:07:04,840 --> 00:07:09,280
+w tym samym tempie i generować
+podobne zyski czy też straty.
+
+92
+00:07:09,360 --> 00:07:12,240
+Dużym plusem jest również to, że jednostki
+
+93
+00:07:12,320 --> 00:07:16,880
+funduszy ETF są notowane na bardzo
+wielu giełdach na całym świecie.
+
+94
+00:07:16,960 --> 00:07:22,160
+W rezultacie są one naprawdę dostępne
+dla szerokiego grona inwestorów.
+
+95
+00:07:22,240 --> 00:07:27,200
+Można je z łatwością kupić i sprzedać,
+gdy jest otwarta sesja giełdowa.
+
+96
+00:07:27,280 --> 00:07:30,760
+Tym samym fundusze ETF różnią się wygodą
+
+97
+00:07:30,840 --> 00:07:34,560
+inwestowania od tradycyjnych
+funduszy inwestycyjnych.
+
+98
+00:07:34,640 --> 00:07:39,640
+Po prostu dużo łatwiej fundusze
+ETF kupić oraz sprzedać.
+
+99
+00:07:39,720 --> 00:07:43,280
+Co ważne, prowizje związane z kupowaniem 
+
+100
+00:07:43,360 --> 00:07:48,800
+i sprzedawaniem funduszy ETF są identyczne
+jak prowizje dotyczące rynku akcji,
+
+101
+00:07:48,880 --> 00:07:55,880
+więc nie mamy tutaj tak czysto finansowo
+żadnych większych czy mniejszych prowizji
+
+102
+00:07:55,960 --> 00:07:59,920
+wynikających z kupna czy sprzedaży
+właśnie tego instrumentu.
+
+103
+00:08:00,000 --> 00:08:01,840
+Ze względu na wspomniane przeze mnie
+
+104
+00:08:01,920 --> 00:08:05,320
+zalety inwestowania w
+jednostki funduszy ETF,
+
+105
+00:08:05,400 --> 00:08:10,000
+tego typu instrumenty zaczęły bardzo
+szybko zyskiwać na popularności.
+
+106
+00:08:10,080 --> 00:08:12,640
+Fundusze ETF to relatywnie młody rynek.
+
+107
+00:08:12,720 --> 00:08:15,080
+Pierwszy fundusz ETF powstał dopiero 
+
+108
+00:08:15,160 --> 00:08:22,800
+w 1993 roku i był to ETF oparty
+właśnie o amerykański indeks S&P500.
+
+109
+00:08:22,880 --> 00:08:28,680
+Ale z czasem, zwłaszcza w ostatnich
+latach, liczba ETF-ów na globalnym rynku
+
+110
+00:08:28,760 --> 00:08:34,560
+wzrosła niesamowicie i w tym momencie
+bardzo wielu inwestorów i wielu inwestorek
+
+111
+00:08:34,640 --> 00:08:38,640
+wybiera je, zamiast
+inwestować na rynku akcji.
+
+112
+00:08:38,720 --> 00:08:41,240
+To właśnie dzięki ETF-om dostęp do
+
+113
+00:08:41,320 --> 00:08:46,800
+inwestowania w akcje dużej liczby
+spółek zyskali też mniejsi inwestorzy.
+
+114
+00:08:46,880 --> 00:08:51,760
+Czyli już nie tylko duże fundusze
+inwestycyjne mogły sobie pozwolić na
+
+115
+00:08:51,840 --> 00:08:58,640
+porządną dywersyfikację swoich inwestycji,
+ale także nawet drobni inwestorzy mogli
+
+116
+00:08:58,720 --> 00:09:04,600
+kupując taką jednostkę funduszy ETF bardzo
+dobrze zdywersyfikować swój portfel.
+
+117
+00:09:04,680 --> 00:09:11,040
+Jak już wspomniałam, ETF-ów opartych 
+o rynek akcji jest na świecie bardzo dużo.
+
+118
+00:09:11,120 --> 00:09:13,080
+Który ETF więc wybrać?
+
+119
+00:09:13,160 --> 00:09:14,920
+Jaki w ogóle mamy wybór?
+
+120
+00:09:15,000 --> 00:09:18,920
+ETF-y akcyjne mogą się między
+sobą znacząco różnić.
+
+121
+00:09:19,000 --> 00:09:19,960
+Możemy np.
+
+122
+00:09:20,040 --> 00:09:24,840
+inwestować w ETF-y oparte o szeroki,
+wręcz globalny rynek akcji.
+
+123
+00:09:24,920 --> 00:09:26,800
+Fundusze ETF oparte np.
+
+124
+00:09:26,880 --> 00:09:30,720
+o indeksy FTSE World albo MSCI All
+
+125
+00:09:30,800 --> 00:09:35,960
+Countries World Index
+to są takie ETF, które są najszersze 
+
+126
+00:09:36,040 --> 00:09:40,320
+i dotyczą bardzo wielu krajów
+i ogromnej liczby spółek.
+
+127
+00:09:40,400 --> 00:09:45,120
+To są dosłownie 4 cyfrowe liczby spółek
+w jednostce każdego z tych funduszy.
+
+128
+00:09:45,200 --> 00:09:48,240
+Tak szeroki indeks i tak szeroki ETF
+
+129
+00:09:48,320 --> 00:09:53,960
+oparty o ten indeks to idealny
+sposób na bardzo dużą dywersyfikację.
+
+130
+00:09:54,040 --> 00:09:57,560
+Fundusze ETF są jednak oparte także 
+
+131
+00:09:57,640 --> 00:10:01,240
+o indeksy akcji z poszczególnych
+lokalnych rynków.
+
+132
+00:10:01,320 --> 00:10:03,800
+Możemy mieć fundusze ETF oparte o
+
+133
+00:10:03,880 --> 00:10:10,080
+akcje czy też indeksy akcji amerykańskich,
+indeksy akcji brytyjskich, niemieckich,
+
+134
+00:10:10,160 --> 00:10:17,000
+japońskich czy też polskie indeksy
+akcji takie jak WIG 20 czy mWIG 40.
+
+135
+00:10:17,080 --> 00:10:21,560
+Istnieją także ETF-y oparte o
+indeksy akcji z wielu krajów.
+
+136
+00:10:21,640 --> 00:10:24,640
+Mamy na przykład ETF-y oparte o indeksy
+
+137
+00:10:24,720 --> 00:10:30,040
+akcji krajów rozwiniętych, ale
+też krajów rozwijających się.
+
+138
+00:10:30,120 --> 00:10:34,320
+ETF-y akcyjne mogą mieć także
+znacznie węższy zakres.
+
+139
+00:10:34,400 --> 00:10:35,320
+Możemy na przykład
+
+140
+00:10:35,400 --> 00:10:42,120
+inwestować w ETF-y oparte albo
+o bardzo duże spółki, albo o spółki, które
+
+141
+00:10:42,200 --> 00:10:45,400
+dopiero się rozwijają, są
+na wczesnym etapie rozwoju.
+
+142
+00:10:45,480 --> 00:10:51,960
+Możemy także inwestować w ETF-y oparte 
+o indeksy spółek z danej branży, czyli np.
+
+143
+00:10:52,040 --> 00:10:55,400
+kupić sobie ETF oparty o spółki zajmujące
+
+144
+00:10:55,480 --> 00:10:59,120
+się sektorem zielonej energii
+czy też biotechnologię.
+
+145
+00:10:59,200 --> 00:11:04,120
+Ta różnorodność ETF-ów akcyjnych sprawiła,
+że stały się one bardzo przydatne nie
+
+146
+00:11:04,200 --> 00:11:09,960
+tylko dla inwestorów, którzy chcą mieć po
+prostu szeroką ekspozycję inwestycyjną
+
+147
+00:11:10,040 --> 00:11:14,840
+praktycznie na cały świat,
+ale także są one przydatne dla inwestorów
+
+148
+00:11:14,920 --> 00:11:20,280
+już bardziej zaawansowanych, którzy chcą
+inwestować w jakieś konkretne branże,
+
+149
+00:11:20,360 --> 00:11:26,040
+ale nie są do końca pewni, które
+konkretnie spółki z danej branży wybrać.
+
+150
+00:11:26,120 --> 00:11:28,920
+Jedno jest pewne: na rynku funduszy ETF
+
+151
+00:11:29,000 --> 00:11:34,040
+odnajdą się inwestorzy czy inwestorki
+o przeróżnych strategiach, o przeróżnej
+
+152
+00:11:34,120 --> 00:11:38,960
+skłonności do ryzyka i o przeróżnym
+horyzoncie inwestycyjnym.
+
+153
+00:11:39,040 --> 00:11:41,600
+Jeszcze w tym module dowiesz się, 
+
+154
+00:11:41,680 --> 00:11:48,560
+jakich kryteriów użyć, żeby wybrać odpowiedni ETF
+akcyjny dla siebie i które konkretnie ETF-y
+
+155
+00:11:48,640 --> 00:11:53,560
+akcyjne mogą być przydatne w budowie
+długoterminowego portfela inwestycyjnego.
+

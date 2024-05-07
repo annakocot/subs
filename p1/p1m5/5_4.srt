@@ -1,0 +1,310 @@
+1
+00:00:03,440 --> 00:00:06,160
+Podczas tego kursu najprawdopodobniej
+
+2
+00:00:06,190 --> 00:00:11,600
+stworzysz portfel inwestycyjny, który jest
+w najlepszym stopniu dopasowany do Twojego
+
+3
+00:00:11,630 --> 00:00:16,060
+charakteru, do Twoich preferencji
+i do Twoich możliwości.
+
+4
+00:00:16,080 --> 00:00:19,280
+Ustalisz pewną strukturę, pewne proporcje
+
+5
+00:00:19,310 --> 00:00:23,060
+klas aktywów, które dla
+Ciebie będą optymalne.
+
+6
+00:00:23,080 --> 00:00:29,880
+Gdy już ustalisz te proporcje, to ważne
+jest, aby co jakiś czas robić rebalancing,
+
+7
+00:00:29,900 --> 00:00:34,060
+czy też inaczej
+rebalansowanie swojego portfela.
+
+8
+00:00:34,090 --> 00:00:35,280
+Czym ten rebalancing jest? 
+
+9
+00:00:35,310 --> 00:00:38,320
+Rebalancing, czy też rebalansowanie
+
+10
+00:00:38,350 --> 00:00:41,200
+swojego portfela to po prostu
+
+11
+00:00:41,230 --> 00:00:48,440
+dbałość o to, aby regularnie sprawdzać,
+czy proporcje klas aktywów nadal się
+
+12
+00:00:48,470 --> 00:00:54,240
+sprawdzają, czyli czy nadal mamy takie
+proporcje, które nam odpowiadają, które
+
+13
+00:00:54,270 --> 00:01:00,860
+odpowiadają naszej wrażliwości na
+ryzyko i naszej strategii inwestycyjnej.
+
+14
+00:01:00,890 --> 00:01:03,580
+Dlaczego rebalancing jest tak ważny?
+
+15
+00:01:03,610 --> 00:01:06,520
+Dlatego, że z czasem różne klasy aktywów
+
+16
+00:01:06,550 --> 00:01:11,260
+mogą w różnym tempie zyskiwać
+albo czasem tracić na wartości.
+
+17
+00:01:11,290 --> 00:01:17,130
+Niektóre klasy aktywów będą stały w
+miejscu, jeżeli chodzi o ich ceny.
+
+18
+00:01:17,160 --> 00:01:19,720
+W takim wypadku, jeżeli mamy różną
+
+19
+00:01:19,750 --> 00:01:24,260
+strukturę portfela, to te
+proporcje mogą nam się rozjeżdżać.
+
+20
+00:01:24,290 --> 00:01:26,000
+Powiedzmy, że tworzysz sobie
+
+21
+00:01:26,030 --> 00:01:36,820
+długoterminowy portfel inwestycyjny oparty
+o 60% akcji, 30% obligacji i 10% złota.
+
+22
+00:01:36,850 --> 00:01:38,840
+Okazuje się, że na przykład,
+
+23
+00:01:38,870 --> 00:01:42,320
+po kilku miesiącach ceny akcji wystrzeliły
+
+24
+00:01:42,350 --> 00:01:47,540
+w górę, a ceny obligacji i
+złota uparcie stały w miejscu.
+
+25
+00:01:47,570 --> 00:01:51,360
+W takim wypadku proporcja akcji w Twoim
+
+26
+00:01:51,390 --> 00:01:56,340
+portfelu zwiększyła się
+dlatego, że wzrosły ceny akcji.
+
+27
+00:01:56,370 --> 00:02:01,020
+Czyli te akcje, które posiadasz są po
+prostu proporcjonalnie warte więcej.
+
+28
+00:02:01,050 --> 00:02:03,320
+Nagle Twój portfel zaczął wyglądać
+
+29
+00:02:03,350 --> 00:02:05,420
+proporcjonalnie nieco inaczej,
+
+30
+00:02:05,450 --> 00:02:12,080
+więc jeżeli chcesz powrócić do tego
+pierwotnego stanu i wciąż mieć te
+
+31
+00:02:12,110 --> 00:02:20,260
+60% akcji w portfelu, 30% obligacji i 
+10% złota, możesz na przykład w kolejnym kroku
+
+32
+00:02:20,290 --> 00:02:27,080
+dokupić trochę obligacji i złota.
+Dlatego, że stały się one relatywnie tanie
+
+33
+00:02:27,110 --> 00:02:30,940
+w stosunku do akcji, które już
+wcześniej zyskały na wartości.
+
+34
+00:02:30,970 --> 00:02:36,160
+Rebalancingu najczęściej dokonuje się
+właśnie w ten sposób, że dokupujemy te
+
+35
+00:02:36,190 --> 00:02:42,450
+aktywa, które najwolniej zyskiwały na
+wartości albo wręcz traciły na wartości .
+
+36
+00:02:42,480 --> 00:02:46,260
+Właśnie dlatego, że stają
+się one relatywnie tańsze.
+
+37
+00:02:46,290 --> 00:02:48,680
+Ale rebalancingu można także dokonać
+
+38
+00:02:48,710 --> 00:02:54,560
+w inny sposób. Poprzez sprzedaż tych klas
+aktywów, które zyskały na wartości
+
+39
+00:02:54,590 --> 00:03:00,680
+najbardziej, w naszym przypadku akcji,
+oraz za te środki dokupienie
+
+40
+00:03:00,710 --> 00:03:04,580
+w odpowiednich proporcjach
+obligacji czy też złota.
+
+41
+00:03:04,610 --> 00:03:08,700
+Taki sposób jest jednak mniej
+optymalny z dwóch powodów.
+
+42
+00:03:08,730 --> 00:03:11,840
+Po pierwsze, gdy sprzedajemy jakieś aktywa
+
+43
+00:03:11,870 --> 00:03:16,060
+i później dokupujemy nowe,
+płacimy więcej prowizji.
+
+44
+00:03:16,090 --> 00:03:21,920
+A po drugie długoterminowy portfel
+pasywnych inwestycji polega właśnie na
+
+45
+00:03:21,950 --> 00:03:28,580
+tym, żeby jak najdłużej trzymać te aktywa,
+które mamy zakupione do naszego portfela.
+
+46
+00:03:28,610 --> 00:03:35,760
+Więc lepiej jest przez większość czasu
+jednak dokupywać kolejne aktywa i budować
+
+47
+00:03:35,790 --> 00:03:41,280
+swój portfel, aby był on coraz większy
+i aby coraz większe oszczędności dla nas
+
+48
+00:03:41,310 --> 00:03:46,580
+pracowały, niż właśnie
+sprzedawać część tego portfela.
+
+49
+00:03:46,610 --> 00:03:49,520
+Przeprowadzanie takiego relabancingu jest
+
+50
+00:03:49,550 --> 00:03:54,960
+ważne pod kątem budowy naszego
+długoterminowego portfela, ponieważ służy
+
+51
+00:03:54,990 --> 00:04:00,040
+ono do tego, żeby pilnować swojej
+strategii, żeby po prostu cały czas mieć
+
+52
+00:04:00,070 --> 00:04:03,300
+portfel, który jest
+najlepiej dopasowany do nas.
+
+53
+00:04:03,330 --> 00:04:07,180
+Co ważne, taki rebalancing
+można robić samemu.
+
+54
+00:04:07,210 --> 00:04:10,520
+Można samodzielnie sprawdzać sobie
+
+55
+00:04:10,550 --> 00:04:13,420
+np. raz na kwartał czy raz na pół roku,
+
+56
+00:04:13,450 --> 00:04:18,180
+jaką mamy strukturę portfela i
+czy ona cały czas nam odpowiada.
+
+57
+00:04:18,210 --> 00:04:23,320
+I tutaj warto pamiętać, że
+to jak często dokonujemy rebalancing to
+
+58
+00:04:23,340 --> 00:04:26,300
+już zależy tylko i wyłącznie
+od naszych preferencji.
+
+59
+00:04:26,330 --> 00:04:32,620
+Ale niektóre rodzaje inwestycji
+oferują taki rebalancing automatyczny.
+
+60
+00:04:32,650 --> 00:04:38,180
+Dla przykładu, gdy inwestujemy za pomocą
+tak zwanego robodoradcy
+
+61
+00:04:38,210 --> 00:04:42,820
+rebalancing najczęściej dokonywany
+jest automatycznie co kwartał.
+
+62
+00:04:42,840 --> 00:04:45,540
+W późniejszych lekcjach naszego kursu
+
+63
+00:04:45,570 --> 00:04:50,320
+dowiesz się jak dokonywać takiego
+rebalancingu samodzielnie, czyli jak samodzielnie
+
+64
+00:04:50,340 --> 00:04:56,980
+kupować akcje, obligacje, ETF czy też
+złoto, żeby balansować swój portfel.
+
+65
+00:04:57,010 --> 00:05:02,500
+Ale też dowiesz się więcej o robodoradcach
+i zobaczysz, czy czasem ten sposób
+
+66
+00:05:02,530 --> 00:05:05,560
+lokowania pieniędzy nie
+jest dla Ciebie optymalne.
+

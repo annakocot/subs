@@ -1,0 +1,312 @@
+1
+00:00:05,200 --> 00:00:07,960
+Jak już wiesz z poprzednich lekcji,
+
+2
+00:00:08,040 --> 00:00:12,120
+wybór spółek dywidendowych na rynkach
+międzynarodowych jest ogromny,
+
+3
+00:00:12,200 --> 00:00:17,200
+więc naturalnie pojawia się dylemat,
+które z tych spółek najlepiej wybrać.
+
+4
+00:00:17,280 --> 00:00:20,200
+Ten dylemat rozwiązuje inny sposób
+
+5
+00:00:20,280 --> 00:00:25,880
+inwestowania w spółki dywidendowe, czyli
+wybieranie zamiast konkretnych spółek
+
+6
+00:00:25,960 --> 00:00:31,400
+jednostek ETF-ów opartych 
+o akcje spółek dywidendowych.
+
+7
+00:00:31,480 --> 00:00:35,040
+ETF-y, które inwestują w akcje, także bowiem
+
+8
+00:00:35,120 --> 00:00:37,920
+otrzymują wypłacane
+przez spółki dywidendy.
+
+9
+00:00:38,000 --> 00:00:40,280
+No i my jako inwestorzy czy inwestorki,
+
+10
+00:00:40,360 --> 00:00:46,400
+którzy posiadają jednostki funduszy ETF,
+również mamy do tych dywidend prawo.
+
+11
+00:00:46,480 --> 00:00:51,200
+Taki fundusz ETF może zadecydować, 
+co zrobi z przyznaną dywidendą:
+
+12
+00:00:51,280 --> 00:00:56,600
+czy bezpośrednio wypłaci je osobom
+posiadającym jego jednostki, czy może
+
+13
+00:00:56,680 --> 00:01:03,000
+zamiast tego będzie je reinwestować,
+czyli po prostu zainwestuje je ponownie.
+
+14
+00:01:03,080 --> 00:01:06,160
+W rezultacie na rynku możemy wyróżnić dwa
+
+15
+00:01:06,240 --> 00:01:10,000
+rodzaje funduszy ETF
+uwzględniających zyski z dywidend.
+
+16
+00:01:10,080 --> 00:01:13,080
+I każde z nich ma swoje zalety i wady.
+
+17
+00:01:13,160 --> 00:01:15,000
+Pierwszy rodzaj to ETF-y
+
+18
+00:01:15,080 --> 00:01:17,800
+dystrybuujące, czyli takie, które
+
+19
+00:01:17,880 --> 00:01:24,080
+wypłacają otrzymane dywidendy bezpośrednio
+osobom posiadającym ich jednostki.
+
+20
+00:01:24,160 --> 00:01:30,960
+Jeżeli ktoś chce otrzymywać regularnie
+właśnie takie pasywne przychody w postaci
+
+21
+00:01:31,040 --> 00:01:36,520
+dywidend, także z tego funduszu ETF,
+to ten sposób inwestowania może być dla
+
+22
+00:01:36,600 --> 00:01:40,120
+takiej osoby odpowiedni,
+ale jest on bardziej skomplikowany
+
+23
+00:01:40,200 --> 00:01:43,560
+podatkowo, o czym jeszcze
+będzie w kolejnej lekcji.
+
+24
+00:01:43,640 --> 00:01:47,680
+Z kolei ETF-y akumulujące, czyli ten drugi
+
+25
+00:01:47,760 --> 00:01:53,240
+rodzaj, nie wypłacają
+dywidend, tylko je reinwestują.
+
+26
+00:01:53,320 --> 00:01:58,080
+Czyli zamiast wypłacać posiadaczom
+jednostek dywidendy na ich rachunki
+
+27
+00:01:58,160 --> 00:02:04,720
+maklerskie, zamiast tego dalej inwestują
+otrzymane pieniądze z dywidend.
+
+28
+00:02:04,800 --> 00:02:07,280
+Najczęściej dochodzi do tego, że po prostu
+
+29
+00:02:07,360 --> 00:02:12,080
+te dywidendy są dopisywane do wartości
+jednostki, czyli nasza jednostka jest
+
+30
+00:02:12,160 --> 00:02:16,600
+warta nieco więcej, a nasze
+pieniądze są inwestowane dalej.
+
+31
+00:02:16,680 --> 00:02:18,760
+Warto więc pamiętać, że inwestowanie
+
+32
+00:02:18,840 --> 00:02:23,600
+dywidendowe nie oznacza kupowania
+tylko i wyłącznie ETF-ów
+
+33
+00:02:23,680 --> 00:02:25,280
+dystrybuujących.
+
+34
+00:02:25,360 --> 00:02:29,920
+dlatego, że dywidendę otrzymujemy
+niezależnie od tego, czy inwestujemy 
+
+35
+00:02:30,000 --> 00:02:35,200
+w ETF-y dystrybuujące,
+czy w ETF-y akumulujące. Po prostu
+
+36
+00:02:35,280 --> 00:02:39,800
+w tym drugim przypadku nie otrzymujemy
+dywidendy bezpośrednio na rachunek
+
+37
+00:02:39,880 --> 00:02:45,680
+maklerski, tylko powiększają
+one wartość naszej jednostki.
+
+38
+00:02:45,760 --> 00:02:47,160
+A skoro tak jest,
+
+39
+00:02:47,240 --> 00:02:54,200
+czyli skoro inwestując w ETF-y dystrybuujące
+i akumulujące, tak samo otrzymujemy
+
+40
+00:02:54,280 --> 00:02:57,800
+te dywidendy, to które
+z nich lepiej wybrać?
+
+41
+00:02:57,880 --> 00:03:01,360
+Dla większości osób zdecydowanie
+wygodniejsze będą ETF-7 akumulujące, 
+
+42
+00:03:01,440 --> 00:03:07,200
+bo dzięki temu szybciej
+przyrasta nam zainwestowany kapitał, 
+
+43
+00:03:07,280 --> 00:03:12,000
+a dodatkowo rozliczenie podatkowe
+jest dużo prostsze i szybsze.
+
+44
+00:03:12,080 --> 00:03:14,760
+Natomiast jeżeli ktoś już przeskoczył ten
+
+45
+00:03:14,840 --> 00:03:21,560
+etap bycia na dorobku i budowania swojego
+kapitału i chce zacząć traktować dywidendy
+
+46
+00:03:21,640 --> 00:03:27,160
+jako jedno ze źródeł pasywnego przychodu,
+to oczywiście może wtedy inwestować
+
+47
+00:03:27,240 --> 00:03:30,320
+w ETF dystrybuujące,
+pamiętając jednak o pewnych
+
+48
+00:03:30,400 --> 00:03:34,200
+niedogodnościach związanych
+z rozliczeniem podatkowym.
+
+49
+00:03:34,280 --> 00:03:36,760
+Skoro już znasz rodzaje ETF-ów
+
+50
+00:03:36,840 --> 00:03:42,680
+dywidendowych, wiesz, że możesz wybierać
+ETF-y akumulujące czy też dystrybuujące,
+
+51
+00:03:42,760 --> 00:03:46,440
+w zależności od tego, jakie masz potrzeby
+czy też doświadczenie,
+
+52
+00:03:46,520 --> 00:03:49,640
+to pojawia się prawdopodobnie
+najważniejsze pytanie:
+
+53
+00:03:49,720 --> 00:03:55,440
+w które konkretnie fundusze ETF
+zainwestować, aby jak najbardziej
+
+54
+00:03:55,520 --> 00:04:00,240
+skorzystać z faktu, że wiele spółek
+regularnie wypłaca dywidendy.
+
+55
+00:04:00,320 --> 00:04:04,120
+Do najsłynniejszych ETF-ów
+opartych o spółki dywidendowe
+
+56
+00:04:04,200 --> 00:04:07,000
+zdecydowanie należą wszystkie fundusze
+
+57
+00:04:07,080 --> 00:04:12,560
+ETF, które są oparte o tak zwanych
+dywidendowych arystokratów, czyli
+
+58
+00:04:12,640 --> 00:04:16,800
+zawierają często w swojej nazwie
+słowa dividend aristocrats.
+
+59
+00:04:16,880 --> 00:04:19,400
+Tutaj można chociażby wymienić fundusze
+
+60
+00:04:19,480 --> 00:04:24,840
+ETF oparte o słynny i wspomniany już
+przeze mnie indeks S&P 500 Dividend
+
+61
+00:04:24,920 --> 00:04:29,920
+Aristocrats, jak również o akcje spółek
+dywidendowych, czyli tak zwanych
+
+62
+00:04:30,000 --> 00:04:35,160
+dywidendowych arystokratów, na
+przykład z Europy czy też z Azji.
+
+63
+00:04:35,240 --> 00:04:40,480
+Ogólnie na świecie ciekawych funduszy ETF
+opartych o spółki dywidendowe jest całkiem
+
+64
+00:04:40,560 --> 00:04:45,320
+sporo, więc specjalnie dla Was
+oczywiście zrobiłyśmy ich selekcję.
+
+65
+00:04:45,400 --> 00:04:48,160
+I te najciekawsze i najpopularniejsze
+
+66
+00:04:48,240 --> 00:04:51,320
+znajdziecie w materiałach
+dodatkowych do tego odcinka.
+

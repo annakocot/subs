@@ -1,0 +1,355 @@
+1
+00:00:03,520 --> 00:00:07,960
+Aby założyć rachunek rejestrowy i móc
+kupować obligacje detaliczne Skarbu
+
+2
+00:00:07,990 --> 00:00:11,340
+Państwa, trzeba wejść na
+stronę obligacjeskarbowe.pl.
+
+3
+00:00:11,370 --> 00:00:14,200
+Na tej stronie pojawi się aktualna
+
+4
+00:00:14,230 --> 00:00:19,480
+oferta obligacji, czyli widzimy wszystkie
+obligacje jakie możemy kupić, jak również
+
+5
+00:00:19,510 --> 00:00:25,020
+informacje o tym, że istnieje konto
+IKE Obligacje i konto IKZE Obligacje.
+
+6
+00:00:25,050 --> 00:00:29,280
+W sekcji dotyczącej zakupu obligacji
+możecie przejść do informacji na temat
+
+7
+00:00:29,310 --> 00:00:32,660
+tego, gdzie możecie
+kupić obligacje skarbowe.
+
+8
+00:00:32,680 --> 00:00:38,660
+Jak widzicie możecie to zrobić przez
+internet w placówce albo przez telefon.
+
+9
+00:00:38,680 --> 00:00:43,000
+Wchodzicie na stronę
+zakup.obligacjeskarbowe.pl
+
+00:00:43,000 --> 00:00:44,180
+
+11
+00:00:44,210 --> 00:00:46,720
+Pojawia się strona logowania, ale jeżeli
+
+12
+00:00:46,750 --> 00:00:50,740
+nie macie jeszcze rachunku
+rejestrowego musicie kliknąć niżej:
+
+13
+00:00:50,770 --> 00:00:52,000
+nie dokonywałam/ nie dokonywałem
+
+14
+00:00:52,030 --> 00:00:55,620
+wcześniej zakupu obligacji 
+przez internet.
+
+15
+00:00:55,650 --> 00:00:58,260
+Tutaj wybieracie metodę rejestracji.
+
+16
+00:00:58,290 --> 00:01:01,340
+Możecie to zrobić przez konto na iPKO.
+
+17
+00:01:01,370 --> 00:01:06,280
+Możecie zarejestrować się za pomocą
+przelewu albo skorzystać z aplikacji,
+
+18
+00:01:06,310 --> 00:01:10,570
+jeżeli macie dowód osobisty
+z warstwą elektroniczną.
+
+19
+00:01:10,600 --> 00:01:12,770
+My wybieramy formę przelewu.
+
+20
+00:01:12,800 --> 00:01:16,210
+Kolejnym krokiem jest
+weryfikacja tożsamości.
+
+21
+00:01:16,240 --> 00:01:19,290
+Tutaj wpisujecie swoje dane osobowe.
+
+22
+00:01:19,320 --> 00:01:23,850
+Niżej wpisujecie również swój
+numer rachunku bankowego.
+
+23
+00:01:23,880 --> 00:01:29,100
+Po wpisaniu danych osobowych następuje
+rejestracja Was jako klienta.
+
+24
+00:01:29,130 --> 00:01:31,850
+Uzupełniacie formularz o kolejne dane.
+
+25
+00:01:31,880 --> 00:01:34,620
+Pamiętajcie, że te dane, które podajecie
+
+26
+00:01:34,650 --> 00:01:39,540
+muszą być zgodne z danymi dotyczącymi
+rachunku bankowego, z którego później
+
+27
+00:01:39,570 --> 00:01:42,540
+będziecie nabywać swoje
+pierwsze obligacje.
+
+28
+00:01:42,570 --> 00:01:44,720
+Kolejnym krokiem jest weryfikacja tych
+
+29
+00:01:44,750 --> 00:01:49,020
+danych, które podałyście wcześniej
+i wprowadzenie swojego hasła.
+
+30
+00:01:49,050 --> 00:01:53,180
+Wypełniacie również część
+związaną z rezydencję podatkową.
+
+31
+00:01:53,210 --> 00:01:58,100
+Kolejna część to zaznaczenie
+odpowiednich oświadczeń.
+
+32
+00:01:58,130 --> 00:02:03,620
+Po wpisaniu tekstu z obrazka i
+kliknięciu akceptuję przechodzimy dalej.
+
+33
+00:02:03,650 --> 00:02:08,440
+Otrzymujecie swój numer rachunku
+rejestrowego, czyli numer, na który
+
+34
+00:02:08,470 --> 00:02:13,780
+możecie przesyłać już konkretne kwoty,
+które chcecie zainwestować w obligacje.
+
+35
+00:02:13,810 --> 00:02:18,340
+Na ten moment jeszcze nie musicie
+dokonywać żadnego przelewu,
+
+36
+00:02:18,370 --> 00:02:24,420
+ale właśnie wraz z dokonaniem takiego przelewu
+Wasz rachunek zostanie aktywowany.
+
+37
+00:02:24,450 --> 00:02:27,820
+Na tej stronie widzicie
+także swój login do rachunku.
+
+38
+00:02:27,850 --> 00:02:33,380
+Możecie go wykorzystać i już w tym
+momencie zalogować się na Wasz rachunek.
+
+39
+00:02:33,410 --> 00:02:37,780
+Pamiętajcie, że żeby się zalogować
+potrzebna jest podwójna autoryzacja.
+
+40
+00:02:37,810 --> 00:02:43,160
+Dodatkowy kod przyjdzie
+na Wasz telefon jako SMS.
+
+41
+00:02:43,560 --> 00:02:45,610
+Gdy logujecie się po raz pierwszy
+
+42
+00:02:45,640 --> 00:02:52,260
+możecie także zmienić swój login i od razu
+nadać swój własny login do tego rachunku.
+
+43
+00:02:52,290 --> 00:02:54,400
+Jeśli to zrobicie, to oczywiście też
+
+44
+00:02:54,430 --> 00:03:00,060
+musicie zaakceptować
+i autoryzować tę operację.
+
+45
+00:03:00,090 --> 00:03:05,180
+Gdy zalogujecie się na swój rachunek po
+raz pierwszy pojawią się dwa komunikaty.
+
+46
+00:03:05,210 --> 00:03:07,080
+Pierwszy z nich dotyczy wypełnienia
+
+47
+00:03:07,110 --> 00:03:11,760
+ankiety MiFID, czyli odpowiedzenia na
+szereg pytań dotyczących Waszego
+
+48
+00:03:11,790 --> 00:03:16,220
+doświadczenia czy też planów
+związanych z inwestowaniem.
+
+49
+00:03:16,250 --> 00:03:18,360
+Drugi komunikat natomiast dotyczy
+
+50
+00:03:18,390 --> 00:03:24,580
+zaakceptowania warunków umowy, która
+dotyczy prowadzenia rachunku rejestrowego.
+
+51
+00:03:24,610 --> 00:03:31,660
+Pamiętajcie, że bez wykonania tych kroków
+nie będziecie mogły kupić obligacji.
+
+52
+00:03:31,690 --> 00:03:34,200
+Ankieta MiFID to jest charakterystyczny
+
+53
+00:03:34,230 --> 00:03:38,260
+krok związany z zakładaniem wszelkiego
+typu rachunków inwestycyjnych.
+
+54
+00:03:38,290 --> 00:03:41,340
+Wynika ona z obowiązku domów maklerskich
+
+55
+00:03:41,370 --> 00:03:44,380
+dotyczących dopasowania
+się do prawa unijnego.
+
+56
+00:03:44,410 --> 00:03:46,680
+Jej celem jest sprawdzenie Twojego poziomu
+
+57
+00:03:46,710 --> 00:03:49,660
+wiedzy i Twojego
+doświadczenia jako inwestora.
+
+58
+00:03:49,690 --> 00:03:52,720
+Pamiętaj jednak, że ankieta MiFID, 
+
+59
+00:03:52,750 --> 00:03:57,360
+mimo że jest obowiązkowa, nie musi być przez
+Ciebie wypełniona w stu procentach dobrze.
+
+60
+00:03:57,360 --> 00:03:58,220
+
+61
+00:03:58,250 --> 00:04:03,460
+Jeżeli nie będziesz znała odpowiedzi na
+jakieś pytania, to nic się nie wydarzy.
+
+62
+00:04:03,490 --> 00:04:07,020
+Nie oznacza to, że nie będziesz
+mogła inwestować w obligacje.
+
+63
+00:04:07,050 --> 00:04:09,040
+To jest głównie ankieta służąca temu,
+
+64
+00:04:09,070 --> 00:04:15,100
+żebyś zarówno Ty, jak i biuro maklerskie,
+w tym przypadku biuro maklerskie PKO BP
+
+65
+00:04:15,130 --> 00:04:19,440
+znało Twój poziom wiedzy i
+doświadczenia jako inwestora.
+
+66
+00:04:19,480 --> 00:04:23,520
+Po wypełnieniu ankiety MiFID pojawia się
+informacja dotycząca Twojego profilu
+
+67
+00:04:23,540 --> 00:04:28,820
+ryzyka i tego, jakie instrumenty
+finansowe są dla Ciebie odpowiednie.
+
+68
+00:04:28,840 --> 00:04:33,020
+Pamiętaj jednak, że nie jest
+to żaden nakaz ani zakaz.
+
+69
+00:04:33,040 --> 00:04:37,860
+Jest to tylko sugestia.
+Aby aktywować Twój rachunek rejestrowy
+
+70
+00:04:37,890 --> 00:04:42,820
+musisz jeszcze zaakceptować
+wnioski dotyczące umowy ramowej.
+
+71
+00:04:42,840 --> 00:04:48,080
+One są po prostu konieczne do tego, żebyś
+mogła korzystać w pełni ze swojego
+
+72
+00:04:48,100 --> 00:04:52,480
+rachunku rejestrowego.
+I oczywiście kupować obligacje.
+
+73
+00:04:52,680 --> 00:04:57,440
+Gdy klikniesz w przypominające Ci o tym
+okienko, pojawią się po prostu owe
+
+74
+00:04:57,470 --> 00:05:02,340
+dokumenty, które warto przeczytać
+i zaakceptować poniżej.
+
+75
+00:05:02,360 --> 00:05:07,520
+Gdy zaakceptujesz już wszystkie umowy
+i odpowiesz na odpowiednie pytania,
+
+76
+00:05:07,540 --> 00:05:11,760
+możesz już przejść do kupna swoich
+pierwszych obligacji.

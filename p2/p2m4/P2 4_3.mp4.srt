@@ -1,0 +1,317 @@
+1
+00:00:04,400 --> 00:00:09,000
+Znasz już poszczególne etapy analizy
+fundamentalnej i jak się domyślasz, 
+
+2
+00:00:09,080 --> 00:00:14,800
+każdy z tych etapów wymaga często sporej
+wiedzy i czasu na niego poświęconego.
+
+3
+00:00:14,880 --> 00:00:18,480
+Ale najczęściej takim kluczowym elementem
+
+4
+00:00:18,560 --> 00:00:23,520
+analizy fundamentalnej jest jednak badanie
+kondycji konkretnej spółki 
+
+5
+00:00:23,600 --> 00:00:26,880
+i najważniejszych wskaźników
+jej dotyczących.
+
+6
+00:00:26,960 --> 00:00:29,720
+Jakich więc wyliczeń dokonuje się, gdy
+
+7
+00:00:29,800 --> 00:00:33,840
+chcemy dokładnie oszacować
+wartość akcji konkretnej spółki?
+
+8
+00:00:33,920 --> 00:00:36,520
+Inwestorzy i analitycy, którzy dokonują
+
+9
+00:00:36,600 --> 00:00:42,640
+analizy fundamentalnej, patrzą zazwyczaj
+na kilka podstawowych grup wskaźników.
+
+10
+00:00:42,720 --> 00:00:44,320
+Oto te grupy.
+
+11
+00:00:44,400 --> 00:00:50,760
+Wskaźniki płynności pokazujące, czy spółka
+ma bezproblemowy dostęp do gotówki, 
+
+12
+00:00:50,840 --> 00:00:55,080
+czy z łatwością potrafi regulować swoje
+krótkoterminowe zobowiązania.
+
+13
+00:00:55,160 --> 00:00:59,520
+Tutaj do takich ważnych wskaźników
+i znanych wskaźników należą np.
+
+14
+00:00:59,600 --> 00:01:03,720
+QR czy CR, czyli quick
+ratio i current ratio. 
+
+15
+00:01:03,800 --> 00:01:08,000
+Wskaźniki zadłużenia
+to takie wskaźniki, które jak sama nazwa
+
+16
+00:01:08,080 --> 00:01:13,880
+wskazuje, pokazują jak bardzo zadłużona
+jest dana spółka i czy jest ona w stanie
+
+17
+00:01:13,960 --> 00:01:19,000
+to swoje zadłużenie, ten swój
+dług bez problemu obsługiwać.
+
+18
+00:01:19,080 --> 00:01:23,360
+Wskaźników zadłużenia jest bardzo dużo,
+ale zazwyczaj wymienia się przede
+
+19
+00:01:23,440 --> 00:01:28,360
+wszystkim tak zwane zadłużenie ogółem
+czy też zadłużenie długoterminowe.
+
+20
+00:01:28,440 --> 00:01:32,760
+Wskaźniki aktywności.
+Te wskaźniki pokazują, jak szybko dana
+
+21
+00:01:32,840 --> 00:01:38,880
+spółka jest w stanie zamienić swoje
+zapasy i swoje należności na gotówkę.
+
+22
+00:01:38,960 --> 00:01:41,240
+Tutaj popularne wskaźniki to wskaźnik
+
+23
+00:01:41,320 --> 00:01:45,000
+rotacji zapasów czy też
+wskaźnik rotacji należności.
+
+24
+00:01:45,080 --> 00:01:50,040
+Wskaźniki rentowności czy też inaczej
+wskaźniki zyskowności to jedna z
+
+25
+00:01:50,120 --> 00:01:54,600
+najważniejszych, absolutnie
+kluczowych grup wskaźników.
+
+26
+00:01:54,680 --> 00:01:57,880
+To właśnie one pokazują, jak duże zyski ma
+
+27
+00:01:57,960 --> 00:02:01,000
+dana spółka w porównaniu
+do poniesionych nakładów.
+
+28
+00:02:01,080 --> 00:02:03,880
+Tutaj też mamy szereg różnych wskaźników.
+
+29
+00:02:03,960 --> 00:02:08,320
+To może być wskaźnik rentowności
+sprzedaży, wskaźnik rentowności aktywów
+
+30
+00:02:08,400 --> 00:02:11,800
+czy też zyski w porównaniu
+do kapitału własnego.
+
+31
+00:02:11,880 --> 00:02:16,160
+Kolejna grupa wskaźników to
+wskaźniki wartości rynkowej.
+
+32
+00:02:16,240 --> 00:02:22,680
+To też bardzo ważna grupa, która pokazuje
+jak wygląda cena akcji danej spółki na
+
+33
+00:02:22,760 --> 00:02:27,080
+giełdzie w danym momencie w
+stosunku do jej danych finansowych.
+
+34
+00:02:27,160 --> 00:02:32,280
+To tutaj mamy do czynienia z bardzo
+ważnymi i też często słynnymi wskaźnikami,
+
+35
+00:02:32,360 --> 00:02:39,800
+takimi jak EPS, czyli earnings per share, czyli
+po prostu zyski na akcje danej spółki.
+
+36
+00:02:39,880 --> 00:02:47,080
+Tutaj mamy także wskaźnik CZ, czyli P do
+E, gdy mówimy o angielskiej jego wersji,
+
+37
+00:02:47,160 --> 00:02:54,000
+cena do zysku;
+wskaźnik P/BV, czyli wskaźnik C/WK - 
+
+38
+00:02:54,080 --> 00:02:58,680
+cena do wartości księgowej.
+I te wszystkie wskaźniki, zwłaszcza te
+
+39
+00:02:58,760 --> 00:03:04,080
+trzy, które wymieniłam, często właśnie są
+jednym z najlepszych sposobów na to, żeby
+
+40
+00:03:04,160 --> 00:03:09,360
+ocenić, czy obiektywnie akcje
+danej spółki są tanie czy drogie.
+
+41
+00:03:09,440 --> 00:03:14,320
+Jak widzisz, wskaźników stosowanych w
+analizie fundamentalnej jest bardzo dużo.
+
+42
+00:03:14,400 --> 00:03:17,880
+Ja wymieniłam w zasadzie
+tylko te podstawowe.
+
+43
+00:03:17,960 --> 00:03:23,760
+Wiele z tych wskaźników ma swoje pożądane
+wartości, ale bardziej od obiektywnych
+
+44
+00:03:23,840 --> 00:03:29,520
+wyliczeń często istotniejsze są
+subiektywne oceny wynikające 
+
+45
+00:03:29,600 --> 00:03:32,520
+z doświadczenia danego
+analityka czy inwestora.
+
+46
+00:03:32,600 --> 00:03:34,600
+Wskaźniki takie jak np.
+
+47
+00:03:34,680 --> 00:03:37,600
+cena do zysku potrafią się bowiem znacząco
+
+48
+00:03:37,680 --> 00:03:42,280
+różnić w zależności od tego, 
+z jaką branżą mamy do czynienia.
+
+49
+00:03:42,360 --> 00:03:49,200
+W jednej branży dana wartość wskaźnika
+ceny do zysku może być wręcz świetna, 
+
+50
+00:03:49,280 --> 00:03:53,560
+a w innej branży ta sama
+wartość może być fatalna.
+
+51
+00:03:53,640 --> 00:03:58,440
+W rezultacie porządna analiza 
+fundamentalna danej spółki nie rzadko
+
+52
+00:03:58,520 --> 00:04:01,600
+potrafi trwać wiele dni,
+a nawet wiele tygodni.
+
+53
+00:04:01,680 --> 00:04:04,800
+I tak naprawdę to od doświadczenia 
+
+54
+00:04:04,880 --> 00:04:09,480
+i od wiedzy danego analityka czy też inwestora
+zależy to, jak szybko zostanie ona
+
+55
+00:04:09,560 --> 00:04:16,240
+wykonana i oczywiście jak dokładnie
+i wiarygodnie zostanie ona wykonana.
+
+56
+00:04:16,320 --> 00:04:19,000
+Bardzo często poszczególni analitycy czy
+
+57
+00:04:19,080 --> 00:04:24,000
+też inwestorzy mają nawet swoje
+specjalizacje, czyli przyglądają się 
+
+58
+00:04:24,080 --> 00:04:29,040
+w szczególności konkretnym spółkom albo
+konkretnym branżom, dzięki czemu potrafią
+
+59
+00:04:29,120 --> 00:04:33,480
+dokonać ich analizy fundamentalnej
+znacznie lepiej i szybciej.
+
+60
+00:04:33,560 --> 00:04:36,000
+Ze względu na stopień złożoności analizy
+
+61
+00:04:36,080 --> 00:04:41,800
+fundamentalnej, liczbę niuansów przy
+ocenianiu wskaźników i to, jak bardzo
+
+62
+00:04:41,880 --> 00:04:45,040
+czasochłonna jest ta
+metoda przy inwestowaniu,
+
+63
+00:04:45,120 --> 00:04:47,400
+W kursie inwestowania od podstaw nie
+
+64
+00:04:47,480 --> 00:04:52,200
+zajmujemy się dokładnie procesem tworzenia
+wyceny danej spółki.
+
+65
+00:04:52,280 --> 00:04:57,960
+Ale w kolejnych lekcjach zobaczysz, jak, 
+nawet bez przeprowadzania całościowej
+
+66
+00:04:58,040 --> 00:05:02,960
+analizy fundamentalnej, możesz wesprzeć
+się pewną wiedzą od specjalistów.
+

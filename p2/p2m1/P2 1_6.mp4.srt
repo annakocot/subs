@@ -1,0 +1,298 @@
+1
+00:00:03,360 --> 00:00:09,000
+Jak już wiesz z poprzednich lekcji, ryzyko
+związane z inwestowaniem w obligacje może
+
+2
+00:00:09,030 --> 00:00:14,740
+być bardzo zróżnicowane w zależności od
+tego, w jaki typ obligacji inwestujesz.
+
+3
+00:00:14,770 --> 00:00:18,280
+Jednak co do zasady obligacje ogólnie są
+
+4
+00:00:18,310 --> 00:00:22,660
+jednym z najbezpieczniejszych sposobów
+na lokowanie swojego kapitału.
+
+5
+00:00:22,690 --> 00:00:24,020
+Z czego to wynika?
+
+6
+00:00:24,050 --> 00:00:27,520
+Po pierwsze, w zasadzie jedynym kluczowym
+
+7
+00:00:27,550 --> 00:00:33,000
+ryzykiem, które Ciebie dotyczy, jest
+ryzyko bankructwa emitenta, a więc jedynym
+
+8
+00:00:33,030 --> 00:00:39,940
+czynnikiem, na który naprawdę warto
+skrupulatnie zwrócić uwagę jest to, czy
+
+9
+00:00:39,960 --> 00:00:44,420
+dany dłużnik, czyli emitent
+obligacji, jest po prostu wypłacalny.
+
+10
+00:00:44,450 --> 00:00:50,160
+Po drugie, bezpieczeństwo inwestowania w
+obligacje danej firmy jest zawsze większe
+
+11
+00:00:50,180 --> 00:00:54,820
+niż bezpieczeństwo inwestowania
+w akcje tej samej firmy.
+
+12
+00:00:54,850 --> 00:00:56,140
+Dlaczego?
+
+13
+00:00:56,170 --> 00:01:01,600
+Bo w przypadku jakichkolwiek kłopotów
+finansowych to właśnie obligatariusze są
+
+14
+00:01:01,630 --> 00:01:05,770
+wcześniejsi w kolejce do
+spłacenia niż akcjonariusze.
+
+15
+00:01:05,800 --> 00:01:07,460
+No i w końcu po trzecie
+
+16
+00:01:07,490 --> 00:01:13,410
+zmienność notowań obligacji na ogół jest
+dużo mniejsza niż zmienność notowań akcji,
+
+17
+00:01:13,440 --> 00:01:19,130
+czyli po prostu ceny obligacji się
+mniej wahają niż notowania akcji.
+
+18
+00:01:19,160 --> 00:01:21,280
+Tak jak wspomniałam, w zasadzie jedynym
+
+19
+00:01:21,310 --> 00:01:26,820
+kluczowym ryzykiem, na który musimy
+zwrócić uwagę inwestując w dane obligacje,
+
+20
+00:01:26,850 --> 00:01:31,380
+jest ryzyko związane 
+z potencjalnym bankructwem emitenta.
+
+21
+00:01:31,410 --> 00:01:37,040
+I tutaj warto pamiętać, że bankructwo
+emitenta może wynikać z bardzo wielu
+
+22
+00:01:37,070 --> 00:01:41,740
+różnych czynników, w zależności
+od tego, kim ten emitent jest.
+
+23
+00:01:41,770 --> 00:01:44,140
+W przypadku różnych krajów
+
+24
+00:01:44,170 --> 00:01:47,780
+wojna niekoniecznie musi oznaczać
+bankructwo kraju
+
+25
+00:01:47,810 --> 00:01:53,930
+i tak samo czasem bankructwa zdarzają
+się w momentach całkiem pokojowych.
+
+26
+00:01:53,960 --> 00:01:56,760
+Aby ocenić, jak bardzo scenariusz
+
+27
+00:01:56,790 --> 00:02:01,880
+bankructwa danego emitenta jest
+prawdopodobny, przyznaje się poszczególnym
+
+28
+00:02:01,910 --> 00:02:08,060
+emitentem zarówno państwom, jak 
+i korporacjom odpowiednie ratingi.
+
+29
+00:02:08,090 --> 00:02:10,170
+Czym jest rating?
+
+30
+00:02:10,200 --> 00:02:14,980
+Rating to ocena wiarygodności kredytowej
+danego emitenta,
+
+31
+00:02:15,010 --> 00:02:21,520
+czyli po prostu ocena tego, w jak dużym
+stopniu dany emitent czy to kraj, czy to
+
+32
+00:02:21,550 --> 00:02:25,860
+firma jest zdolny do tego,
+żeby spłacić obligacje.
+
+33
+00:02:25,890 --> 00:02:29,300
+Ratingi są przyznawane
+przez agencje ratingowe.
+
+34
+00:02:29,330 --> 00:02:34,020
+Najsłynniejsze z nich to Moody's,
+Standard & Poor's i Fitch.
+
+35
+00:02:34,050 --> 00:02:37,560
+Ratingi przyjmują zakres literowy, 
+
+36
+00:02:37,590 --> 00:02:44,860
+od litery A do litery D i mogą występować
+w wersji potrójnej albo podwójnej, np.
+
+37
+00:02:44,890 --> 00:02:47,700
+AAA albo BB.
+
+38
+00:02:47,730 --> 00:02:54,540
+Zazwyczaj najlepszą oceną zdolności
+kredytowej jest potrójne A, czyli AAA.
+
+39
+00:02:54,570 --> 00:02:59,660
+Natomiast najgorszą
+oceną jest pojedyncze D.
+
+40
+00:02:59,690 --> 00:03:04,560
+Im niższa ocena, tym większe
+prawdopodobieństwo, że emitent nie wywiąże
+
+41
+00:03:04,590 --> 00:03:09,380
+się ze swoich zobowiązań, czyli po
+prostu nie spłaci swoich obligacji.
+
+42
+00:03:09,410 --> 00:03:15,520
+Każda agencja oprócz ratingu publikuje
+także informację o tym, jak może ten
+
+43
+00:03:15,550 --> 00:03:19,700
+rating zmieniać się w przyszłości,
+czyli tak zwaną perspektywę.
+
+44
+00:03:19,730 --> 00:03:24,740
+Może być perspektywa pozytywna,
+neutralna czy też negatywna.
+
+45
+00:03:24,770 --> 00:03:29,460
+W tej tabeli pokazuje ratingi
+od najwyższych do najniższych.
+
+46
+00:03:29,490 --> 00:03:31,720
+Jak widzisz, każda agencja ratingowa ma
+
+47
+00:03:31,750 --> 00:03:37,100
+swój styl przyznawania ratingu, ale
+są one do siebie bardzo zbliżone.
+
+48
+00:03:37,130 --> 00:03:44,300
+Ratingi od potrójnego A przez podwójne A
+pojedyncze A aż do potrójnego B
+
+49
+00:03:44,330 --> 00:03:47,610
+są uznawane za ratingi o
+poziomie inwestycyjnym.
+
+50
+00:03:47,640 --> 00:03:53,660
+W przypadku tego typu ratingu spłata
+obligacji jest wręcz niezagrożona.
+
+51
+00:03:53,690 --> 00:03:57,440
+Tymczasem ratingi niższe od podwójnego B 
+
+52
+00:03:57,470 --> 00:04:02,700
+w dół są uznawane za ratingi
+o poziomie spekulacyjnym.
+
+53
+00:04:02,730 --> 00:04:05,520
+To oznacza, że dany emitent może mieć
+
+54
+00:04:05,550 --> 00:04:10,580
+mniejsze lub większe problemy
+ze spłatą swoich zobowiązań.
+
+55
+00:04:10,610 --> 00:04:16,280
+Obecnie, czyli w momencie nagrywania tego
+kursu, Polska ma rating inwestycyjny na
+
+56
+00:04:16,300 --> 00:04:21,780
+poziomie A2, tudzież A-, 
+z perspektywą stabilną.
+
+57
+00:04:21,800 --> 00:04:24,280
+To oznacza, że nasz kraj jest uznawany za
+
+58
+00:04:24,300 --> 00:04:28,740
+wiarygodny i zdolny do
+spłaty swoich obligacji.
+
+59
+00:04:28,770 --> 00:04:31,540
+Ratingi, czyli oceny zdolności kredytowej,
+
+60
+00:04:31,570 --> 00:04:34,900
+są przyznawane nie tylko
+poszczególnym państwom.
+
+61
+00:04:34,920 --> 00:04:39,260
+Są przyznawane czasem również
+samorządom czy też przedsiębiorstwom.
+
+62
+00:04:39,280 --> 00:04:41,320
+Zanim zainwestujemy w jakiekolwiek
+
+63
+00:04:41,340 --> 00:04:46,200
+obligacje, warto więc sprawdzić,
+jaki rating ma nasz emitent.
+
